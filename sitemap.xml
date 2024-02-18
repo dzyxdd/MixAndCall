@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://gis-xh.github.io/mkdocs-site/</loc>
+         <lastmod>2024-02-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gis-xh.github.io/mkdocs-site/call%E6%9C%AC/call%E6%9C%AC/</loc>
+         <lastmod>2024-02-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gis-xh.github.io/mkdocs-site/call%E6%9C%AC/call_set/call_set/</loc>
+         <lastmod>2024-02-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gis-xh.github.io/mkdocs-site/mix/mix/</loc>
+         <lastmod>2024-02-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>

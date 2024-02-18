@@ -1,0 +1,154 @@
+.table-style {
+  border-collapse: collapse;
+}
+
+.table-style th, .table-style td {
+  border: 1px solid black;
+  padding: 8px;
+}
+
+.table-style th {
+  background-color: #f2f2f2;
+}
+
+.table-style tr:nth-child(even) {
+  background-color: #ebebeb;
+}
+
+table th,
+table td {
+    height: 35px; /*统一每一行的默认高度*/
+    border: 1px solid #dedede; /*内部边框样式*/
+    padding: 0 10px; /*内边距*/
+    width: fit-content;
+}
+
+.display_none {
+    display: none;
+}
+
+.display_inline {
+    display: inline;
+}
+
+.white_space_pre{
+    white-space: pre;
+}
+
+.white_space_pre_line{
+    white-space: pre-line;
+}
+
+.mix_reference {
+    width: fit-content;
+    max-width: 50vw;
+}
+
+.mix_reference_span {
+    white-space: pre-line;
+    word-break: break-word;
+}
+
+.has_copy_button{
+    min-width: 10vw;
+    width: auto;
+}
+
+.copy_button {
+    color: #ffffff;
+    background-color: #9999AA;
+    width: 58px;
+    text-align: center;
+    padding: 2px 0;
+    z-index: 20;
+    border-radius: 5px;
+    cursor: pointer;
+    float: right;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05), 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.song_title {
+    text-align: center;
+    display: inline-block;
+    margin: 5px !important;
+    padding: 2px 10px;
+    min-width: 40px;
+    border-radius: 1000px;
+    background-color: rgba(83, 252, 181, 0.41);
+}
+
+.stage_attr {
+    font-size: smaller;
+    text-align: center;
+    display: inline-block !important;
+    margin: 5px !important;
+    padding: 2px 10px;
+    min-width: 40px;
+    border-radius: 1000px;
+    background-color: rgba(255, 243, 35, 0.6);
+}
+
+.stage_title {
+    display: inline-block !important;
+    font-size: 1.5em !important;
+    margin: 0 !important;
+}
+
+.stage_attr_label_list {
+    display: inline !important;
+    align-items: center;
+}
+
+div.example {
+    max-width: 25%;
+    display: inline-block;
+    white-space: nowrap;
+}
+
+li {
+    display: inline-block;
+}
+
+div.Thumbnail {
+    display: inline-flex;
+    flex-direction: row;
+    align-items: start;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+figure.call_pic {
+    height: 40vh;
+    border-style:double;
+    border-width: 3px;
+    margin: 0 1% 0 1%;
+}
+
+.md-typeset figcaption{
+    margin:0;
+}
+
+a.glightbox img {
+    height: 100%;
+    width: auto;
+    min-width: 10vw;
+}
+
+figure.call_pic p {
+    height: 100%;
+    width: auto;
+    margin: 0 0 0 0!important;
+}
+
+.call_pic_caption{
+    font-weight: bold;
+    font-style: normal!important;
+}
+
+.hr-shadow {
+    border: 0;
+    padding-top: 10px;
+    color: #bdbdde;
+    border-top: 1px solid rgba(0, 0, 0, .1);
+    box-shadow: inset 0 10px 10px -10px;
+}
