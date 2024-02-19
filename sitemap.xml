@@ -1,23 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://gis-xh.github.io/mkdocs-site/</loc>
-         <lastmod>2024-02-18</lastmod>
+         <loc>https://dzyxdd.io/MixAndCall/</loc>
+         <lastmod>2024-02-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://gis-xh.github.io/mkdocs-site/call%E6%9C%AC/call%E6%9C%AC/</loc>
-         <lastmod>2024-02-18</lastmod>
+         <loc>https://dzyxdd.io/MixAndCall/mix/mix/</loc>
+         <lastmod>2024-02-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://gis-xh.github.io/mkdocs-site/call%E6%9C%AC/call_set/call_set/</loc>
-         <lastmod>2024-02-18</lastmod>
+         <loc>https://dzyxdd.io/MixAndCall/music_lib/song_list/</loc>
+         <lastmod>2024-02-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://gis-xh.github.io/mkdocs-site/mix/mix/</loc>
-         <lastmod>2024-02-18</lastmod>
+         <loc>https://dzyxdd.io/MixAndCall/music_lib/music_call/auto-generated_md/7ab4728b693e1feb46e9ed6201cb9c64f7a05820fce958cb151e2eb9f5b377bb/</loc>
+         <lastmod>2024-02-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dzyxdd.io/MixAndCall/music_lib/music_call/auto-generated_md/9615eaaa28b94a4df0d752c7c00786ae901918beff43938ab8e343951e43ea7c/</loc>
+         <lastmod>2024-02-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
