@@ -43,7 +43,7 @@ jobs:
       - name: Mirror + trigger CI
         uses: SvanBoxel/gitlab-mirror-and-ci-action@master
         with:
-          args: "https://gitlab.com/<namespace>/<repository>"
+          args: "https://gitlab.com/dzydoom/MixAndCall"
         env:
           FOLLOW_TAGS: "false"
           FORCE_PUSH: "true"
