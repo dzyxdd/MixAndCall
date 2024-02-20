@@ -1,0 +1,47 @@
+site_name: MixAndCall
+site_url: https://dzyxdd.io/MixAndCall
+site_author: dzydoom
+site_description: Made with Material for MkDocs
+
+# [UI] 界面设置
+## [top]
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.path
+    - navigation.top
+    - navigation.instant
+
+markdown_extensions:
+  - tables
+  - pymdownx.details
+  - pymdownx.snippets
+  - pymdownx.blocks.html
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.extra
+
+plugins:
+  - search
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: slide
+      width: auto
+      height: auto
+      zoomable: true
+      draggable: true
+      skip_classes:
+        - custom-skip-class-name
+      auto_caption: false
+      caption_position: bottom
+      background: white
+      shadow: true
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/add_copy_button.js

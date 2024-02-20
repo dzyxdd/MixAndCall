@@ -1,0 +1,12 @@
+# {{ music_call.title }}
+{% for version in music_call.version_list %}
+{% set outer_loop = loop %}
+## {{ version.title }}
+<div class="Thumbnail">
+    {% for picture in version.pic_list %}<figure class="call_pic">
+        <p><a class="glightbox" href={{picture.href}} data-gallery="{{outer_loop.index0}}">
+            <img src="{{picture.href}}" alt="{{ picture.description }}" data-gallery="{{ outer_loop.index0 }}"></a></p>
+        <figcaption class="call_pic_caption">{{ picture.description }}</figcaption>
+    </figure>{% endfor %}
+</div>
+{% endfor %}

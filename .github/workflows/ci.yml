@@ -1,0 +1,41 @@
+name: ci
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+permissions:
+  contents: write
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: 3.9
+      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
+      - uses: actions/cache@v4
+        with:
+          key: mkdocs-material-${ env.cache_id }
+          path: .cache
+          restore-keys: |
+            mkdocs-material-
+      - run: chmod +x run_scripts.sh
+      - run: ./run_scripts.sh
+      - run: mkdocs gh-deploy --force
+
+      - name: Sync to Gitee
+        uses: wearerequired/git-mirror-action@master
+        env:
+          # 注意在 Settings->Secrets 配置 GITEE_RSA_PRIVATE_KEY
+          SSH_PRIVATE_KEY: ${{ secrets.GITEE_RSA_PRIVATE_KEY }}
+        with:
+          # 注意替换为你的 GitHub 源仓库地址
+          source-repo: git@github.com:dzyxdd/MixAndCall.git
+          # 注意替换为你的 Gitee 目标仓库地址
+          destination-repo: git@gitee.com:dzydoom/MixAndCall.git

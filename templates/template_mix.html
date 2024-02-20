@@ -1,0 +1,55 @@
+{% for mix in mix_list %}
+### {{ mix.title }}
+<table>
+    <tr>
+        {% for text in mix.text_list %}
+        <td>
+            {% if loop.index0 == 0 %}
+            <details open class="has_copy_button">
+                <summary>{{ text.lang }}
+                    <button class="copy_button display_inline">复制</button>
+                </summary>
+                <span class="white_space_pre">{{ text.text }}</span>
+                {% if text.notes %}
+                <div class="admonition info">
+                    <p class="admonition-title">备注</p>
+                    <p class="white_space_pre_line">{{ text.note }}</p>
+                </div>
+                {% endif %}
+            </details>
+            {% else %}
+            <details class="has_copy_button">
+                <summary>{{ text.lang }}
+                    <button class="copy_button display_none">复制</button>
+                </summary>
+                <span class="white_space_pre">{{ text.text }}</span>
+                {% if text.notes %}
+                <div class="admonition info">
+                    <p class="admonition-title">备注</p>
+                    <p class="white_space_pre_line">{{ text.notes }}</p>
+                </div>
+                {% endif %}
+
+            </details>
+            {% endif %}
+        </td>
+        {% endfor %}
+    </tr>
+    <tr>
+        {% if mix.notes or mix.link_list %}
+        <td colspan={{mix.text_list_size}}>
+            <div class="admonition info mix_reference">
+                <p class="admonition-title">参考</p>
+                <span class="mix_reference_span">{{ mix.notes }}</span>
+            </div>
+            <details class="mix_reference">
+                <summary>参考资料</summary>
+                {% for link in mix.link_list -%}
+                <span class="white_space_pre_wrap"><a href="{{ link.url }}" target="_blank">{{ link.title }}</a>{{'\n'}}</span>
+                {%- endfor %}
+            </details>
+        </td>
+        {% endif %}
+    </tr>
+</table>
+{% endfor %}

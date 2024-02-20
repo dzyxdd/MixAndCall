@@ -1,0 +1,13 @@
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+PythonUtils
+docs/mix/auto-generated_html
+docs/music_lib/auto-generated_html
+docs/music_lib/music_call/auto-generated_html
+docs/music_lib/music_call/auto-generated_md
