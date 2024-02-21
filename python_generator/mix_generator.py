@@ -4,7 +4,7 @@ import os
 from jinja2 import Template
 
 
-with open('../docs/mix/mix_list.json', 'r', encoding='utf-8') as f:
+with open('../json_files/mix_list.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 with open('../templates/template_mix.html', 'r', encoding='utf-8') as f:

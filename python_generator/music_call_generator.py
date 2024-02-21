@@ -4,7 +4,7 @@ import os
 from jinja2 import Template
 import Utils
 
-with open('../docs/music_lib/music_call/music_call.json', 'r', encoding='utf-8') as f:
+with open('../json_files/music_call.json', 'r', encoding='utf-8') as f:
     song_list = json.load(f)
 
 with open('../templates/template_music_call.html', 'r', encoding='utf-8') as f:

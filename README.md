@@ -10,7 +10,7 @@
 
 整个项目的大致工作流程如下：
 
-运行`python_generator`目录下的`xxx_generator.py`脚本读取`template`目录下的模板`html`文件和`doc`目录内的`json`文件，通过`jinja2`库的解析批量生成`html`和`markdown`文件并保存在`doc`目录下。然后再通过`MkDocs`完成网站构建。
+运行`python_generator`目录下的`xxx_generator.py`脚本读取`template`目录下的模板`html`文件和`json_files`目录内的`json`文件，通过`jinja2`库的解析批量生成`html`和`markdown`文件并保存在`doc`目录下。然后再通过`MkDocs`完成网站构建。
 
 ### 本地部署
 
@@ -24,18 +24,25 @@
 
 3. 使用 Mkdocs 命令构建网站。
 
-执行命令：
-```shell
-mkdocs serve
-```
+	执行命令：
+	```shell
+	mkdocs serve
+	```
 
-启动内建服务器，执行成功后，访问 http://127.0.0.1:8000/ 即可本地预览当前文档。
+	启动内建服务器，执行成功后，访问 http://127.0.0.1:8000/ 即可本地预览当前文档。
 
 ### 参与项目
 
-- 添加和修改数据（mix、曲库、call本等）或完善网站功能：提交PR
-- 仅添加和修改Json相关数据（mix、曲库等）：按照文档规范将数据转为json字符串，提交Issue或PR
+- 完善完善网站功能：提交PR
+- 添加、修改mix：
+  - 编辑`json_files/mix_list.json`，并提交PR
+  - （按照文档规范将数据转为json字符串后）提交Issue
 
+- 添加、修改call本： 在`docs/call_image`目录下添加、修改图片（最好新建一个以call本作者id为名的文件夹），编辑`json_files/music_call.json`，并提交PR- 
+
+- 添加、修改曲库信息：
+	- 按照需求编辑`json_files/stage_list.json`或`json_files/EP_and_album_list.json`或`json_files/single_list.json`，并提交PR
+    - （按照文档规范将数据转为json字符串后）提交Issue
 ## JSON规范
 
 ### music_call.json
@@ -61,11 +68,11 @@ mkdocs serve
         "pic_list": [
           {
             "description": "baf公演版--dzy",
-            "href": "../../call_image/dzydoom/速.png"
+            "href": "../../../../call_image/dzydoom/速.png"
           },
           {
             "description": "rb",
-            "href": "../../call_image/rainbow/速1.jpg"
+            "href": "../../../../call_image/rainbow/速1.jpg"
           }
         ]
       },
@@ -74,7 +81,7 @@ mkdocs serve
         "pic_list": [
           {
             "description": "xxx拉票--rb",
-            "href": "../../call_image/rainbow/速2.jpg"
+            "href": "../../../../call_image/rainbow/速2.jpg"
           }
         ]
       }
@@ -98,6 +105,7 @@ mkdocs serve
 	1. 非常驻的前座曲、安可曲等无需列出
 	2. 轮换曲目较少时可同时列出
 	3. 出现大量歌曲轮换时可单列为一项公演
+    4. 如出现曲目名称差异导致链接失败，请以Call本界面的曲目名称为准（如《初眠》与《初眠（Ring）》）
 
 以下是一个简单的示例：
 
@@ -133,11 +141,61 @@ mkdocs serve
 
 在这个示例中，公演"最后的钟声响起（K4）"是一个复刻公演，由SNH48 TEAM SII在2013年8月30日完成首演，并在2015年4月17日由SNH48 TEAM X完成复刻，公演共包含16首歌曲。
 
+### EP_and_album_list.json
+
+该 json 文件主体是一个JSON对象数组，每个JSON对象存储了一个EP或者专辑的相关信息，目前仅支持按首演时间排列，其结构如下所示：
+
+- `title` (字符串): EP/专辑名称。
+- `date` (字符串): 发布日期，格式为"YYYY/MM/DD"。
+- `description` (字符串数组): 关键词简述。
+- `song_title_list` (字符串数组): EP/专辑包含的曲目。如出现曲目名称差异导致链接失败，推荐以Call本界面的曲目名称为准。
+
+以下是一个简单的示例：
+
+```json
+[
+  {
+    "title": "无尽旋转",
+    "date": "2013/06/13",
+    "description": [
+      "SNH48 EP01"
+    ],
+    "song_title_list": [
+      "无尽旋转",
+      "激流之战",
+      "化作樱花树"
+    ]
+  }
+]
+```
+
+在这个示例中，EP"无尽旋转"是于2013年06月13日发行的首张发行的EP，包含三首曲目。
+
+### single_list.json
+
+该 json 文件主体是一个JSON对象数组，每个JSON对象存储了歌手/小组合发布的个人单曲：
+
+- `title` (字符串): 歌手/小组合的名称。
+- `song_title_list` (字符串数组): 发布的单曲列表。如出现曲目名称差异导致链接失败，推荐以Call本界面的曲目名称为准。
+
+以下是一个简单的示例：
+
+```json
+[
+  {
+    "title": "Color girls",
+    "song_title_list": [
+      "流动的希望",
+      "Colorful Days",
+      "Color Girls"
+    ]
+  }
+]
+```
+
+在这个示例中，Color girls发布了三首单曲。
+
 ### mix_list.json
-
-这个项目包含了一些歌曲的混音信息，存储在`mix_list.json`文件中。
-
-## 数据结构
 
 该 json 文件主体是一个JSON对象数组，每个JSON对象存储了一个MIX的相关信息，其结构如下所示：
 
@@ -145,7 +203,7 @@ mkdocs serve
 
 	例如：`英语mix [スタンダードmix | 英語mix]`
 
-- `text_list`(JSON对象): 每个JSON对象存储了该MIX的一种表达形式，其结构如下所示：
+- `text_list`(JSON对象): 每个JSON对象存储了该MIX的一种表达形式，(排在首位的默认展示，其他的默认隐藏）其结构如下所示：
   
   - `lang`(字符串): 该表达形式使用的文字的名称
   - `text`(字符串): 该表达形式下的文本

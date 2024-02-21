@@ -1,0 +1,912 @@
+[
+  {
+    "title": "无尽旋转",
+    "date": "2013/06/13",
+    "description": [
+      "SNH48 EP01"
+    ],
+    "song_title_list": [
+      "无尽旋转",
+      "激流之战",
+      "化作樱花树"
+    ]
+  },
+  {
+    "title": "飞翔入手",
+    "date": "2013/08/02",
+    "description": [
+      "SNH48 EP02"
+    ],
+    "song_title_list": [
+      "飞翔入手",
+      "马尾与发圈",
+      "石头剪刀布"
+    ]
+  },
+  {
+    "title": "爱的幸运曲奇",
+    "date": "2013/11/25",
+    "description": [
+      "SNH48 EP03"
+    ],
+    "song_title_list": [
+      "爱的幸运曲奇",
+      "浪漫圣诞夜",
+      "借口",
+      "开拓者",
+      "生命之风"
+    ]
+  },
+  {
+    "title": "心电感应",
+    "date": "2014/03/12",
+    "description": [
+      "SNH48 EP04"
+    ],
+    "song_title_list": [
+      "心电感应",
+      "神魂颠倒",
+      "爱的意义",
+      "日升日落",
+      "黑白格子裙"
+    ]
+  },
+  {
+    "title": "一心向前",
+    "date": "2014/05/10",
+    "description": [
+      "总选专辑"
+    ],
+    "song_title_list": [
+      "一心向前",
+      "遥远的彼岸",
+      "樱花书签",
+      "生命之风",
+      "剧场女神",
+      "无尽旋转",
+      "开拓者",
+      "飞翔入手（重填词）",
+      "激流之战（重填词）",
+      "马尾与发圈（重填词）"
+    ]
+  },
+  {
+    "title": "呜吒（UZA）",
+    "date": "2014/10/12",
+    "description": [
+      "SNH48 EP05"
+    ],
+    "song_title_list": [
+      "呜吒（UZA）",
+      "悬铃木",
+      "第一只兔子",
+      "错过奇迹",
+      "夕阳下的约定"
+    ]
+  },
+  {
+    "title": "青春的约定",
+    "date": "2015/01/15",
+    "description": [
+      "SNH48 EP06"
+    ],
+    "song_title_list": [
+      "青春的约定",
+      "告白趁现在",
+      "万有引力",
+      "因为喜欢你",
+      "梦之河"
+    ]
+  },
+  {
+    "title": "雨季之后",
+    "date": "2015/03/28",
+    "description": [
+      "SNH48 EP07"
+    ],
+    "song_title_list": [
+      "雨季之后",
+      "爱情养成日记",
+      "幸福的压力",
+      "悬铃木",
+      "狼与自尊"
+    ]
+  },
+  {
+    "title": "盛夏好声音",
+    "date": "2015/05/15",
+    "description": [
+      "SNH48 EP08"
+    ],
+    "song_title_list": [
+      "盛夏好声音",
+      "自我主张",
+      "亲吻进行式",
+      "眼神加速度",
+      "清纯哲学"
+    ]
+  },
+  {
+    "title": "苦与甜",
+    "date": "2015/09/29",
+    "description": [
+      "塞纳河组合"
+    ],
+    "song_title_list": [
+      "青春的花瓣",
+      "虫之诗",
+      "苦与甜"
+    ]
+  },
+  {
+    "title": "万圣节之夜",
+    "date": "2015/10/12",
+    "description": [
+      "SNH48 EP09"
+    ],
+    "song_title_list": [
+      "万圣节之夜",
+      "夏日再会",
+      "青春的花瓣",
+      "初恋蝴蝶",
+      "夏日真心话",
+      "蜜蜂女孩"
+    ]
+  },
+  {
+    "title": "新年的钟声",
+    "date": "2015/12/28",
+    "description": [
+      "SNH48 EP10"
+    ],
+    "song_title_list": [
+      "新年的钟声",
+      "绿光",
+      "面包与奶油",
+      "Du Du Baby",
+      "奔跑的少女",
+      "给你"
+    ]
+  },
+  {
+    "title": "源动力",
+    "date": "2016/03/31",
+    "description": [
+      "SNH48 EP11"
+    ],
+    "song_title_list": [
+      "源动力",
+      "心的旅程",
+      "正义之手",
+      "少女进化论",
+      "我想对你说",
+      "妈咪妈咪轰"
+    ]
+  },
+  {
+    "title": "梦想岛",
+    "date": "2016/05/20",
+    "description": [
+      "SNH48 EP12"
+    ],
+    "song_title_list": [
+      "梦想岛",
+      "LaLaLa",
+      "专属派对",
+      "夏日悸动",
+      "相遇的季节",
+      "恋爱味道"
+    ]
+  },
+  {
+    "title": "元气觉醒",
+    "date": "2016/09/06",
+    "description": [
+      "BEJ48 EP01"
+    ],
+    "song_title_list": [
+      "元气觉醒",
+      "银河派对",
+      "咪你天使",
+      "青春肩并肩",
+      "Hello！Mr.未来"
+    ]
+  },
+  {
+    "title": "你所不知道的我",
+    "date": "2016/09/19",
+    "description": [
+      "GNZ48 EP01"
+    ],
+    "song_title_list": [
+      "你所不知道的我",
+      "LOVE",
+      "近未来",
+      "做自己的主宰",
+      "这样的我"
+    ]
+  },
+  {
+    "title": "公主披风A版",
+    "date": "2016/10/12",
+    "description": [
+      "SNH48 EP13"
+    ],
+    "song_title_list": [
+      "公主披风",
+      "浪漫关系",
+      "哎哟爱哟",
+      "梦想的旗帜",
+      "非你不可",
+      "爱的歌颂",
+      "闪烁的梦"
+    ]
+  },
+  {
+    "title": "浪漫关系B版",
+    "date": "2016/10/12",
+    "description": [
+      "SNH48 EP13"
+    ],
+    "song_title_list": [
+      "公主披风",
+      "浪漫关系",
+      "哎哟爱哟",
+      "48个秘密",
+      "Do it",
+      "Brand New Love"
+    ]
+  },
+  {
+    "title": "新年这一刻",
+    "date": "2016/12/20",
+    "description": [
+      "SNH48 EP14"
+    ],
+    "song_title_list": [
+      "新年这一刻",
+      "Burning Up",
+      "Brave Heart",
+      "倒转魔法师",
+      "关于甜蜜的愿望",
+      "钟声过后是乐园"
+    ]
+  },
+  {
+    "title": "微笑的向日葵",
+    "date": "2017/01/06",
+    "description": [
+      "BEJ48 EP02"
+    ],
+    "song_title_list": [
+      "微笑的向日葵",
+      "爱似Fantasy",
+      "银白色旋律",
+      "冬季恋",
+      "星空下约定"
+    ]
+  },
+  {
+    "title": "BOOM!BOOM!BOOM!",
+    "date": "2017/01/16",
+    "description": [
+      "GNZ48 EP02"
+    ],
+    "song_title_list": [
+      "新年好",
+      "拆封未来",
+      "青春不败",
+      "梦飞船",
+      "回家"
+    ]
+  },
+  {
+    "title": "彼此的未来",
+    "date": "2017/03/17",
+    "description": [
+      "SNH48 EP15"
+    ],
+    "song_title_list": [
+      "彼此的未来",
+      "天使与恶魔",
+      "倾听我的爱",
+      "美丽世界",
+      "Run for the dream",
+      "致每个你"
+    ]
+  },
+  {
+    "title": "宣言",
+    "date": "2017/04/01",
+    "description": [
+      "BEJ48 EP03"
+    ],
+    "song_title_list": [
+      "宣言",
+      "阳光协奏曲",
+      "爱心储蓄卡",
+      "小幸运星",
+      "荣耀勋章"
+    ]
+  },
+  {
+    "title": "第七感7SENSES",
+    "date": "2017/04/07",
+    "description": [
+      "7Senses EP01"
+    ],
+    "song_title_list": [
+      "7Senses（第七感）",
+      "Girl Crush（觉醒）",
+      "Bee With U（在你身边）",
+      "Moonlight（月光）",
+      "Heart Beat（心跳）"
+    ]
+  },
+  {
+    "title": "I.F",
+    "date": "2017/04/13",
+    "description": [
+      "GNZ48 EP03"
+    ],
+    "song_title_list": [
+      "蒲公英的脚印",
+      "Miss Camellia",
+      "向日葵约定",
+      "粉红白玫瑰",
+      "紫荆"
+    ]
+  },
+  {
+    "title": "夏日柠檬船A版",
+    "date": "2017/05/19",
+    "description": [
+      "SNH48 EP16"
+    ],
+    "song_title_list": [
+      "夏日柠檬船",
+      "第48区",
+      "限定季",
+      "遥远的梦",
+      "且听风吟",
+      "夏之色"
+    ]
+  },
+  {
+    "title": "夏日柠檬船B版",
+    "date": "2017/05/19",
+    "description": [
+      "SNH48 EP16"
+    ],
+    "song_title_list": [
+      "夏日柠檬船",
+      "选择我的你",
+      "非常Ice Cream",
+      "心的拼图",
+      "闪靓靓",
+      "夏日協奏曲",
+      "Say You Love Me",
+      "粉色城堡",
+      "梦想坐标"
+    ]
+  },
+  {
+    "title": "前行的力量",
+    "date": "2017/09/15",
+    "description": [
+      "SHY48 EP01"
+    ],
+    "song_title_list": [
+      "前行的力量",
+      "华丽探险",
+      "SHY",
+      "甜甜圈",
+      "We Are The ONE"
+    ]
+  },
+  {
+    "title": "SAY NO",
+    "date": "2017/09/23",
+    "description": [
+      "GNZ48 EP04"
+    ],
+    "song_title_list": [
+      "SAY NO",
+      "I Know",
+      "就是现在",
+      "未知方向",
+      "蠢蠢"
+    ]
+  },
+  {
+    "title": "百变惊叹号",
+    "date": "2017/09/30",
+    "description": [
+      "BEJ48 EP04"
+    ],
+    "song_title_list": [
+      "百变惊叹号",
+      "不可替代",
+      "你是我",
+      "礼物",
+      "旅途"
+    ]
+  },
+  {
+    "title": "那不勒斯的黎明",
+    "date": "2017/10/18",
+    "description": [
+      "SNH48 EP17"
+    ],
+    "song_title_list": [
+      "那不勒斯的黎明",
+      "绚丽时代",
+      "记忆中的你我",
+      "戎装信仰",
+      "我心翱翔"
+    ]
+  },
+  {
+    "title": "Chapter：Blooming（绽放）",
+    "date": "2017/11/20",
+    "description": [
+      "7Senses EP02"
+    ],
+    "song_title_list": [
+      "Like A Diamond（闪耀）",
+      "KiKi’s Secret（秘密）",
+      "I Wanna Play",
+      "Lollipop（棒棒糖）",
+      "我只在乎你"
+    ]
+  },
+  {
+    "title": "甜蜜盛典",
+    "date": "2017/12/24",
+    "description": [
+      "SNH48 EP18",
+      "BEJ48 EP05",
+      "GNZ48 EP05",
+      "SHY48 EP02",
+      "CKG48 EP01"
+    ],
+    "song_title_list": [
+      "甜蜜盛典",
+      "好运来",
+      "小团圆",
+      "最初的祝愿",
+      "不见不散",
+      "祝你新年快乐",
+      "新的帷幕"
+    ]
+  },
+  {
+    "title": "未来的乐章",
+    "date": "2018/03/26",
+    "description": [
+      "SNH48 EP19《未来的乐章》",
+      "GNZ48 EP06《抱紧处理》",
+      "BEJ48 EP06《Eyes On Me》",
+      "SHY48 EP03《恋爱密语》",
+      "CKG48 EP02《奔跑的未来》"
+    ],
+    "song_title_list": [
+      "未来的乐章",
+      "Eyes On Me",
+      "抱紧处理",
+      "恋爱密语",
+      "奔跑的未来",
+      "我的世界还有你"
+    ]
+  },
+  {
+    "title": "森林法则",
+    "date": "2018/05/17",
+    "description": [
+      "SNH48 EP20"
+    ],
+    "song_title_list": [
+      "森林法则",
+      "秘密花园",
+      "Sunrise",
+      "跳起来",
+      "决不言败",
+      "彩虹下的足迹",
+      "游乐园少女记"
+    ]
+  },
+  {
+    "title": "MAMI",
+    "date": "2018/09/07",
+    "description": [
+      "BLUEV EP01"
+    ],
+    "song_title_list": [
+      "Be My Love（请回答）",
+      "MAMI（妈咪）",
+      "MY KEY（独立）",
+      "非你不可"
+    ]
+  },
+  {
+    "title": "笔下之城",
+    "date": "2018/09/07",
+    "description": [
+      "HO2 EP01"
+    ],
+    "song_title_list": [
+      "原来（SHANGHAI）",
+      "笔下之城（DREAM）",
+      "给注定不能在一起的我们（YESTERDAY）",
+      "月光下"
+    ]
+  },
+  {
+    "title": "魔女的诗篇",
+    "date": "2018/10/10",
+    "description": [
+      "SNH48 EP21"
+    ],
+    "song_title_list": [
+      "魔女的诗篇",
+      "终无艳",
+      "天空信",
+      "Twinkle Twinkle"
+    ]
+  },
+  {
+    "title": "天鹅（SWAN）",
+    "date": "2018/12/17",
+    "description": [
+      "7Senses EP03"
+    ],
+    "song_title_list": [
+      "天鹅（SWAN）",
+      "七点整（7 O'CLOCK）",
+      "唐人街（CHINA TOWN）",
+      "偶买噶（OMG）",
+      "第七感（7SENSES Remix）"
+    ]
+  },
+  {
+    "title": "此刻到永远",
+    "date": "2018/12/20",
+    "description": [
+      "SNH48 EP22",
+      "GNZ48 EP07",
+      "BEJ48 EP07"
+    ],
+    "song_title_list": [
+      "此刻到永远",
+      "说声新年好",
+      "新的帷幕",
+      "新年这一刻",
+      "Brave Heart",
+      "微笑的向日葵",
+      "新年好"
+    ]
+  },
+  {
+    "title": "我们的旅程",
+    "date": "2019/03/20",
+    "description": [
+      "SNH48 EP23"
+    ],
+    "song_title_list": [
+      "心的旅程",
+      "就差一点点",
+      "笨",
+      "Spy",
+      "Zen",
+      "钢铁之翼",
+      "9 To 9",
+      "人间规则",
+      "巧克力之吻",
+      "深海之声"
+    ]
+  },
+  {
+    "title": "晨曦下的我们",
+    "date": "2019/03/29",
+    "description": [
+      "BEJ48 EP08"
+    ],
+    "song_title_list": [
+      "晨曦下的我们",
+      "就差一点点",
+      "笨",
+      "Spy",
+      "Zen",
+      "钢铁之翼",
+      "9 To 9",
+      "人间规则",
+      "巧克力之吻",
+      "深海之声"
+    ]
+  },
+  {
+    "title": "HERO",
+    "date": "2019/03/29",
+    "description": [
+      "GNZ48 EP08"
+    ],
+    "song_title_list": [
+      "HERO",
+      "就差一点点",
+      "笨",
+      "Spy",
+      "Zen",
+      "钢铁之翼",
+      "9 To 9",
+      "人间规则",
+      "巧克力之吻",
+      "深海之声"
+    ]
+  },
+  {
+    "title": "那年夏天的梦",
+    "date": "2019/05/13",
+    "description": [
+      "SNH48 EP24"
+    ],
+    "song_title_list": [
+      "那年夏天的梦",
+      "夏之序",
+      "听见爱的旋律",
+      "别怕"
+    ]
+  },
+  {
+    "title": "DEMOON",
+    "date": "2019/09/12",
+    "description": [
+      "Demoon EP01"
+    ],
+    "song_title_list": [
+      "狐狸",
+      "我就是我",
+      "触电"
+    ]
+  },
+  {
+    "title": "时间的歌",
+    "date": "2019/09/21",
+    "description": [
+      "SNH48 EP25"
+    ],
+    "song_title_list": [
+      "时间的歌",
+      "勇不勇敢",
+      "有你"
+    ]
+  },
+  {
+    "title": "NEW PLAN",
+    "date": "2019/11/04",
+    "description": [
+      "7Senses EP04"
+    ],
+    "song_title_list": [
+      "New Plan",
+      "Who Is Your Girl"
+    ]
+  },
+  {
+    "title": "青春之翼",
+    "date": "2019/12/28",
+    "description": [
+      "SNH48 EP26"
+    ],
+    "song_title_list": [
+      "青春之翼",
+      "心愿"
+    ]
+  },
+  {
+    "title": "天晴了",
+    "date": "2020/06/13",
+    "description": [
+      "SNH48 EP27"
+    ],
+    "song_title_list": [
+      "天晴了",
+      "美丽世界",
+      "致每个你"
+    ]
+  },
+  {
+    "title": "表演季",
+    "date": "2020/07/16",
+    "description": [
+      "CKG48 EP01"
+    ],
+    "song_title_list": [
+      "表演季",
+      "天微亮"
+    ]
+  },
+  {
+    "title": "THE SHADOWS",
+    "date": "2020/07/29",
+    "description": [
+      "7Senses EP05"
+    ],
+    "song_title_list": [
+      "U Know",
+      "Sandglass",
+      "The Shadows",
+      "Who Is Your Girl（acoustic）",
+      "We Are（Special）"
+    ]
+  },
+  {
+    "title": "TAKE ME",
+    "date": "2020/09/16",
+    "description": [
+      "一期生毕业专辑"
+    ],
+    "song_title_list": [
+      "TAKE ME（爱）",
+      "I CAN FLY（飞翔）",
+      "天黑日记",
+      "SOMEWHERE（约定之地）",
+      "我的世界还有你",
+      "晨光（日语版）",
+      "梦与星光的海上",
+      "蜉蝣",
+      "人间规则",
+      "废墟纪元",
+      "天鹅",
+      "正负"
+    ]
+  },
+  {
+    "title": "F.L.Y成长三部曲",
+    "date": "2020/10/19",
+    "description": [
+      "SNH48 EP28"
+    ],
+    "song_title_list": [
+      "别来无恙（YOUNG）",
+      "未来会来（LIGHT）",
+      "不问将来（FUTURE）"
+    ]
+  },
+  {
+    "title": "怦然心动",
+    "date": "2021/05/26",
+    "description": [
+      "SNH48 EP29"
+    ],
+    "song_title_list": [
+      "怦然心动",
+      "笑忘歌"
+    ]
+  },
+  {
+    "title": "花戎",
+    "date": "2021/10/13",
+    "description": [
+      "SNH48 EP30"
+    ],
+    "song_title_list": [
+      "花戎",
+      "虚构者",
+      "漫画的最后一格"
+    ]
+  },
+  {
+    "title": "绝无仅有的感动",
+    "date": "2022/03/01",
+    "description": [
+      "十周年专辑"
+    ],
+    "song_title_list": [
+      "绝无仅有",
+      "以十洲的名义",
+      "我的舞台",
+      "青春不散",
+      "如果有你在",
+      "梦与星光的海上",
+      "Gravity",
+      "不放手",
+      "Zen",
+      "晨曦下的我们",
+      "Remenber You"
+    ]
+  },
+  {
+    "title": "海砂",
+    "date": "2022/06/25",
+    "description": [
+      "SNH48 EP31"
+    ],
+    "song_title_list": [
+      "海砂",
+      "支流"
+    ]
+  },
+  {
+    "title": "7定律",
+    "date": "2022/06/29",
+    "description": [
+      "八选神七专辑"
+    ],
+    "song_title_list": [
+      "等等（One Of Them）",
+      "Make it better",
+      "水蒸气 （Paradise）",
+      "Whisper（耳语者）",
+      "My Way（偏执）",
+      "盛装（Black Out）",
+      "Super Duper",
+      "甜蜜盛典2022"
+    ]
+  },
+  {
+    "title": "丝路（Silk Road）",
+    "date": "2022/10/21",
+    "description": [
+      "SNH48 EP32"
+    ],
+    "song_title_list": [
+      "丝路",
+      "白昼街灯",
+      "家"
+    ]
+  },
+  {
+    "title": "Crazy For You",
+    "date": "2022/11/21",
+    "description": [
+      "7Senses EP06"
+    ],
+    "song_title_list": [
+      "CRAZY FOR YOU",
+      "安可 (Encore)",
+      "AfterParty"
+    ]
+  },
+  {
+    "title": "INTO THE WORLD（重逢的世界）",
+    "date": "2023/02/14",
+    "description": [
+      "星梦剧院十周年专辑"
+    ],
+    "song_title_list": [
+      "重逢的世界",
+      "幻镜",
+      "远方的海",
+      "少女的巴别塔",
+      "命运的帆",
+      "Winkend",
+      "不完美",
+      "2024年2月29日",
+      "荣耀勋章",
+      "For The Future"
+    ]
+  },
+  {
+    "title": "爱的回响（Lovely Echo）",
+    "date": "2023/05/20",
+    "description": [
+      "SNH48 EP33"
+    ],
+    "song_title_list": [
+      "爱的回响",
+      "Call My Name"
+    ]
+  },
+  {
+    "title": "Number One（悖论体）",
+    "date": "2023/10/14",
+    "description": [
+      "SNH48 EP34"
+    ],
+    "song_title_list": [
+      "Number One",
+      "Day and Night",
+      "无风岛屿"
+    ]
+  }
+]

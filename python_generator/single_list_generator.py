@@ -5,10 +5,10 @@ from jinja2 import Template
 import Utils
 
 # 读取JSON数据
-with open('../json_files/stage_list.json', 'r', encoding='utf-8') as f:
+with open('../json_files/single_list.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
-with open('../templates/template_stage_list.html', 'r', encoding='utf-8') as f:
+with open('../templates/template_single_list.html', 'r', encoding='utf-8') as f:
     template_string = f.read()
 
 for item in data:
@@ -24,5 +24,5 @@ template = Template(template_string)
 rendered_html = template.render(song_list=data)
 if not os.path.exists('../docs/music_lib/auto-generated_html'):
     os.makedirs('../docs/music_lib/auto-generated_html')
-with open('../docs/music_lib/auto-generated_html/stage_list.html', 'w', encoding='utf-8') as f:
+with open('../docs/music_lib/auto-generated_html/single_list.html', 'w', encoding='utf-8') as f:
     f.write(rendered_html)
