@@ -38,16 +38,20 @@
     <tr>
         {% if mix.notes or mix.link_list %}
         <td colspan={{mix.text_list_size}}>
+            {% if mix.notes %}
             <div class="admonition info mix_reference">
                 <p class="admonition-title">参考</p>
                 <span class="mix_reference_span">{{ mix.notes }}</span>
             </div>
+            {% endif %}
+            {% if mix.link_list %}
             <details class="mix_reference">
                 <summary>参考资料</summary>
                 {% for link in mix.link_list -%}
                 <span class="white_space_pre_wrap"><a href="{{ link.url }}" target="_blank">{{ link.title }}</a>{{'\n'}}</span>
                 {%- endfor %}
             </details>
+            {% endif %}
         </td>
         {% endif %}
     </tr>
