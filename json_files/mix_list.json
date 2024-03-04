@@ -202,7 +202,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "A~rasutoikuzo\n_Chape Ape Kara Kina\n_Rara Tusuke Uisupe\nKesui Suisuupa",
+        "text": "A~rasutoikuzo\n_Chape Ape Kara Kina\n_Rara Tusuke Wisupe\nKesui Suisuupa",
         "notes": ""
       },
       {
@@ -238,7 +238,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "ChapeChapeChapeChapeChapeChapeChapeChape\nChapeChapeChapeChapeCha-pe-A-pe\n_Kara Kina Rara Tusuke\n_Uisupe Kesui Suisuupa",
+        "text": "ChapeChapeChapeChapeChapeChapeChapeChape\nChapeChapeChapeChapeCha-pe-A-pe\n_Kara Kina Rara Tusuke\n_Wisupe Kesui Suisuupa",
         "notes": ""
       },
       {
@@ -256,7 +256,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "_Chape Ape Kara Kina\n_Rara Tusuke Uisupe\nKesui Suisuupa\nKamui Horokapu A-hoiyo",
+        "text": "_Chape Ape Kara Kina\n_Rara Tusuke Wisupe\nKesui Suisuupa\nKamui Horokapu A-hoiyo",
         "notes": ""
       },
       {
@@ -274,7 +274,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "_Chape Ape Kara Kina\n_Rara Tusuke Uisupe\nKesui Suisuupa\nKamui Popunika A-hoiyo",
+        "text": "_Chape Ape Kara Kina\n_Rara Tusuke Wisupe\nKesui Suisuupa\nKamui Popunika A-hoiyo",
         "notes": ""
       },
       {
@@ -296,17 +296,12 @@
         "notes": ""
       },
       {
-        "lang": "罗马字",
-        "text": "P-PPP-P Umenzoova\n_Fuu Fuo Renzao Shien'uei\n_Hainyi Jendon Hoanshien\nFei Chuuchi",
-        "notes": ""
-      },
-      {
         "lang": "日语",
         "text": "ウメンゾーヴァー(始動)\nラオフー フオ レンザオ シェンウェイ\nハイニー ジェンドン ホアンシェン\nフェイ チューチ",
         "notes": ""
       }
     ],
-    "text_list_size": 3,
+    "text_list_size": 2,
     "notes": "",
     "link_list": []
   },
@@ -790,7 +785,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "P-PPP-P Sha-hakkou\n_Rikotta Mottsuarera Rokkufo-ru buri\n_Tarejjio Kamanbe-ru Cheda\nParumezan Gorugonzo-ramasukarupo-ne",
+        "text": "P-PPP-P Sha-hakkou\n_Rikotta Mottsarera Rokkufo-ru buri\n_Tarejjio Kamanbe-ru Cheda\nParumezan Gorugonzo-ramasukarupo-ne",
         "notes": ""
       },
       {
@@ -880,7 +875,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "_Shiny Fire Thunder Water\n_Nature Poison Saxmer\n\n_Shaini Faiya Sanda Uo-ta\n_Neicha Poizun Sakuma",
+        "text": "_Shiny Fire Thunder Water\n_Nature Poison Saxmer\n\n_Shaini Faiya Sanda Wo-ta\n_Neicha Poizun Sakuma",
         "notes": ""
       },
       {
@@ -1242,7 +1237,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "ChapeApeKaraKinaRaraTusukeUisupe\nChapeApeKaraKinaRaraTusukeMyo-hontusuke\nChapeApeKaraKinaMyo-hontusuke\nChapeApeKaraKinaFai-bo-Wai-pa",
+        "text": "ChapeApeKaraKinaRaraTusukeWisupe\nChapeApeKaraKinaRaraTusukeMyo-hontusuke\nChapeApeKaraKinaMyo-hontusuke\nChapeApeKaraKinaFai-bo-Wai-pa",
         "notes": ""
       },
       {
@@ -1260,7 +1255,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "ChapeApeKaraKinaRaraTusukeUisupe\nKesuiSuisuupa\nChapeApeKaraKinaRaraTusukeMyo-hontusuke（拖长）",
+        "text": "ChapeApeKaraKinaRaraTusukeWisupe\nKesuiSuisuupa\nChapeApeKaraKinaRaraTusukeMyo-hontusuke（拖长）",
         "notes": ""
       },
       {
@@ -2203,7 +2198,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "Wi-supeKesui ChapeChapeChape\nChapeApeKaraKinaKaraApeChape\nJyokyoTobiJyokyo ToraToraTora\nToraHiJinzouSen'iAmaShindouKa-sen\nTo-bi-Jyo-kyo",
+        "text": "WisupeKesui ChapeChapeChape\nChapeApeKaraKinaKaraApeChape\nJyokyoTobiJyokyo ToraToraTora\nToraHiJinzouSen'iAmaShindouKa-sen\nTo-bi-Jyo-kyo",
         "notes": ""
       },
       {
@@ -2221,7 +2216,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "KasenShindouAmaSen'iJinzouHiTora\nToraToraTora JyokyoTobiJyokyo\nChapeApeKaraKinaKaraApeChape\nChapeChapeChape Ke-suiWisupe",
+        "text": "KasenShindouAmaSen'iJinzouHiTora\nToraToraTora JyokyoTobiJyokyo\nChapeApeKaraKinaKaraApeChape\nChapeChapeChape KesuiWisupe",
         "notes": ""
       },
       {
@@ -2239,7 +2234,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "Wi-supeKesui ChapeChapeChape\nChapeApeKaraKinaKaraApeChape\nJyokyoTobiJyokyo ToraToraTora\nToraHiJinzouSen'iAmaShindouKasenTobi\nJyokyoTobiKasenShindouAmaSen'iJinzouHi\nToraToraTora JyokyoTobiJyokyo\nChapeApeKaraKinaKaraApeChape\nChapeChapeChape Ke-suiWisupe",
+        "text": "WisupeKesui ChapeChapeChape\nChapeApeKaraKinaKaraApeChape\nJyokyoTobiJyokyo ToraToraTora\nToraHiJinzouSen'iAmaShindouKasenTobi\nJyokyoTobiKasenShindouAmaSen'iJinzouHi\nToraToraTora JyokyoTobiJyokyo\nChapeApeKaraKinaKaraApeChape\nChapeChapeChape KesuiWisupe",
         "notes": ""
       },
       {
@@ -2257,7 +2252,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "Wi-supeKesui ChapeChapeChape\nChapeApeKaraKinaKaraApeChape\nJyokyoTobiJyokyo ToraToraTora\nToraHiJinzouSen'iAmaShindouKasen\nKasenShindouAmaSen'iJinzouHiTora\nToraToraTora JyokyoTobiJyokyo\nChapeApeKaraKinaKaraApeChape\nChapeChapeChape Ke-suiWisupe",
+        "text": "WisupeKesui ChapeChapeChape\nChapeApeKaraKinaKaraApeChape\nJyokyoTobiJyokyo ToraToraTora\nToraHiJinzouSen'iAmaShindouKasen\nKasenShindouAmaSen'iJinzouHiTora\nToraToraTora JyokyoTobiJyokyo\nChapeApeKaraKinaKaraApeChape\nChapeChapeChape KesuiWisupe",
         "notes": ""
       },
       {
@@ -2275,7 +2270,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "Wi-supeKesui ChapeChapeChape\nChapeApeKaraKinaKaraApeChape\nJyokyoTobiJyokyo ToraToraTora\nToraHiJinzouSen'iAmaShindouKa-sen\n_Jyokyo Tobi Jyokyo Tobi\nKasenShindouAmaSen'iJinzouHiTora",
+        "text": "WisupeKesui ChapeChapeChape\nChapeApeKaraKinaKaraApeChape\nJyokyoTobiJyokyo ToraToraTora\nToraHiJinzouSen'iAmaShindouKa-sen\n_Jyokyo Tobi Jyokyo Tobi\nKasenShindouAmaSen'iJinzouHiTora",
         "notes": ""
       },
       {
@@ -2293,7 +2288,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "Wi-supeKesui ChapeChapeChape\nChapeApeKaraKinaKaraApeChape\nJyokyoTobiJyokyo ToraToraTora\nToraHiJinzouSen'iAmaShindouKasenTobi\nJyokyoTobiKasenShindouAmaSen'iJinzouHi\nJinzouHi AmaSen'i KasenTobiJyokyo\n_Jyokyo Tobi Jyokyo Tobi\nKasenShindouAmaSen'iJinzouHiTora",
+        "text": "WisupeKesui ChapeChapeChape\nChapeApeKaraKinaKaraApeChape\nJyokyoTobiJyokyo ToraToraTora\nToraHiJinzouSen'iAmaShindouKasenTobi\nJyokyoTobiKasenShindouAmaSen'iJinzouHi\nJinzouHi AmaSen'i KasenTobiJyokyo\n_Jyokyo Tobi Jyokyo Tobi\nKasenShindouAmaSen'iJinzouHiTora",
         "notes": ""
       },
       {
@@ -2311,7 +2306,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "Wi-supeKesui ChapeChapeChape\nChapeApeKaraKinaKaraApeChape\nJyokyoTobiJyokyo ToraToraTora\nToraHiJinzouSen'iAmaShindouKa-sen\nTobi Jyokyo Nou Sei\nShoku Son Miyamotomusashi",
+        "text": "WisupeKesui ChapeChapeChape\nChapeApeKaraKinaKaraApeChape\nJyokyoTobiJyokyo ToraToraTora\nToraHiJinzouSen'iAmaShindouKa-sen\nTobi Jyokyo Nou Sei\nShoku Son Miyamotomusashi",
         "notes": ""
       },
       {
@@ -2329,7 +2324,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "Wi-supePanPan ChoumonPan\n〇〇〇kawaii ItouChape\nChouTobiJyokyo MatsuToraTora\n〇〇〇AmaShindouKasenTobiJyokyo\nTanbono Yousuga P Okashii！",
+        "text": "WisupePanPan ChoumonPan\n〇〇〇kawaii ItouChape\nChouTobiJyokyo MatsuToraTora\n〇〇〇AmaShindouKasenTobiJyokyo\nTanbono Yousuga P Okashii！",
         "notes": ""
       },
       {
@@ -2511,7 +2506,7 @@
       },
       {
         "lang": "日语",
-        "text": "言いたいことがレボリューション（Revolution）\nやっぱり君はファンタスティック（Fantastic）\nWant you Want you やっぱ好き\nやっと見つけたデスティニー（Destiny）\n俺が生まれたカンボジア（Cambodia）\nそれはお前とパラグアイ（Paraguay）\n俺と一緒に人生アラスカ（Alaska）\n世界で一番マダガスカル（Madagascar）",
+        "text": "言いたいことがレボリューション（Revolution）\nやっぱり君はファンタスティック（Fantastic）\nウォンチュー ウォンチュー やっぱ好き（want you）\nやっと見つけたデスティニー（Destiny）\n俺が生まれたカンボジア（Cambodia）\nそれはお前とパラグアイ（Paraguay）\n俺と一緒に人生アラスカ（Alaska）\n世界で一番マダガスカル（Madagascar）",
         "notes": ""
       }
     ],
@@ -2608,14 +2603,9 @@
         "lang": "罗马字",
         "text": "有一点儿 心里话 想跟你唠唠\n〇〇〇 我爱你 爱得走不动道儿\n贼拉地 稀罕你 真没跟你闹\n翻大山 过大海 就想把你抱\n有了你 生命里 别滴都不要\n没了你 我天天 成宿睡不着\n我有病 你就是 我最好滴药\n全世界 最爱你 直到不直到\n直！到！不！直！到！",
         "notes": ""
-      },
-      {
-        "lang": "日语",
-        "text": "",
-        "notes": ""
       }
     ],
-    "text_list_size": 2,
+    "text_list_size": 1,
     "notes": "",
     "link_list": []
   },
@@ -2914,7 +2904,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "JinzouFaiya FaiboWaipa\nTaiga Taiga TatatataTaiga\nChapeApeKaraKina ChapeApeKaraKina\nMyohontousuke P Waipa\nWi-supe Kesui ChapeChapeChape\nChapeApeKaraKinaKaraApeChape\nJyokyoTobiJyokyo ToraToraTora\nKasenTobiKasenTobiKasenTobiWaipa",
+        "text": "JinzouFaiya FaiboWaipa\nTaiga Taiga TatatataTaiga\nChapeApeKaraKina ChapeApeKaraKina\nMyohontousuke P Waipa\nWisupe Kesui ChapeChapeChape\nChapeApeKaraKinaKaraApeChape\nJyokyoTobiJyokyo ToraToraTora\nKasenTobiKasenTobiKasenTobiWaipa",
         "notes": ""
       },
       {
@@ -2932,7 +2922,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "ShindouWi-supe ShigureRaiga\nBamo Bamo BabababaBa-mosu\nJyokyoAmaKonton JyokyoAmaKonton\nTanbono Yousuga Marabi-jasu\nSaiba Saiba JinzouDoraiba\nKaraKina Fiiba ToraToraTautsua\nMatsutakako Matsutakako\nKaaru Haintsu Shunaida",
+        "text": "ShindouWisupe ShigureRaiga\nBamo Bamo BabababaBa-mosu\nJyokyoAmaKonton JyokyoAmaKonton\nTanbono Yousuga Marabi-jasu\nSaiba Saiba JinzouDoraiba\nKaraKina Fiiba ToraToraTautsa\nMatsutakako Matsutakako\nKaaru Haintsu Shunaida",
         "notes": ""
       },
       {
@@ -3146,6 +3136,60 @@
     "link_list": []
   },
   {
+    "title": "大蛇丸mix",
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "KuchiyoseManda FaiboWaipa\nTaiga Taiga AkatsukiTaiga\nKuchiyoseKaraKina KuchiyoseKaraKina\nSen'eitajyashu P Waipa\nFaiya Faiya KinjyutsuFaiya\nMandara Faama ShikiShikiFuujin\nEdoTensei FushiTensei\nSarutobiSensei Iettaiga",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "口寄せ「マンダ」ファイボワイパー\nタイガータイガー暁(あかつき)タイガー\n口寄せカラキナ　口寄せカラキナ\n潜影多蛇手(せんえいたじゃしゅ) ワイパー\nファイヤーファイヤー禁術ファイヤー\n万蛇羅(まんだら)ファーマー　屍鬼　屍鬼封尽(しきふうじん)\n穢土転生(えどてんせい)　不屍転生(ふしてんせい)\n猿飛(さるとび)先生　イエッタイガー",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "",
+    "link_list": []
+  },
+  {
+    "title": "胖虎可变三连 [ ジャイアン可変 ]",
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "JyaianJyaiko JyaikoJyaian\nJyaianJyaian JyajyajyajyaJyaian\nJyaianJyaiko JyaianJyaiko\nJyaianJyaiko P Jyaian\nJyaian Jyaiko JyaianJyaiko\nJyaianJyaiko JyajyajyajyaJyaian\nOrejyaian Orejyaian\nOmaeno Monowa Orenomono\n(Nobitano Kuseni Namaikida)",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "ジャイアンジャイ子ジャイ子ジャイアン\nジャイアンジャイアンジャジャジャジャジャイアン\nジャイアンジャイ子ジャイアンジャイ子\nジャイアンジャイ子 P ジャイアン\nジャイアンジャイ子ジャイアンジャイ子\nジャイアンジャイ子ジャジャジャジャジャイアン\nおれジャイアン おれジャイアン\nお前の物はオレのもの\n(のび太(のびた)のくせに生意気だ)",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "",
+    "link_list": []
+  },
+  {
+    "title": "Blue Lock可变三连 [ ブルーロックMIX ]",
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "EgoegoegoegoEgoisuto\nKaiza Kaiza MihyaeruKaiza\nNoanoanoanoaNoeruNoa\nChigiriHyoumawa P Ieppansa\nJyajjya Jyajjya Metabijyon\nSutosutosutosutoSutoraika\nBasuta-do Myuuhen ManshainShi\nAoikangoku Buru-Rokku",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "エゴエゴエゴエゴエゴイスト\nカイザーカイザーミヒャエルカイザー\nノアノアノアノアノエルノア\n千切豹馬(ちぎりひょうま)はイエッパンサー\nジャッジャージャッジャーメタビジョン\nストストストストストライカー\nバスタード・ミュンヘン\t　マンシャイン・C\n青い監獄 ブルーロック",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "",
+    "link_list": []
+  },
+  {
     "title": "可変三連→田んぼ→スペイン語mix",
     "text_list": [
       {
@@ -3332,7 +3376,7 @@
       }
     ],
     "text_list_size": 2,
-    "notes": "",
+    "notes": "冬はやっぱしサビーナー　って言うCMからきてます",
     "link_list": []
   },
   {
@@ -3498,6 +3542,24 @@
     "link_list": []
   },
   {
+    "title": "清酒mix [ お酒mix ]",
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "Tantantantan Tantakatan\nIichiko Kurokiri Hakkaisan\nOnikoroshi Onikoroshi\nJyouzen Mizuno Go-to-shi",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "たんたんたんたん鍛高譚！\nいいちこ　黒霧　八海山！\n鬼ころしー　鬼ころしー\n上善如水(じょうぜんみずのーごーとーしー)！",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "",
+    "link_list": []
+  },
+  {
     "title": "米mix",
     "text_list": [
       {
@@ -3524,17 +3586,12 @@
     "title": "米mix（中文ver.）→田んぼ",
     "text_list": [
       {
-        "lang": "罗马字",
+        "lang": "中文+罗马字",
         "text": "米米米米霓虹米\n白米玄米金芽米\nKoshihikari Koshihikari\nTanbono Yousuga P Okashii",
-        "notes": ""
-      },
-      {
-        "lang": "日语",
-        "text": "",
         "notes": ""
       }
     ],
-    "text_list_size": 2,
+    "text_list_size": 1,
     "notes": "",
     "link_list": []
   },
@@ -3711,6 +3768,29 @@
     "link_list": []
   },
   {
+    "title": "阴阳师mix [ レッツゴー陰陽師 MIX ]",
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "AkuryouTaisan AkuryouTaisan\nOnryou Mononoke Komatta Tokiwa\nDo-man Se-man Do-man Se-man\nSuguni Yobimasho Onmyouji Rettsugo-\n\nAkuryouTaisan AkuryouTaisan\nYoukai Ayakashi Komatta Tokiwa\nDo-man Se-man Do-man Se-man\nTasukete Moraou Onmyouji Rettsugo-",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "悪霊退散！悪霊退散！\n怨霊、ものの怪、困った時は\nドーマン！ セーマン！ ドーマン！セーマン！\n直ぐに呼びましょ陰陽師 レッツゴー！\n\n悪霊退散！悪霊退散！\n妖怪、あやかし、困った時は\nドーマン！ セーマン！ ドーマン！セーマン！\n助けてもらおう陰陽師 レッツゴー！",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "分割して8小節(パンMIXやアイヌ日尺)にしても良い",
+    "link_list": [
+      {
+        "title": "【コール·MIX】レッツゴー陰陽師MIX",
+        "url": "https://www.bilibili.com/video/BV19W421N7bx"
+      }
+    ]
+  },
+  {
     "title": "西班牙语mix [ スペイン語mix ]",
     "text_list": [
       {
@@ -3818,7 +3898,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "P-PPP-P Ge-envia-!\n_Ti-ga Foieru Kunsuto Fi-ba-\n_Tautsua- Shubingungu Hie-mi-fa-za-\n_Firi-gen Ka-ruhaintsushunaida-",
+        "text": "P-PPP-P Ge-envia-!\n_Ti-ga Foieru Kunsuto Fi-ba-\n_Tautsa- Shubingungu Hie-mi-fa-za-\n_Firi-gen Ka-ruhaintsushunaida-",
         "notes": ""
       },
       {
@@ -3836,7 +3916,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "P-PPP-P Ge-envia-!\n_Ti-ga Foieru Kunsuto Fi-ba-\n_Tautsua- Shubingungu Hie-mi-fa-za-\n_Firi-gen Bazaitigan Ze-yungufa- Gettin\n_Vainahaten Ren Herumankarutsu Ka-ruhaintsushunaida-",
+        "text": "P-PPP-P Ge-envia-!\n_Ti-ga Foieru Kunsuto Fi-ba-\n_Tautsa- Shubingungu Hie-mi-fa-za-\n_Firi-gen Bazaitigan Ze-yungufa- Gettin\n_Vainahaten Ren Herumankarutsu Ka-ruhaintsushunaida-",
         "notes": ""
       },
       {
@@ -3854,7 +3934,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "P-PPP-P Ge-envia-!\n_Ti-ga Foieru Kunsuto Fi-ba-\n_Tautsua- Shubingungu Hie-mi-fa-za-\n_Firi-gen Bazaitigan Ze-yungufa- Gettin\n_Vainahaten Asshenputteru Vunda-rando\n_Funke Furanme Pora-susheterun Pureya-den\n_Herumankarutsu Ka-ruhaintsushunaida-",
+        "text": "P-PPP-P Ge-envia-!\n_Ti-ga Foieru Kunsuto Fi-ba-\n_Tautsa- Shubingungu Hie-mi-fa-za-\n_Firi-gen Bazaitigan Ze-yungufa- Gettin\n_Vainahaten Asshenputteru Vunda-rando\n_Funke Furanme Pora-susheterun Pureya-den\n_Herumankarutsu Ka-ruhaintsushunaida-",
         "notes": ""
       },
       {
@@ -3872,7 +3952,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "P-PPP-P Ge-envia-!\n_Ti-ga Foieru Kuunsuto Fi-ba-\n_Tautsua- Shubingungu Hie-mi-fa-za-\n_Firi-gen Bazaitigan Ze-yungufa- Gettin\n_Vainahaten Ren Engeru Asshienputteru\n_Raumu Vunda-rando Funke Furanme\n_Pora-susheterun Pureya-den\n_Shuteruntsueruto Ka-ruhaintsushunaida-",
+        "text": "P-PPP-P Ge-envia-!\n_Ti-ga Foieru Kuunsuto Fi-ba-\n_Tautsa- Shubingungu Hie-mi-fa-za-\n_Firi-gen Bazaitigan Ze-yungufa- Gettin\n_Vainahaten Ren Engeru Asshienputteru\n_Raumu Vunda-rando Funke Furanme\n_Pora-susheterun Pureya-den\n_Shuteruntseruto Ka-ruhaintsushunaida-",
         "notes": ""
       },
       {
@@ -3908,7 +3988,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "P-PPP-P Ge-envia-\n_Ti-ga Foieru Kunsuto Fi-ba-\n_Tautsua- Shubingungu Hie-mi-fa-za-\n_Firi-gen Ka-ruhaintsushunaida-\nMange Eta-naru",
+        "text": "P-PPP-P Ge-envia-\n_Ti-ga Foieru Kunsuto Fi-ba-\n_Tautsa- Shubingungu Hie-mi-fa-za-\n_Firi-gen Ka-ruhaintsushunaida-\nMange Eta-naru",
         "notes": ""
       },
       {
@@ -4142,7 +4222,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "P-PPP-P Ka-ruhaintsushunaida-\n_Herumankarutsu Ren Vainahaten Getting\n_Ze-yungufa- Bazaitigan Firi-gen Hie-mi-fa-za-\n_Shubingungu Tautsua- Fi-ba- Kunsuto\n_Foieru Ti-ga Ge-envia-\n_Ti-ga Foieru Kunsuto Fi-ba-\nP-PPP-P Ave-mosu\n_Tigurisu Igunisu A-tifisharu Fibura\n_U-rinatore Viburationisu Sakkyarumu\nVora Erimotione",
+        "text": "P-PPP-P Ka-ruhaintsushunaida-\n_Herumankarutsu Ren Vainahaten Getting\n_Ze-yungufa- Bazaitigan Firi-gen Hie-mi-fa-za-\n_Shubingungu Tautsa- Fi-ba- Kunsuto\n_Foieru Ti-ga Ge-envia-\n_Ti-ga Foieru Kunsuto Fi-ba-\nP-PPP-P Ave-mosu\n_Tigurisu Igunisu A-tifisharu Fibura\n_U-rinatore Viburationisu Sakkyarumu\nVora Erimotione",
         "notes": ""
       },
       {
@@ -4178,7 +4258,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "Vuya-gura Aguni Karura Tantorura\nGa-ho Ue-pana Nirura-su",
+        "text": "Vya-gura Aguni Karura Tantorura\nGa-ho We-pana Nirura-su",
         "notes": ""
       },
       {
@@ -4291,7 +4371,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "TakamaruHikumaruIsomaru\nTorikizoku Kinnozou\nHananomaiShirakiyaDomadoma\nMugishouchuu Imoshouchuu\nAiuonchuu Kiminimuchuu",
+        "text": "TakamaruHikumaruIsomaru\nTorikizoku Kinnozou\nHananomaiShirakiyaDomadoma\nMugishouchuu Imoshouchuu\nAiWonchu Kiminimuchuu",
         "notes": ""
       },
       {
@@ -6361,7 +6441,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "Iitai Kotoga Arundayo\nTaigaFaiyaSaibaFaibaDaibaBaibaJya-jya\nChigaiya Chigau KoreChigau\nToraHiJinzouSen'iAmaShindouKa-sen\nMata Machigaeta mou Dameda\nChapeApeKaraKinaRaraTusukeUisupe\nKekkyoku Iitai Kotowakore\nPeroperoshitai Peroperoshitai\nJya-jya Faibo Waipa",
+        "text": "Iitai Kotoga Arundayo\nTaigaFaiyaSaibaFaibaDaibaBaibaJya-jya\nChigaiya Chigau KoreChigau\nToraHiJinzouSen'iAmaShindouKa-sen\nMata Machigaeta mou Dameda\nChapeApeKaraKinaRaraTusukeWisupe\nKekkyoku Iitai Kotowakore\nPeroperoshitai Peroperoshitai\nJya-jya Faibo Waipa",
         "notes": ""
       },
       {
@@ -6551,7 +6631,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "Venetsuia Venetsuia Ve-ne-tsui-a(PP)\nJyenobe-ze Pesukato-re(PP)\nArabia-ta Araburetto Karubona-ra Borone-ze\nPuttanesuka Kachato-ra A-rioO-rioPeperochi-no",
+        "text": "Venetsia Venetsia Ve-ne-tsi-a(PP)\nJenobe-ze Pesukato-re(PP)\nArabia-ta Araburetto Karubona-ra Borone-ze\nPuttanesuka Kachato-ra A-rioO-rioPeperochi-no",
         "notes": ""
       },
       {
