@@ -309,7 +309,7 @@
     "title": "中文mix（12虎+虎火发动）",
     "text_list": [
       {
-        "lang": "罗马字",
+        "lang": "中文",
         "text": "老虎老虎老虎老虎老虎老虎老虎老虎\n老虎老虎老虎老虎虎-火-发-动！\n_人造 纤维 海女 振动\n_化纤 飞 除-去",
         "notes": ""
       }
@@ -317,6 +317,24 @@
     "text_list_size": 1,
     "notes": "如果有名字最后一个字为“fei”的成员可以改为“飞 〇〇〇”",
     "link_list": []
+  },
+  {
+    "title": "中文三连 [ 中国語三連MIX ]",
+    "text_list": [
+      {
+        "lang": "中文",
+        "text": "P-PPP-P 我们走吧\n_老虎 火 人造 纤维\n_海女 振动 美人鱼\n_女神 圣诞节 驯鹿 天使\n_灰姑娘 宇宙 梦游仙境\n_火花 火焰 北极星\n_昴宿星团 星空",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 1,
+    "notes": "”",
+    "link_list": [
+        {
+            "title": "【コール·MIX】中国語三連MIX",
+            "url": "https://www.bilibili.com/video/BV1bJ4m1x7Wq"
+        }
+    ]
   },
   {
     "title": "园长mix [ 園長MIX ]",
@@ -595,12 +613,12 @@
       },
       {
         "lang": "日语",
-        "text": "出発進行\nトーマス　ゴードン　ヘンリー　パーシー\nトビー　エドワード　ポッポー",
+        "text": "出発進行【始動】\nトーマス　ゴードン　ヘンリー　パーシー\nトビー　エドワード　ポッポー",
         "notes": ""
       },
       {
         "lang": "英语",
-        "text": "Thomas Gordon Henry Percy Toby Edward",
+        "text": "Thomas Gordon Henry Percy\nToby Edward",
         "notes": ""
       }
     ],
@@ -647,12 +665,14 @@
     ],
     "text_list_size": 2,
     "notes": "",
-    "link_list": [{
-            "title": "【コール·MIX】華嵐MIX→花火MIX→六花MIX",
-            "url": "https://www.bilibili.com/video/BV1Er421H7pC"
-        }]
+    "link_list": [
+      {
+        "title": "【コール·MIX】華嵐MIX→花火MIX→六花MIX",
+        "url": "https://www.bilibili.com/video/BV1Er421H7pC"
+      }
+    ]
   },
-    {
+  {
     "title": "胧月mix [ 朧月MIX ]",
     "text_list": [
       {
@@ -669,10 +689,10 @@
     "text_list_size": 2,
     "notes": "",
     "link_list": [
-        {
-            "title": "【コール·MIX】朧月MIX",
-            "url": "https://www.bilibili.com/video/BV1Ly421z74j/"
-        }
+      {
+        "title": "【コール·MIX】朧月MIX",
+        "url": "https://www.bilibili.com/video/BV1Ly421z74j/"
+      }
     ]
   },
   {
@@ -692,10 +712,10 @@
     "text_list_size": 2,
     "notes": "",
     "link_list": [
-        {
-            "title": "【コール·MIX】華嵐MIX→花火MIX→六花MIX",
-            "url": "https://www.bilibili.com/video/BV1Er421H7pC"
-        }
+      {
+        "title": "【コール·MIX】華嵐MIX→花火MIX→六花MIX",
+        "url": "https://www.bilibili.com/video/BV1Er421H7pC"
+      }
     ]
   },
   {
@@ -708,7 +728,7 @@
       },
       {
         "lang": "日语",
-        "text": "八重 枝垂 大山 丁子\n染井吉野 江戸桜\n\nやえ　しだれ　おおやま　ちょうじ\nそめいよしの　えどさくら",
+        "text": "八重(やえ)　枝垂(しだれ)　大山(おおやま)　丁子(ちょうじ)\n染井吉野(そめいよしの)　江戸桜(えどさくら)",
         "notes": ""
       }
     ],
@@ -762,7 +782,7 @@
       },
       {
         "lang": "日语",
-        "text": "しゃー焼くぞ！\nビスマルク バンビーナ カプリチョーザ リモーネ\nフンギ トンナータ マルゲリータ\nジェノア クアトロフォルマッジ",
+        "text": "しゃー焼くぞ【始動】\nビスマルク バンビーナ カプリチョーザ リモーネ\nフンギ トンナータ マルゲリータ\nジェノア クアトロフォルマッジ",
         "notes": ""
       }
     ],
@@ -780,7 +800,7 @@
       },
       {
         "lang": "日语",
-        "text": "ギャラクシー（発動）\nカプリコ　ヴェルソー　ポワッソン　ベリエ\nトロー　ジェモー　カンセ　リオン\nヴィエルジュ　バランス　スコルピオン　サジッテール",
+        "text": "ギャラクシー【発動】\nカプリコ　ヴェルソー　ポワッソン　ベリエ\nトロー　ジェモー　カンセ　リオン\nヴィエルジュ　バランス　スコルピオン　サジッテール",
         "notes": ""
       }
     ],
@@ -821,7 +841,7 @@
       },
       {
         "lang": "日语",
-        "text": "聖杯戦争! （始動）\nセイバー! ランサー! アーチャー! ライダー! \nキャスター! アサシン! バーサーカー!\nエクスカリバー!",
+        "text": "聖杯戦争!【始動】\nセイバー! ランサー! アーチャー! ライダー! \nキャスター! アサシン! バーサーカー!\nエクスカリバー!",
         "notes": ""
       }
     ],
@@ -839,7 +859,7 @@
       },
       {
         "lang": "日语",
-        "text": "しゃー発酵\nリコッタ　モッツァレラ　ロックフォール　ブリー\nタレッジオ　カマンベール　チェダー\nパルメザン　ゴルゴンゾーラマスカルポーネ",
+        "text": "しゃー発酵【始動】\nリコッタ　モッツァレラ　ロックフォール　ブリー\nタレッジオ　カマンベール　チェダー\nパルメザン　ゴルゴンゾーラマスカルポーネ",
         "notes": ""
       }
     ],
@@ -857,7 +877,7 @@
       },
       {
         "lang": "日语",
-        "text": "ペガサス(始動)\nフェニックス！ドラゴン！キグナス！アンドロメダ！\nアテナ！燃え上がれ！俺の小宇宙（コスモ）！\n○○は俺が守る",
+        "text": "ペガサス(始動)\nフェニックス！ドラゴン！キグナス！アンドロメダ！\nアテナ！燃え上がれ！俺の小宇宙（コスモ）！\n〇〇は俺が守る",
         "notes": ""
       }
     ],
@@ -906,12 +926,12 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "P-PPP-P yosshaikuzo\n_Ei Faiya Aisusutoumu Daiakyuuto\n_Bureindamudo Jyugemu Bayoen",
+        "text": "_Ei Faiya Aisusuto-mu Daiakyu-to\n_Bureindamudo Jyugemu Bayoen",
         "notes": ""
       },
       {
         "lang": "日语",
-        "text": "よっしゃいくぞー!\nえい! ファイヤー! アイスストーム! ダイアキュート!\nブレインダムド! じゅげむ! ばよえ～ん!",
+        "text": "えい! ファイヤー! アイスストーム! ダイアキュート!\nブレインダムド! じゅげむ! ばよえ～ん!",
         "notes": ""
       }
     ],
@@ -923,8 +943,13 @@
     "title": "dropオリジナルmix(英語) [ ナナランドオリジナルMIX ]",
     "text_list": [
       {
+        "lang": "英语",
+        "text": "_Shiny Fire Thunder Water\n_Nature Poison Saxmer",
+        "notes": ""
+      },
+      {
         "lang": "罗马字",
-        "text": "_Shiny Fire Thunder Water\n_Nature Poison Saxmer\n\n_Shaini Faiya Sanda Wo-ta\n_Neicha Poizun Sakuma",
+        "text": "_Shaini Faiya Sanda Wo-ta\n_Neicha Poizun Sakuma",
         "notes": ""
       },
       {
@@ -933,7 +958,7 @@
         "notes": ""
       }
     ],
-    "text_list_size": 2,
+    "text_list_size": 3,
     "notes": "",
     "link_list": []
   },
@@ -974,7 +999,7 @@
     "link_list": []
   },
   {
-    "title": "Cinderella mix",
+    "title": "Cinderella mix [ シンデレラMIX ]",
     "text_list": [
       {
         "lang": "英语",
@@ -988,11 +1013,11 @@
       },
       {
         "lang": "日语",
-        "text": "よっしゃシンデレラ（始動）\nキュート　クール　パッション　ピンク\nブルー　オレンジ　ジャージャー",
+        "text": "よっしゃシンデレラ【始動】\nキュート　クール　パッション　ピンク\nブルー　オレンジ　ジャージャー",
         "notes": ""
       }
     ],
-    "text_list_size": 2,
+    "text_list_size": 3,
     "notes": "",
     "link_list": [
       {
@@ -1024,12 +1049,12 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "A~Sha-ikuzo\n_Ne Ushi Tora U\nNeUshiToraU TatsuMi",
+        "text": "_Ne Ushi Tora U\nNeUshiToraU TatsuMi",
         "notes": ""
       },
       {
         "lang": "日语",
-        "text": "しゃーいくぞ（始動）\n子(ね) 丑(うし) 寅(とら) 卯(う)\n子(ね)丑(うし)寅(とら)卯(う)辰(たつ) 巳(み)",
+        "text": "子(ね) 丑(うし) 寅(とら) 卯(う)\n子(ね)丑(うし)寅(とら)卯(う)辰(たつ)巳(み)",
         "notes": ""
       }
     ],
@@ -1047,12 +1072,12 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "A~Sha-ikuzo\n_Uma Hitsu Saru Tori\nUmaHitsuSaruTori InuI",
+        "text": "_Uma Hitsu Saru Tori\nUmaHitsuSaruTori (P) InuI",
         "notes": ""
       },
       {
         "lang": "日语",
-        "text": "しゃーいくぞ（始動）\n午(うま) 未(ひつ) 申(さる) 酉(とり)\n午(うま)未(ひつ)申(さる)酉(とり)戌(いぬ)亥(い)",
+        "text": "午(うま) 未(ひつ) 申(さる) 酉(とり)\n午(うま)未(ひつ)申(さる)酉(とり)戌(いぬ)亥(い)",
         "notes": ""
       }
     ],
@@ -1375,7 +1400,7 @@
     "title": "倍速中文",
     "text_list": [
       {
-        "lang": "罗马字",
+        "lang": "中文",
         "text": "虎火人造纤维海女振动化纤飞除去",
         "notes": ""
       }
@@ -1388,7 +1413,7 @@
     "title": "中文倍速正逆打",
     "text_list": [
       {
-        "lang": "罗马字",
+        "lang": "中文",
         "text": "老虎火人造纤维海女振动化纤飞\n除去飞化纤振动海女纤维人造火",
         "notes": ""
       }
@@ -1488,7 +1513,7 @@
     "link_list": []
   },
   {
-    "title": "俊龙call（ZOOM ver）",
+    "title": "俊龙call（ZOOM ver.）",
     "text_list": [
       {
         "lang": "罗马字",
@@ -1597,7 +1622,7 @@
       },
       {
         "lang": "日语",
-        "text": "\nあ　あ　あ　あ\nあ　あ 愛してる(始動)\nあいあいあいあい愛してるからの\nあいあいあいあい愛してる",
+        "text": "あ　あ　あ　あ\nあ　あ　愛してる(始動)\nあいあいあいあい愛してるからの\nあいあいあいあい愛してる",
         "notes": ""
       }
     ],
@@ -1620,7 +1645,7 @@
       },
       {
         "lang": "日语",
-        "text": "あ　あ　あ　あ\nあ　あ 愛してる(始動)\nあいあいあいあいあいうえおけれど\nあいあいあいあい愛してる",
+        "text": "あ　あ　あ　あ\nあ　あ　愛してる(始動)\nあいあいあいあいあいうえおけれど\nあいあいあいあい愛してる",
         "notes": ""
       }
     ],
@@ -1633,7 +1658,7 @@
       }
     ]
   },
-    {
+  {
     "title": "意味不我愛你",
     "text_list": [
       {
@@ -1643,7 +1668,7 @@
       },
       {
         "lang": "日语",
-        "text": "あ　あ　あ　あ\nあ　あ ウォーアイニー(始動)\nアイアイアイアイ ウォーアイニー\nアイアイアイアイ ウォーアイニー",
+        "text": "あ　あ　あ　あ\nあ　あ　ウォーアイニー(始動)\nアイアイアイアイ ウォーアイニー\nアイアイアイアイ ウォーアイニー",
         "notes": ""
       }
     ],
@@ -1702,7 +1727,7 @@
       },
       {
         "lang": "日语",
-        "text": "(はいせーの(始動))\nガンダムエピオン ガンダムエピオン",
+        "text": "はいせーの(始動)\nガンダムエピオン ガンダムエピオン",
         "notes": ""
       }
     ],
@@ -1846,7 +1871,7 @@
       },
       {
         "lang": "日语",
-        "text": "\nミョーホントゥスケと聞かれたら\nワイパーと言うのが世の情け\nイェッ　タイ　ファイボワイパー\n悲しいことがありました",
+        "text": "ミョーホントゥスケと聞かれたら\nワイパーと言うのが世の情け\nイェッ　タイ　ファイボワイパー\n悲しいことがありました",
         "notes": ""
       }
     ],
@@ -1868,17 +1893,12 @@
         "notes": ""
       },
       {
-        "lang": "罗马字",
-        "text": "Iidoudajji Daredorejyojyo\nHowaipowaiba Yettaiga",
-        "notes": ""
-      },
-      {
         "lang": "日语",
         "text": "イイドウダッジ ダレドレジョジョ\nホワイポワイバー イェッタイガー！",
         "notes": ""
       }
     ],
-    "text_list_size": 3,
+    "text_list_size": 2,
     "notes": "",
     "link_list": []
   },
@@ -1928,7 +1948,7 @@
       },
       {
         "lang": "日语",
-        "text": "満員電車！駆け込み乗車！\nドアが！閉まります！\n発車します！",
+        "text": "満員電車！駆け込み乗車！\nドアが！閉まります！発車します！",
         "notes": ""
       }
     ],
@@ -2239,12 +2259,12 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "〇〇no 〇〇no\nchottoii tokomite mitai\n_Shinsei Kokuryuu Kubota Dassai\n_JuushidaiHakkaisan",
+        "text": "〇〇no 〇〇no\nChottoii Tokomite Mitai\n_Shinsei Kokuryuu Kubota Dassai\n_JuushidaiHakkaisan",
         "notes": ""
       },
       {
         "lang": "日语",
-        "text": "○○の　○○の\nちょっといいとこ見てみたい　(始動)\n新政　黒龍　久保田　獺祭\n十四代　八海山",
+        "text": "〇〇の　〇〇の\nちょっといいとこ見てみたい　(始動)\n新政　黒龍　久保田　獺祭\n十四代　八海山",
         "notes": ""
       }
     ],
@@ -2378,12 +2398,12 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "WisupeKesui ChapeChapeChape\nChapeApeKaraKinaKaraApeChape\nJyokyoTobiJyokyo ToraToraTora\nToraHiJinzouSen'iAmaShindouKa-sen\nTobi Jyokyo Nou Sei\nShoku Son Miyamotomusashi",
+        "text": "WisupeKesui ChapeChapeChape\nChapeApeKaraKinaKaraApeChape\nJyokyoTobiJyokyo ToraToraTora\nToraHiJinzouSen'iAmaShindouKasen\nTobi Jyokyo Nou Sei\nShoku Son Miyamotomusashi",
         "notes": ""
       },
       {
         "lang": "日语",
-        "text": "ウィスペケスィ　チャペチャペチャペ\nチャペアペカラキナカラアペチャペ\n除去　飛　除去　虎　虎　虎\n虎火人造繊維海女振動化繊(倍速）\n飛　除去　農　正\n拭　樽　宮本武蔵",
+        "text": "ウィスペケスィ　チャペチャペチャペ\nチャペアペカラキナカラアペチャペ\n除去　飛　除去　虎　虎　虎\n虎火人造繊維海女振動化繊\n飛　除去　農　正\n拭　樽　宮本武蔵",
         "notes": ""
       }
     ],
@@ -2424,7 +2444,7 @@
       },
       {
         "lang": "日语",
-        "text": "\n頭髪　ウスィ　ハゲハゲハゲ\nハゲハゲカラキナカラアペハゲ\n除去　髪　除去　禿　禿　禿\n禿火人造繊維アルシンド化繊(倍速)\n(髪　除去)",
+        "text": "頭髪　ウスィ　ハゲハゲハゲ\nハゲハゲカラキナカラアペハゲ\n除去　髪　除去　禿　禿　禿\n禿火人造繊維アルシンド化繊\n(髪　除去)",
         "notes": ""
       }
     ],
@@ -2447,7 +2467,7 @@
       },
       {
         "lang": "日语",
-        "text": "海女虎人造(あまとらじんぞう)\n海女虎化繊(あまとらかせん)\n除去虎人造(じょきょとらじんぞう)\n海女繊維虎(あませんとら)\n海女繊維除去飛(あませんじょきょとび)\n振動繊維化繊飛(しんせんかせとび)\n除去虎振動(じょきょとらしんどう)\n海女虎火(あまとらひ)",
+        "text": "海女虎人造(あまとらじんぞう)　海女虎化繊(あまとらかせん)\n除去虎人造(じょきょとらじんぞう)　海女繊維虎(あませんとら)\n海女繊維除去飛(あませんじょきょとび)　振動繊維化繊飛(しんせんかせとび)\n除去虎振動(じょきょとらしんどう)　海女虎火(あまとらひ)",
         "notes": ""
       }
     ],
@@ -2488,7 +2508,7 @@
       },
       {
         "lang": "日语",
-        "text": "言いたいことがあるんだよ\nやっぱり◯◯はかわいいよ\nすきすき大好きやっぱ好き\nやっと見つけたお姫様\n俺が生まれてきた理由\nそれは◯◯に出会うため\n俺と一緒に人生歩もう\n世界で一番愛してる\nあーいーしーてーるー\n(絶対結婚しような！)",
+        "text": "言いたいことがあるんだよ\nやっぱり〇〇はかわいいよ\nすきすき大好きやっぱ好き\nやっと見つけたお姫様\n俺が生まれてきた理由\nそれは〇〇に出会うため\n俺と一緒に人生歩もう\n世界で一番愛してる\nあーいーしーてーるー\n(絶対結婚しような！)",
         "notes": ""
       }
     ],
@@ -2506,7 +2526,7 @@
       },
       {
         "lang": "日语",
-        "text": "言いたいことがあるんだよ\nやっぱり◯◯はかわいいよ\nすきすき大好きやっぱ好き\nファイブフォースリーツーワンゴー\nウハイウハイウハイウハイ\nあ～よっしゃいくぞー\nタイガー ファイヤー サイバー ファイバー\nダイバー バイバー ジャージャー",
+        "text": "言いたいことがあるんだよ\nやっぱり〇〇はかわいいよ\nすきすき大好きやっぱ好き\nファイブフォースリーツーワンゴー\nウハイウハイウハイウハイ\nあ～よっしゃいくぞー\nタイガー ファイヤー サイバー ファイバー\nダイバー バイバー ジャージャー",
         "notes": ""
       }
     ],
@@ -2537,7 +2557,7 @@
       },
       {
         "lang": "日语",
-        "text": "BV1TY411w7G7\n言いたいことがあるんだよ\nやっぱり◯◯カッコイイ\n好き好き大好きやっぱ好き\nやっと出会えた王子様\n私が生まれたその理由\nそれは◯◯に出会うため\n私と一緒に人生歩もう\n世界で一番愛してる\nあーいーしーてーるー\n(絶対結婚しような！)",
+        "text": "言いたいことがあるんだよ\nやっぱり〇〇カッコイイ\n好き好き大好きやっぱ好き\nやっと出会えた王子様\n私が生まれたその理由\nそれは〇〇に出会うため\n私と一緒に人生歩もう\n世界で一番愛してる\nあーいーしーてーるー\n(絶対結婚しような！)",
         "notes": ""
       }
     ],
@@ -2560,7 +2580,7 @@
       },
       {
         "lang": "日语",
-        "text": "お前に出逢えたあの日から\n胸に抱くは愛情(こいごころ)\n今、想えるはお前だけ\nさぁ捧げよう 大天使\n\n俺が生まれてきた理由\nそれはお前に出逢うため\n俺と一緒に人生歩もう\n世界で一番あいしてる\nあーいーしーてーるー",
+        "text": "お前に出逢えたあの日から\n胸に抱くは愛情(こいごころ)\n今、想えるはお前だけ\nさぁ捧げよう 大天使\n俺が生まれてきた理由\nそれはお前に出逢うため\n俺と一緒に人生歩もう\n世界で一番あいしてる\nあーいーしーてーるー",
         "notes": ""
       }
     ],
@@ -2591,7 +2611,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "Iitai Kotoga Arukeredo\nUmaku Kotobani Dekinakute\nSukisuki Mewomite Ietanara\nKonnani Kurushiku Nainokana\nBokuga Korekara Ikiruriyuu\nKimino Egaoga Mitaikara\nBokudake Nokimija Naikeredo\nKimidake Nobokude Itaikara\nI-Ta-I-N-Da",
+        "text": "Iitai Kotoga Arukeredo\nUmaku Kotobani Dekinakute\nSukisuki Mewomite Ietanara\nKonnani Kurushiku Nainokana\nBokuga Korekara Ikiruriyuu\nKimino Egaoga Mitaikara\nBokudake Nokimijya Naikeredo\nKimidake Nobokude Itaikara\nI-Ta-I-N-Da",
         "notes": ""
       },
       {
@@ -2610,7 +2630,7 @@
     ]
   },
   {
-    "title": "ガチ恋口上・真（12小节）",
+    "title": "ガチ恋口上・真(12小節)",
     "text_list": [
       {
         "lang": "罗马字",
@@ -2619,13 +2639,18 @@
       },
       {
         "lang": "日语",
-        "text": "BV1234y177L7\n言いたいことがあるけれど\n上手く言葉にできなくて\n好き好き目お見て言えたなら\nこんなに苦しくないのかな\n僕が〇〇〇に見捨てられても\n君だけの僕でいたいんだ\nいーたーいーんーだー",
+        "text": "言いたいことがあるけれど\n上手く言葉にできなくて\n好き好き目お見て言えたなら\nこんなに苦しくないのかな\n僕が〇〇〇に見捨てられても\n君だけの僕でいたいんだ\nいーたーいーんーだー",
         "notes": ""
       }
     ],
     "text_list_size": 2,
     "notes": "",
-    "link_list": []
+    "link_list": [
+        {
+            "title": "【SNH48】【Be A Fighter】星梦奇遇记 娱乐版 CALL本",
+            "url": "https://www.bilibili.com/video/BV1234y177L7"
+        }
+    ]
   },
   {
     "title": "ガチ恋大五郎",
@@ -2637,7 +2662,7 @@
       },
       {
         "lang": "日语",
-        "text": "言いたいことが◯◯◯◯◯\nやっぱり◯◯は◯◯◯◯◯\nすきすき大好き◯◯◯◯◯\nやっと見つけた◯◯◯◯◯\n俺が生まれて◯◯◯◯◯\nそれは◯◯に◯◯◯◯◯\n俺と一緒に◯◯◯◯◯\n世界で一番◯◯◯◯◯\n◯◯◯◯◯",
+        "text": "言いたいことが〇〇〇〇〇\nやっぱり〇〇は〇〇〇〇〇\nすきすき大好き〇〇〇〇〇\nやっと見つけた〇〇〇〇〇\n俺が生まれて〇〇〇〇〇\nそれは〇〇に〇〇〇〇〇\n俺と一緒に〇〇〇〇〇\n世界で一番〇〇〇〇〇\n〇〇〇〇〇",
         "notes": ""
       }
     ],
@@ -2660,7 +2685,7 @@
       },
       {
         "lang": "日语",
-        "text": "言いたいことがあるんだよ\nやっぱり◯◯はかわいいよ\nすきすき大好きやっぱ好き\nやっと見つけたお姫様\n俺が生まれてきた理由\nそんなの知らねえしゃーいくぞ\n各種mix",
+        "text": "言いたいことがあるんだよ\nやっぱり〇〇はかわいいよ\nすきすき大好きやっぱ好き\nやっと見つけたお姫様\n俺が生まれてきた理由\nそんなの知らねえしゃーいくぞ\n各種mix",
         "notes": ""
       }
     ],
@@ -2700,11 +2725,11 @@
     "link_list": []
   },
   {
-    "title": "ガチ恋キャンセル裏スペイン語mix",
+    "title": "恋口上转西语 [ ガチ恋キャンセル裏スペイン語mix ]",
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "Iitai Kotoga Arundayo\nYappari 〇〇〇wa Kawaiiyo\nSukisuki Daisuki Yappasuki\nYatto Mitsuketa Ohimesama\nOrega Umarete Kitariyuu\nSorewa Omaeni Ba-mosu\n_Tigure Fego Shiberu Fibura\n_Buzo Biburaru Herusei\nBora-re Rinpiaparaburisasu(拖长)",
+        "text": "Iitai Kotoga Arundayo\nYappari 〇〇〇wa Kawaiiyo\nSukisuki Daisuki Yappasuki\nYatto Mitsuketa Ohimesama\nOrega Umarete Kitariyuu\nSorewa Omaeni Ba-mosu\n_Tigure Fego Shiberu Fibura\n_Buzo Biburaru Herusei\nBora-re Rinpiaparaburisasu",
         "notes": ""
       },
       {
@@ -2750,7 +2775,7 @@
       },
       {
         "lang": "日语",
-        "text": "BV17p4y1F7TA\n言いたいことも言えないさ\nだって 〇〇〇が好きだから\n無理無理絶対やっぱダメ\nお前わ高嶺の花なんだ\n俺が見つめるその先で\nそつと笑つてくれればいい\n俺にじゃなくでも構わない\n誰かに笑つて生きてくれ",
+        "text": "言いたいことも言えないさ\nだって 〇〇〇が好きだから\n無理無理絶対やっぱダメ\nお前わ高嶺の花なんだ\n俺が見つめるその先で\nそつと笑つてくれればいい\n俺にじゃなくでも構わない\n誰かに笑つて生きてくれ",
         "notes": ""
       }
     ],
@@ -2809,7 +2834,7 @@
       },
       {
         "lang": "日语",
-        "text": "言いたかことがあるとばい\nやっぱり○○はやーらしかばい\nすきすき大好きがばい好き\nやっと見つけたお姫様\nおいが生まれてきた理由\nそりゃあわいに出会うため\nおいと一緒に人生歩もう\n世界で一番愛しとー",
+        "text": "言いたかことがあるとばい\nやっぱり〇〇はやーらしかばい\nすきすき大好きがばい好き\nやっと見つけたお姫様\nおいが生まれてきた理由\nそりゃあわいに出会うため\nおいと一緒に人生歩もう\n世界で一番愛しとー",
         "notes": ""
       }
     ],
@@ -2827,7 +2852,7 @@
       },
       {
         "lang": "日语",
-        "text": "言いたいことがあるんだよ\nやっぱり○○が しゃーいくぞー\nタイガー ファイヤー サイバー ファイバー\nダイバー バイバー ジャージャー\n俺が生まれてきた理由\nそれはお前と しゃーいくぞー\n虎 火 人造 繊維\n世界で一番愛してる\n飛除去",
+        "text": "言いたいことがあるんだよ\nやっぱり〇〇が しゃーいくぞー\nタイガー ファイヤー サイバー ファイバー\nダイバー バイバー ジャージャー\n俺が生まれてきた理由\nそれはお前と しゃーいくぞー\n虎 火 人造 繊維\n世界で一番愛してる\n飛除去",
         "notes": ""
       }
     ],
@@ -2922,7 +2947,7 @@
       },
       {
         "lang": "日语",
-        "text": "キタキタキタキタワイテキタ\nタイガータイガータイガーショット\n虎タイ虎タイ虎タイガー\n人造繊維 イエッタイガー\nジャッジャージャッジャーバリバリボー\nストストストストストライカー\nカール・ハインツ・シュナイダー！\nスカイ！ラブ！ハリケーン！\n（sky love hurricane）",
+        "text": "キタキタキタキタワイテキタ\nタイガータイガータイガーショット\n虎タイ虎タイ虎タイガー\n人造繊維 イエッタイガー\nジャッジャージャッジャーバリバリボー\nストストストストストライカー\nカール・ハインツ・シュナイダー！\nスカイ(sky)！ラブ(love)！ハリケーン(hurricane)！",
         "notes": ""
       }
     ],
@@ -2940,7 +2965,7 @@
       },
       {
         "lang": "日语",
-        "text": "キタキタキタキタグッドキタ\nタイガータイガータイガードライブ\nファイヤーファイヤートルネード\nいかりのてっついイエッタイガー\nジャッジャージャッジャーデススピアー\nストストストストストライカー\nキラーフィールズゴッドブレイク\n(killer fields gold break)\nグランドファイヤーイグニッション\n(ground fire ignition)",
+        "text": "キタキタキタキタグッドキタ\nタイガータイガータイガードライブ\nファイヤーファイヤートルネード\nいかりのてっついイエッタイガー\nジャッジャージャッジャーデススピアー\nストストストストストライカー\nキラー(killer)フィールズ(fields)ゴッド(gold)ブレイク(break)\nグランド(ground)ファイヤー(fire)イグニッション(ignition)",
         "notes": ""
       }
     ],
@@ -2994,7 +3019,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "ShindouWisupe ShigureRaiga\nBamo Bamo BabababaBa-mosu\nJyokyoAmaKonton JyokyoAmaKonton\nTanbono Yousuga Marabi-jasu\nSaiba Saiba JinzouDoraiba\nKaraKina Fiiba ToraToraTautsa\nMatsutakako Matsutakako\nKaaru Haintsu Shunaida",
+        "text": "ShindouWisupe ShigureRaiga\nBamo Bamo BabababaBa-mosu\nJyokyoAmaKonton JyokyoAmaKonton\nTanbono Yousuga Marabiijyasu\nSaiba Saiba JinzouDoraiba\nKaraKina Fiiba ToraToraTautsa\nMatsutakako Matsutakako\nKaaru Haintsu Shunaida",
         "notes": ""
       },
       {
@@ -3307,12 +3332,12 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "U'HaiU'HaiU'HaiU'Hai\nA~Shaikuzo\n_Raion Tora Chi-ta-\nRatarata Ratora-ta-\n_Sai Gorira Zou\nSago-zo Sago-zo-\nEiyou Eiyou Eiyou Eiyou\nKapusaishin tte shitteruu?\nEiyou Katade Shiboukan!",
+        "text": "_Raion Tora Chi-ta-\nRatarata Ratora-ta-\n_Sai Gorira Zou\nSago-zo Sago-zo-\nEiyou Eiyou Eiyou Eiyou\nKapusaishin tte shitteruu?\nEiyou Katade Shiboukan!",
         "notes": ""
       },
       {
         "lang": "日语",
-        "text": "BV1dt411m7wk t=185\n①ライオン トラ チーター\nラタラタ ラトラーター\n②サイ ゴリラ ゾウ\nサゴーゾ サゴーゾー\n③栄養 栄養 栄養 栄養\nカプサイシンって知ってるー？\n④栄養過多で脂肪肝",
+        "text": "①ライオン トラ チーター\nラタラタ ラトラーター\n②サイ ゴリラ ゾウ\nサゴーゾ サゴーゾー\n③栄養 栄養 栄養 栄養\nカプサイシンって知ってるー？\n④栄養過多で脂肪肝",
         "notes": ""
       }
     ],
@@ -3519,7 +3544,7 @@
     "title": "面包mix（黄楚茵粤语ver）",
     "text_list": [
       {
-        "lang": "罗马字",
+        "lang": "中文",
         "text": "包包包包 黄楚茵包\n新鲜出炉嘅 奶黄包\n大吉利车队↑大吉利车队↑\n中泰三楼吔包 预埋你嘅推",
         "notes": ""
       }
@@ -3532,7 +3557,7 @@
     "title": "面包mix（粤语ver）",
     "text_list": [
       {
-        "lang": "罗马字",
+        "lang": "中文",
         "text": "包包包包 叉烧包\n虾饺烧麦 榴莲包\n厨师沙律 炸鱼薯条\n今晚吃咩宵夜啊？",
         "notes": ""
       }
@@ -3545,7 +3570,7 @@
     "title": "面包mix（四川话ver）",
     "text_list": [
       {
-        "lang": "罗马字",
+        "lang": "中文",
         "text": "包包包包 芽菜包\n火锅串串 蛋烘糕\n幸福耙耳朵 幸福耙耳朵\n摆龙门阵搓麻将巴适得板",
         "notes": ""
       }
@@ -3605,12 +3630,12 @@
       },
       {
         "lang": "日语",
-        "text": "パンパンパンパン腹パンパン\n孕んだ○○※の腹パンパン\nカノウリョウ　カノウリョウ\n遅漏　早漏　カノウリョウ\n\n※○○には女、彼女、セフレ、推しメンの名前等の言葉が入ります",
+        "text": "パンパンパンパン腹パンパン\n孕んだ〇〇※の腹パンパン\nカノウリョウ　カノウリョウ\n遅漏　早漏　カノウリョウ",
         "notes": ""
       }
     ],
     "text_list_size": 2,
-    "notes": "",
+    "notes": "〇〇には女、彼女、セフレ、推しメンの名前等の言葉が入ります",
     "link_list": []
   },
   {
@@ -3641,7 +3666,7 @@
       },
       {
         "lang": "日语",
-        "text": "まいまいまいまい 日本米\n白米玄米金芽米\nコシヒカリ〜！コシヒカリ〜！\n◯◯◯◯(推しメンの名前)にひとめぼれ！",
+        "text": "まいまいまいまい 日本米\n白米玄米金芽米\nコシヒカリ〜！コシヒカリ〜！\n〇〇〇〇(推しメンの名前)にひとめぼれ！",
         "notes": ""
       }
     ],
@@ -3884,8 +3909,8 @@
     "title": "简化西班牙语mix",
     "text_list": [
       {
-        "lang": "罗马字",
-        "text": "U'HaiU'HaiU'HaiU'Hai\nP-PPP-P Ba-mosu!\n_十！九！八！七！\n_六！五！四！三！\n_二 一 噼里啪啦噼里啪啦",
+        "lang": "中文",
+        "text": "P-PPP-P Ba-mosu!\n_十！九！八！七！\n_六！五！四！三！\n_二 一 噼里啪啦噼里啪啦",
         "notes": ""
       }
     ],
@@ -4398,7 +4423,7 @@
     "link_list": []
   },
   {
-    "title": "ビスマルク口上 [ ショートバージョンで始動 ]",
+    "title": "ビスマルク口上（ショートバージョンで始動）",
     "text_list": [
       {
         "lang": "罗马字",
@@ -4443,12 +4468,12 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "TakamaruHikumaruIsomaru\nTorikizoku Kinnozou\nHananomaiShirakiyaDomadoma\nMugishouchuu Imoshouchuu\nAiWonchu Kiminimuchuu",
+        "text": "Takamaruyo Takamaruyo\nTakamaruHikumaruIsomaru\nTorikizoku Kinnozou\nHananomaiShirakiyaDomadoma\nMugishouchuu Imoshouchuu\nAiWonchu Kiminimuchuu",
         "notes": ""
       },
       {
         "lang": "日语",
-        "text": "高まる低まる 磯丸\n鳥貴族 金の蔵　\nはなの舞　白木屋 土間土間\n麦焼酎　芋焼酎　\nアイウォンチュー 君に夢中",
+        "text": "高まるよ　高まるよ\n高まる低まる 磯丸\n鳥貴族 金の蔵\nはなの舞　白木屋 土間土間\n麦焼酎　芋焼酎\nアイウォンチュー 君に夢中",
         "notes": ""
       }
     ],
@@ -4484,12 +4509,12 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "U'HaiU'HaiU'HaiU'Hai\nA~Jya-ikuzo\nOreto Omaeno Akaiito\nO-renoO-reno 〇〇〇\nIyaIyaIyaIyaIyaIyaIyaIya\nO-re-no〇〇〇\nSain Kosain Tanjento\nToraianguru Dori-ma",
+        "text": "A~Jya-ikuzo\nOreto Omaeno Akaiito\nO-renoO-reno 〇〇〇\nIyaIyaIyaIyaIyaIyaIyaIya\nO-re-no〇〇〇\nSain Kosain Tanjento\nToraianguru Dori-ma",
         "notes": ""
       },
       {
         "lang": "日语",
-        "text": "俺とお前の赤い糸！\nおーれの！俺の！〇〇○！\nいやいやいやいやいやいやいやいや！\nおーれーの！〇〇○！\nサイン！コサイン！タンジェント！\nトライアングル・ドリーマー！",
+        "text": "俺とお前の赤い糸！\nおーれの！俺の！〇〇〇！\nいやいやいやいやいやいやいやいや！\nおーれーの！〇〇〇！\nサイン！コサイン！タンジェント！\nトライアングル・ドリーマー！",
         "notes": ""
       }
     ],
@@ -4643,7 +4668,7 @@
       },
       {
         "lang": "日语",
-        "text": "BV168411w7TR\n繋がりたい　繋がりたい\nやっぱり〇〇と繋がりたい\n繋がりたい　繋がりたい\n繋がりたいから繋がりタイガー\nファイヤー　サイバー　ファイバー　ダイバー\nバイバー　ジャージャー　ファイボー　ワイパー\nジャンパー　ピンガー　ダンス　ファーマー",
+        "text": "繋がりたい　繋がりたい\nやっぱり〇〇と繋がりたい\n繋がりたい　繋がりたい\n繋がりたいから繋がりタイガー\nファイヤー　サイバー　ファイバー　ダイバー\nバイバー　ジャージャー　ファイボー　ワイパー\nジャンパー　ピンガー　ダンス　ファーマー",
         "notes": ""
       }
     ],
@@ -4715,7 +4740,7 @@
       },
       {
         "lang": "日语",
-        "text": "レスください　レスください\n誰でもいいからレスください\nレスください　レスください\nやっぱり○○○のレスください",
+        "text": "レスください　レスください\n誰でもいいからレスください\nレスください　レスください\nやっぱり〇〇〇のレスください",
         "notes": ""
       }
     ],
@@ -4745,7 +4770,7 @@
     "title": "霍格沃茨mix（中文ver）",
     "text_list": [
       {
-        "lang": "罗马字",
+        "lang": "中文",
         "text": "马尔福 马尔福 马尔福 马尔福\n啊~PP 格兰芬多\n飞来 炸毁 荧光闪烁\n羽加迪姆勒维奥萨\n你说的是 勒维奥萨\n呼神护卫 守护神咒\n汤姆里德尔 汤姆里德尔\n你知道伏地魔吗\n赫敏 简 格兰杰",
         "notes": ""
       }
@@ -4763,7 +4788,7 @@
     "title": "霍格沃茨mix（英语ver）",
     "text_list": [
       {
-        "lang": "罗马字",
+        "lang": "英语",
         "text": "Malfoy Malfoy Malfoy Malfoy\nA~PP Gryffindor\nAccioReducto Lumos\nWingardium leviosa\nWhat you say is leviosa\nExpecto patronum\nTom Riddle, Tom Riddle\nDo you know Voldemort?\nHermione Granger",
         "notes": ""
       }
@@ -4781,7 +4806,7 @@
     "title": "霍格沃茨mix（四川话ver）",
     "text_list": [
       {
-        "lang": "罗马字",
+        "lang": "中文",
         "text": "冰粉 米粉 卷粉 凉粉\nP-PPP-P 酸辣粉\n火锅 冒菜 麻婆豆腐\n夫妻肺片 龙抄手\n再来一大碗 龙抄手\n辣子鸡丁 灯影牛肉\n军屯大锅魁 军屯大锅魁\n走成华大道到二仙桥",
         "notes": ""
       }
@@ -4855,7 +4880,7 @@
     "link_list": []
   },
   {
-    "title": "",
+    "title": "尺mix【仮称】",
     "text_list": [
       {
         "lang": "罗马字",
@@ -5068,7 +5093,7 @@
     "title": "悲伤校准mix（中文ver）",
     "text_list": [
       {
-        "lang": "罗马字",
+        "lang": "中文",
         "text": "目的 慢镜\n组合 终章\n邀约 诱惑\n变革 悲伤校准",
         "notes": ""
       }
@@ -5127,7 +5152,7 @@
     "title": "肯德基校准mix",
     "text_list": [
       {
-        "lang": "罗马字",
+        "lang": "中文",
         "text": "吮指原味鸡！黄金脆皮鸡！\n热辣香骨鸡！醇香土豆泥！\n圣代！葡挞！秘汁全鸡！\n龙虾塔可，疯狂每星期！",
         "notes": ""
       }
@@ -5169,12 +5194,12 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "ChapeToraTaiga\nOnitsukaTaiga\nBurakkuSanda\nIkarinojyuushin\nSanda-Raiga",
+        "text": "ChapeToraTaiga OnitsukaTaiga\nBurakkuSanda Ikarinojyuushin Sanda-Raiga",
         "notes": ""
       },
       {
         "lang": "日语",
-        "text": "チャペ虎タイガー！\nオニツカタイガー！\nブラックサンダー！\n怒りの獣神\nサンダーライガー！",
+        "text": "チャペ虎タイガー！オニツカタイガー！\nブラックサンダー！怒りの獣神！サンダーライガー！",
         "notes": ""
       }
     ],
@@ -5206,7 +5231,7 @@
     "link_list": []
   },
   {
-    "title": "ガンダムエピオン",
+    "title": "ガンダムエピオン校准",
     "text_list": [
       {
         "lang": "罗马字",
@@ -5215,7 +5240,7 @@
       },
       {
         "lang": "日语",
-        "text": "BV16L411S7ME\nガンダムエピオン　ガンダムエピオン\nガンダムエピオン　ガンダムエピオン\nガンダムエピオン　ガンダムエピオン\nガンダムエピオン　エピオン　ヘビーアームズ",
+        "text": "ガンダムエピオン　ガンダムエピオン\nガンダムエピオン　ガンダムエピオン\nガンダムエピオン　ガンダムエピオン\nガンダムエピオン　エピオン　ヘビーアームズ",
         "notes": ""
       }
     ],
@@ -5328,7 +5353,7 @@
       },
       {
         "lang": "日语",
-        "text": "言いたいことがあるんだよ\nあ～まだ行かない\nやっぱり◯◯はかわいいよ\nあ～まだ行かない\nすきすき大好きやっぱ好き\nまだまだまだまだまだ行かない\nいつ行くの？今でしょ！\n世界で一番愛してる",
+        "text": "言いたいことがあるんだよ\nあ～まだ行かない\nやっぱり〇〇はかわいいよ\nあ～まだ行かない\nすきすき大好きやっぱ好き\nまだまだまだまだまだ行かない\nいつ行くの？今でしょ！\n世界で一番愛してる",
         "notes": ""
       }
     ],
@@ -5529,7 +5554,7 @@
     "title": "原宿サニーデイmix（中文ver）",
     "text_list": [
       {
-        "lang": "罗马字",
+        "lang": "中文",
         "text": "老虎火人造-！海女纤维-！\n化纤-！飞-！P 除去-！",
         "notes": ""
       }
@@ -5584,7 +5609,7 @@
       },
       {
         "lang": "日语",
-        "text": "BV1TT411H78m\nシースリーピーオー アールツーディーツー\nディーティーケーシー どんぐりたけし\nサイ　パンダ　ハシビロコウ\n上野動物園のラインナップ\nパンティライン！パンティライン！\nパンティラインアンド湘南新宿ライン！ ​",
+        "text": "シースリーピーオー アールツーディーツー\nディーティーケーシー どんぐりたけし\nサイ　パンダ　ハシビロコウ\n上野動物園のラインナップ\nパンティライン！パンティライン！\nパンティラインアンド湘南新宿ライン！ ​",
         "notes": ""
       }
     ],
@@ -5833,7 +5858,7 @@
       },
       {
         "lang": "日语",
-        "text": "ぐーちょきぱーぐーちょきぱー\n何作ろう　何作ろう\n右手はグーで　左手もグーで\n○○○○(任意の人物名)P 逮捕",
+        "text": "ぐーちょきぱーぐーちょきぱー\n何作ろう　何作ろう\n右手はグーで　左手もグーで\n〇〇〇〇(任意の人物名)P 逮捕",
         "notes": ""
       }
     ],
@@ -5863,7 +5888,7 @@
     "title": "石头剪刀布mix",
     "text_list": [
       {
-        "lang": "罗马字",
+        "lang": "中文",
         "text": "石头剪刀布哇！石头剪刀布哇！\n你要出什么？你要出什么？\n右手出的布哇 左手出的布哇\n【谁赢喊谁ID】〇〇〇〇 P 逮捕",
         "notes": ""
       }
@@ -6212,7 +6237,7 @@
     "title": "伊吕波歌",
     "text_list": [
       {
-        "lang": "罗马字",
+        "lang": "中文",
         "text": "花吐艳香终散落\n我世何人能长久\n无常幽岩今渡越\n醉生梦死莫再有",
         "notes": ""
       }
@@ -6499,7 +6524,7 @@
     "title": "北京地铁mix",
     "text_list": [
       {
-        "lang": "罗马字",
+        "lang": "中文",
         "text": "长安街上 红色的 一号线\n城内 环状的 二号线\n再来 一圈 十号线\n远征 西单 四号线\n回家 天通苑 五号线\n黄色的横线 六号七号线\n最强 90度 十四号线\n我和〇〇坐(北京)地铁\n出发出发 lets go!",
         "notes": ""
       }
@@ -6608,7 +6633,7 @@
       },
       {
         "lang": "日语",
-        "text": "俺を○○で汚してよ\n○○の色に染まりたい\nあの色この色どんな色\n名前も知らない色だけど\n空色 夏色 夢色 君色\nやっぱり俺は〇〇色(やっぱりcocoiro rainbow)",
+        "text": "俺を〇〇で汚してよ\n〇〇の色に染まりたい\nあの色この色どんな色\n名前も知らない色だけど\n空色 夏色 夢色 君色\nやっぱり俺は〇〇色(やっぱりcocoiro rainbow)",
         "notes": ""
       }
     ],
@@ -6718,6 +6743,29 @@
       {
         "title": "【SNH48】Team HII 终极任务 Escape Pasta Mix实验call本",
         "url": "https://www.bilibili.com/video/BV1Bf4y1A7A9/"
+      }
+    ]
+  },
+  {
+    "title": "章鱼烧mix [ たこ焼きMIX ]",
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "Takoyaki Aonori Katsuobushi\nKijini Tenkasu Benishouga\nSo-suo Kakete Tsumayouji\nTakoyaki Itchou Dekiagari",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "たこ焼き　青のり　鰹節\n生地に　天かす　紅生姜\nソースをかけて　つまようじ\nたこ焼き一丁　出来上がり",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "",
+    "link_list": [
+      {
+        "title": "【コール·MIX】たこ焼きMIX",
+        "url": "https://www.bilibili.com/video/BV1BW421P78H"
       }
     ]
   },
@@ -6977,7 +7025,7 @@
       },
       {
         "lang": "日语",
-        "text": "なんだかんだと聞かれたら\n答えてあげるが世の情け\n世界の平和を守るため\nわーすた！わーすた！わーるどすたんだーど！\n（World Standard）",
+        "text": "なんだかんだと聞かれたら\n答えてあげるが世の情け\n世界の平和を守るため\nわーすた！わーすた！わーるどすたんだーど！（World Standard）",
         "notes": ""
       }
     ],
