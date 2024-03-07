@@ -647,7 +647,56 @@
     ],
     "text_list_size": 2,
     "notes": "",
-    "link_list": []
+    "link_list": [{
+            "title": "【コール·MIX】華嵐MIX→花火MIX→六花MIX",
+            "url": "https://www.bilibili.com/video/BV1Er421H7pC"
+        }]
+  },
+    {
+    "title": "胧月mix [ 朧月MIX ]",
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "Ariake Izayoi Oborozuki\nSakugetsu Sankou Hyourin Gekka\nKin'uGyokuto JitsugetsuSeishin\nGengetsu Mugetsu Amamitsutsuki",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "有明(ありあけ)　十六夜(いざよい)　朧月(おぼろづき)\n朔月(さくげつ)　三光(さんこう)　氷輪(ひょうりん)　月下(げっか)\n金烏玉兎(きんうぎょくと)　日月星辰(じつげつせいしん)\n幻月(げんげつ)　無月(むげつ)　天満月(あまみつつき)",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "",
+    "link_list": [
+        {
+            "title": "【コール·MIX】朧月MIX",
+            "url": "https://www.bilibili.com/video/BV1Ly421z74j/"
+        }
+    ]
+  },
+  {
+    "title": "六花mix [ むつのはな mix ]",
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "Kai Shin Haku Shuu\nTenge Tenka Mutsunohana\nTabira Hadare Shizuri Nehan\nKamuri Hakuma Shioriyuki\n(Setsugekka Rokuhenkou Yukinohana)",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "回(かい)　深(しん)　白(はく)　秋(しゅう)\n天華(てんげ)　天花(てんか)　六花(むつのはな)【発動】\n太平(たびら)　斑(はだれ)　垂り(しずり)　涅槃(ねはん)\n冠(かむり)　白魔(はくま)　撓雪(しおりゆき)\n雪月花(せつげっか)　六辺香(ろくへんこう)　雪の花(ゆきのはな)",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "",
+    "link_list": [
+        {
+            "title": "【コール·MIX】華嵐MIX→花火MIX→六花MIX",
+            "url": "https://www.bilibili.com/video/BV1Er421H7pC"
+        }
+    ]
   },
   {
     "title": "樱花mix [ 桜色MIX ] [ 桜MIX ]",
@@ -1581,6 +1630,29 @@
       {
         "title": "【意味不愛してる】入门（原声字幕有り）",
         "url": "https://www.bilibili.com/video/BV1de4y157Ce/"
+      }
+    ]
+  },
+    {
+    "title": "意味不我愛你",
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "Ai Ai Ai Ai\nAi Ai Wo-aini-\nAIAIAIAI Wo-aini-\nAIAIAIAI Wo-aini-",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "あ　あ　あ　あ\nあ　あ ウォーアイニー(始動)\nアイアイアイアイ ウォーアイニー\nアイアイアイアイ ウォーアイニー",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "",
+    "link_list": [
+      {
+        "title": "【コール·MIX】意味不我愛你",
+        "url": "https://www.bilibili.com/video/BV1br421H7Nu/"
       }
     ]
   },
