@@ -2469,7 +2469,10 @@
     "version_list": [
       {
         "title": "长版",
-        "pic_list": [
+        "pic_list": [{
+            "description": "WeAreTheBEJ--神说要有鬼",
+            "href": "../../../../call_image/神说要有鬼/WeAreTheBEJ/芒果女孩.jpg"
+          },
           {
             "description": "偶研B--极梦",
             "href": "../../../../call_image/jm/偶研B/芒果女孩.jpg"
@@ -2525,6 +2528,9 @@
           {
             "description": "偶研B--极梦",
             "href": "../../../../call_image/jm/偶研B/下课铃声.jpg"
+          },{
+            "description": "WeAreTheBEJ--神说要有鬼",
+            "href": "../../../../call_image/神说要有鬼/WeAreTheBEJ/下课铃声.jpg"
           }
         ]
       }
@@ -2547,6 +2553,9 @@
           {
             "description": "偶研B--极梦",
             "href": "../../../../call_image/jm/偶研B/荣耀日.jpg"
+          },{
+            "description": "WeAreTheBEJ--神说要有鬼",
+            "href": "../../../../call_image/神说要有鬼/WeAreTheBEJ/荣耀日.jpg"
           }
         ]
       }
@@ -2565,6 +2574,9 @@
           {
             "description": "偶研B--极梦",
             "href": "../../../../call_image/jm/偶研B/爱心条形码.jpg"
+          },{
+            "description": "WeAreTheBEJ--神说要有鬼",
+            "href": "../../../../call_image/神说要有鬼/WeAreTheBEJ/爱心条形码.jpg"
           }
         ]
       }
@@ -2597,6 +2609,9 @@
           {
             "description": "偶研B--极梦",
             "href": "../../../../call_image/jm/偶研B/雨中钢琴师.jpg"
+          },{
+            "description": "WeAreTheBEJ--神说要有鬼",
+            "href": "../../../../call_image/神说要有鬼/WeAreTheBEJ/雨中钢琴师.jpg"
           }
         ]
       }
@@ -2659,6 +2674,9 @@
           {
             "description": "偶研B--极梦",
             "href": "../../../../call_image/jm/偶研B/浪漫火箭.jpg"
+          },{
+            "description": "WeAreTheBEJ--神说要有鬼",
+            "href": "../../../../call_image/神说要有鬼/WeAreTheBEJ/浪漫火箭.jpg"
           }
         ]
       }
@@ -6421,6 +6439,9 @@
           {
             "description": "不造Z--meto",
             "href": "../../../../call_image/meto/不造Z/摩天楼的距离.jpg"
+          },{
+            "description": "WeAreTheBEJ--神说要有鬼",
+            "href": "../../../../call_image/神说要有鬼/WeAreTheBEJ/摩天楼的距离.jpg"
           }
         ]
       }
@@ -6491,6 +6512,90 @@
           {
             "description": "不造Z--meto",
             "href": "../../../../call_image/meto/不造Z/Somewhere.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "永远永远",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "WeAreTheBEJ--神说要有鬼",
+            "href": "../../../../call_image/神说要有鬼/WeAreTheBEJ/永远永远.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "爱的加速器",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "WeAreTheBEJ--神说要有鬼",
+            "href": "../../../../call_image/神说要有鬼/WeAreTheBEJ/爱的加速器.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "燃烧的道路",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "WeAreTheBEJ--神说要有鬼",
+            "href": "../../../../call_image/神说要有鬼/WeAreTheBEJ/燃烧的道路.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "微瑕珍珠",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "WeAreTheBEJ--神说要有鬼",
+            "href": "../../../../call_image/神说要有鬼/WeAreTheBEJ/微瑕珍珠.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "I'M CRYING",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "WeAreTheBEJ--神说要有鬼",
+            "href": "../../../../call_image/神说要有鬼/WeAreTheBEJ/I'M CRYING.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "WE ARE THE (SNH)",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "WeAreTheBEJ--神说要有鬼",
+            "href": "../../../../call_image/神说要有鬼/WeAreTheBEJ/WE ARE THE BEJ.jpg"
           }
         ]
       }
