@@ -3994,18 +3994,28 @@
     ]
   },
   {
-    "title": "Shake it!Shake it!",
+    "title": "Show Time",
     "version_list": [
       {
         "title": "长版",
         "pic_list": [
           {
-            "description": "CKG专属派对--dzydoom",
-            "href": "../../../../call_image/dzydoom/CKG专属派对/Shake it!Shake it!.png"
-          },
+            "description": "NII专属派对--极梦",
+            "href": "../../../../call_image/jm/NII专属派对/Show Time.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "潘多拉的音乐盒",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
           {
-            "description": "CKG专属派对--糖糖Tokiho",
-            "href": "../../../../call_image/Tokiho/CKG专属派对/Shake it!Shake it!.jpg"
+            "description": "NII专属派对--极梦",
+            "href": "../../../../call_image/jm/NII专属派对/潘多拉的音乐盒.jpg"
           }
         ]
       }
@@ -4024,6 +4034,296 @@
           {
             "description": "CKG专属派对--糖糖Tokiho",
             "href": "../../../../call_image/Tokiho/CKG专属派对/专属派对.jpg"
+          },
+          {
+            "description": "NII专属派对--极梦",
+            "href": "../../../../call_image/jm/NII专属派对/专属派对.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Shake it!Shake it!",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "CKG专属派对--dzydoom",
+            "href": "../../../../call_image/dzydoom/CKG专属派对/Shake it!Shake it!.png"
+          },
+          {
+            "description": "CKG专属派对--糖糖Tokiho",
+            "href": "../../../../call_image/Tokiho/CKG专属派对/Shake it!Shake it!.jpg"
+          },
+          {
+            "description": "NII专属派对--极梦",
+            "href": "../../../../call_image/jm/NII专属派对/Shake it!Shake it!.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "摇摆节拍",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "NII专属派对--极梦",
+            "href": "../../../../call_image/jm/NII专属派对/摇摆节拍.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "我们不是天使",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "启程Z--rainbow",
+            "href": "../../../../call_image/rainbow/启程Z/我们不是天使.jpg"
+          },
+          {
+            "description": "NII专属派对--极梦",
+            "href": "../../../../call_image/jm/NII专属派对/我们不是天使.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "白日梦",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "NII专属派对--极梦",
+            "href": "../../../../call_image/jm/NII专属派对/白日梦.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "木偶",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "NII专属派对--极梦",
+            "href": "../../../../call_image/jm/NII专属派对/木偶.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Don't touch",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "NII专属派对--极梦",
+            "href": "../../../../call_image/jm/NII专属派对/Don't touch.jpg"
+          }
+        ]
+      },
+      {
+        "title": "CKG改编版长版",
+        "pic_list": [
+          {
+            "description": "CKG专属派对--dzydoom",
+            "href": "../../../../call_image/dzydoom/CKG专属派对/Don't touch.png"
+          },
+          {
+            "description": "CKG专属派对--糖糖Tokiho",
+            "href": "../../../../call_image/Tokiho/CKG专属派对/Don't touch.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "黑天鹅",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "CKG专属派对--dzydoom",
+            "href": "../../../../call_image/dzydoom/CKG专属派对/黑天鹅.png"
+          },
+          {
+            "description": "CKG专属派对--糖糖Tokiho",
+            "href": "../../../../call_image/Tokiho/CKG专属派对/黑天鹅.jpg"
+          },
+          {
+            "description": "NII专属派对--极梦",
+            "href": "../../../../call_image/jm/NII专属派对/黑天鹅.jpg"
+          }
+        ]
+      },
+      {
+        "title": "慢前奏版长版",
+        "pic_list": [
+          {
+            "description": "启程NIII--rainbow",
+            "href": "../../../../call_image/rainbow/启程NIII/黑天鹅.jpg"
+          },
+          {
+            "description": "启程NIII--糖糖Tokiho",
+            "href": "../../../../call_image/Tokiho/启程NIII/黑天鹅.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Funky Night",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "CKG专属派对--dzydoom",
+            "href": "../../../../call_image/dzydoom/CKG专属派对/Funky Night.png"
+          },
+          {
+            "description": "CKG专属派对--糖糖Tokiho",
+            "href": "../../../../call_image/Tokiho/CKG专属派对/Funky Night.jpg"
+          },
+          {
+            "description": "启程Z--rainbow",
+            "href": "../../../../call_image/rainbow/启程Z/Funky Night.jpg"
+          },
+          {
+            "description": "NII专属派对--极梦",
+            "href": "../../../../call_image/jm/NII专属派对/Funky Night.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "圈叉圈叉",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "NII专属派对--极梦",
+            "href": "../../../../call_image/jm/NII专属派对/圈叉圈叉.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "超级焦点",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "NII专属派对--极梦",
+            "href": "../../../../call_image/jm/NII专属派对/超级焦点.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "青春不散",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "CKG专属派对--dzydoom",
+            "href": "../../../../call_image/dzydoom/CKG专属派对/青春不散.png"
+          },
+          {
+            "description": "CKG专属派对--糖糖Tokiho",
+            "href": "../../../../call_image/Tokiho/CKG专属派对/青春不散.jpg"
+          },
+          {
+            "description": "NII专属派对--极梦",
+            "href": "../../../../call_image/jm/NII专属派对/青春不散.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "不良示范",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "CKG专属派对--dzydoom",
+            "href": "../../../../call_image/dzydoom/CKG专属派对/不良示范.png"
+          },
+          {
+            "description": "CKG专属派对--糖糖Tokiho",
+            "href": "../../../../call_image/Tokiho/CKG专属派对/不良示范.jpg"
+          },
+          {
+            "description": "NII专属派对--极梦",
+            "href": "../../../../call_image/jm/NII专属派对/不良示范.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "下一个黎明",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "CKG专属派对--dzydoom",
+            "href": "../../../../call_image/dzydoom/CKG专属派对/下一个黎明.png"
+          },
+          {
+            "description": "CKG专属派对--糖糖Tokiho",
+            "href": "../../../../call_image/Tokiho/CKG专属派对/下一个黎明.jpg"
+          },
+          {
+            "description": "NII专属派对--极梦",
+            "href": "../../../../call_image/jm/NII专属派对/下一个黎明.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "星愿",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "CKG专属派对--dzydoom",
+            "href": "../../../../call_image/dzydoom/CKG专属派对/星愿.png"
+          },
+          {
+            "description": "CKG专属派对--糖糖Tokiho",
+            "href": "../../../../call_image/Tokiho/CKG专属派对/星愿.jpg"
+          },
+          {
+            "description": "NII专属派对--极梦",
+            "href": "../../../../call_image/jm/NII专属派对/星愿.jpg"
           }
         ]
       }
@@ -4048,37 +4348,6 @@
     ]
   },
   {
-    "title": "黑天鹅",
-    "version_list": [
-      {
-        "title": "长版",
-        "pic_list": [
-          {
-            "description": "CKG专属派对--dzydoom",
-            "href": "../../../../call_image/dzydoom/CKG专属派对/黑天鹅.png"
-          },
-          {
-            "description": "CKG专属派对--糖糖Tokiho",
-            "href": "../../../../call_image/Tokiho/CKG专属派对/黑天鹅.jpg"
-          }
-        ]
-      },
-      {
-        "title": "慢前奏版长版",
-        "pic_list": [
-          {
-            "description": "启程NIII--rainbow",
-            "href": "../../../../call_image/rainbow/启程NIII/黑天鹅.jpg"
-          },
-          {
-            "description": "启程NIII--糖糖Tokiho",
-            "href": "../../../../call_image/Tokiho/启程NIII/黑天鹅.jpg"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "title": "我们曾是天使",
     "version_list": [
       {
@@ -4091,24 +4360,6 @@
           {
             "description": "CKG专属派对--糖糖Tokiho",
             "href": "../../../../call_image/Tokiho/CKG专属派对/我们曾是天使.jpg"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Don't touch",
-    "version_list": [
-      {
-        "title": "CKG改编版长版",
-        "pic_list": [
-          {
-            "description": "CKG专属派对--dzydoom",
-            "href": "../../../../call_image/dzydoom/CKG专属派对/Don't touch.png"
-          },
-          {
-            "description": "CKG专属派对--糖糖Tokiho",
-            "href": "../../../../call_image/Tokiho/CKG专属派对/Don't touch.jpg"
           }
         ]
       }
@@ -4183,28 +4434,6 @@
     ]
   },
   {
-    "title": "Funky Night",
-    "version_list": [
-      {
-        "title": "长版",
-        "pic_list": [
-          {
-            "description": "CKG专属派对--dzydoom",
-            "href": "../../../../call_image/dzydoom/CKG专属派对/Funky Night.png"
-          },
-          {
-            "description": "CKG专属派对--糖糖Tokiho",
-            "href": "../../../../call_image/Tokiho/CKG专属派对/Funky Night.jpg"
-          },
-          {
-            "description": "启程Z--rainbow",
-            "href": "../../../../call_image/rainbow/启程Z/Funky Night.jpg"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "title": "节拍之城",
     "version_list": [
       {
@@ -4217,78 +4446,6 @@
           {
             "description": "CKG专属派对--糖糖Tokiho",
             "href": "../../../../call_image/Tokiho/CKG专属派对/节拍之城.jpg"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "下一个黎明",
-    "version_list": [
-      {
-        "title": "长版",
-        "pic_list": [
-          {
-            "description": "CKG专属派对--dzydoom",
-            "href": "../../../../call_image/dzydoom/CKG专属派对/下一个黎明.png"
-          },
-          {
-            "description": "CKG专属派对--糖糖Tokiho",
-            "href": "../../../../call_image/Tokiho/CKG专属派对/下一个黎明.jpg"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "不良示范",
-    "version_list": [
-      {
-        "title": "长版",
-        "pic_list": [
-          {
-            "description": "CKG专属派对--dzydoom",
-            "href": "../../../../call_image/dzydoom/CKG专属派对/不良示范.png"
-          },
-          {
-            "description": "CKG专属派对--糖糖Tokiho",
-            "href": "../../../../call_image/Tokiho/CKG专属派对/不良示范.jpg"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "星愿",
-    "version_list": [
-      {
-        "title": "长版",
-        "pic_list": [
-          {
-            "description": "CKG专属派对--dzydoom",
-            "href": "../../../../call_image/dzydoom/CKG专属派对/星愿.png"
-          },
-          {
-            "description": "CKG专属派对--糖糖Tokiho",
-            "href": "../../../../call_image/Tokiho/CKG专属派对/星愿.jpg"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "青春不散",
-    "version_list": [
-      {
-        "title": "长版",
-        "pic_list": [
-          {
-            "description": "CKG专属派对--dzydoom",
-            "href": "../../../../call_image/dzydoom/CKG专属派对/青春不散.png"
-          },
-          {
-            "description": "CKG专属派对--糖糖Tokiho",
-            "href": "../../../../call_image/Tokiho/CKG专属派对/青春不散.jpg"
           }
         ]
       }
@@ -6020,20 +6177,6 @@
           {
             "description": "启程G--极梦",
             "href": "../../../../call_image/jm/启程G/浪漫关系.jpg"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "我们不是天使",
-    "version_list": [
-      {
-        "title": "长版",
-        "pic_list": [
-          {
-            "description": "启程Z--rainbow",
-            "href": "../../../../call_image/rainbow/启程Z/我们不是天使.jpg"
           }
         ]
       }
