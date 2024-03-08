@@ -330,10 +330,10 @@
     "text_list_size": 1,
     "notes": "",
     "link_list": [
-        {
-            "title": "【コール·MIX】中国語三連MIX",
-            "url": "https://www.bilibili.com/video/BV1bJ4m1x7Wq"
-        }
+      {
+        "title": "【コール·MIX】中国語三連MIX",
+        "url": "https://www.bilibili.com/video/BV1bJ4m1x7Wq"
+      }
     ]
   },
   {
@@ -2394,27 +2394,6 @@
     "link_list": []
   },
   {
-    "title": "キョウオリジナルMIX",
-    "text_list": [
-      {
-        "lang": "罗马字",
-        "text": "Joseijuryo Myouhontousuke\nSuishinrembo Myouhonichizu\nMyouhonsouga Shinchindouki\nNishatakuitsu Myouhontousuke",
-        "notes": ""
-      },
-      {
-        "lang": "日语",
-        "text": "女勢受力妙本弐助！(じょせいじゅりょくみょうほんとぅすけ)\n推心恋慕妙本一途！(すいしんれんぼみょうほんいちず)\n妙本想我心椿堂帰！(みょうほんそうがしんちんどうき)\n二者択一妙本弐助！(にしゃたくいつみょうほんとぅすけ)",
-        "notes": ""
-      }
-    ],
-    "text_list_size": 2,
-    "notes": "",
-    "link_list": {
-      "title": "【コール·MIX】ゼンキョウオリジナルMIX→倍速ジャパ表裏等速ジャパ",
-      "url": "https://www.bilibili.com/video/BV1BA4m137P7/"
-    }
-  },
-  {
     "title": "アイヌ日可変+宮本Mix",
     "text_list": [
       {
@@ -2500,6 +2479,47 @@
         "url": "https://www.bilibili.com/video/BV1ca4y1S7ZZ"
       }
     ]
+  },
+  {
+    "title": "キョウオリジナルMIX",
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "Jyoseijyuuryoku Myo-hontusuke\nSuishinrenbo Myo-hon'ichizu\nMyo-honsouga Shinchindouki\nNishatakuitsu Myo-hontusuke",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "女勢受力妙本弐助！(ジョセージューリョク ミョーホントゥスケ!) (じょせいじゅりょくみょうほんとぅすけ)\n推心恋慕妙本一途！(スイシンレンボ! ミョーホンイチズ!) (すいしんれんぼみょうほんいちず)\n妙本想我心椿堂帰！(ミョーホンソウガ! シンチンドウキ!) (みょうほんそうがしんちんどうき)\n二者択一妙本弐助！(ニシャタクイツー! ミョーホントゥスケ!) (にしゃたくいつみょうほんとぅすけ)",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "",
+    "link_list": [
+      {
+        "title": "【コール·MIX】ゼンキョウオリジナルMIX→倍速ジャパ表裏等速ジャパ",
+        "url": "https://www.bilibili.com/video/BV1BA4m137P7/"
+      }
+    ]
+  },
+  {
+    "title": "ゼンキョウオリジナル→日本語表裏",
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "Jyoseijyuuryoku Myo-hontusuke\nSuishinrenbo Myo-hon'ichizu\nMyo-honsouga Shinchindouki\nNishatakuitsu Myo-hontusuke\nToraHiJinzouSen'iAmaShindouKasenTobi\nJyokyoTobiKasenShindouAmaSen'iJinzouHi\n_Tora Hi Jinzou Sen'i\n_Ama ShindouKasenTobiJyokyo",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "女勢受力妙本弐助！\n推心恋慕妙本一途！\n妙本想我心椿堂帰！\n二者択一妙本弐助！\n虎火人造繊維海女振動化繊飛\n除去飛化繊振動海女繊維人造火\n虎　火　人造　繊維\n海女　振動　化繊飛除去",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "",
+    "link_list": []
   },
   {
     "title": "スタジャパ可変",
@@ -2667,10 +2687,10 @@
     "text_list_size": 2,
     "notes": "",
     "link_list": [
-        {
-            "title": "【SNH48】【Be A Fighter】星梦奇遇记 娱乐版 CALL本",
-            "url": "https://www.bilibili.com/video/BV1234y177L7"
-        }
+      {
+        "title": "【SNH48】【Be A Fighter】星梦奇遇记 娱乐版 CALL本",
+        "url": "https://www.bilibili.com/video/BV1234y177L7"
+      }
     ]
   },
   {
@@ -6218,7 +6238,7 @@
       },
       {
         "lang": "日语",
-        "text": "色は匂えど  散りぬるを (いろはにおえど  ちりぬるを)\n我が世誰ぞ  常ならん (わがよたれぞ　つねならん)\n有為の奥山  今日越えて (ういのおくやま　きょうこえて)\n浅き夢見じ  酔いもせず (あさきゆめみじ　よいもせず)\n天下無双の  雄叫びで (てんかむそうの  おたけびで)\n桜花爛漫  咲き誇れ (おうからんまん  さきほこれ)\n狂乱麗舞の  名の下に (きょうらんれいぶの  なのもとに)\n咲かせて魅せよ  五星ノ華 (さかせてみせよ  ごせいのはな)",
+        "text": "色は匂えど　散りぬるを (いろはにおえど　ちりぬるを)\n我が世誰ぞ　常ならん (わがよたれぞ　つねならん)\n有為の奥山　今日越えて (ういのおくやま　きょうこえて)\n浅き夢見じ　酔いもせず (あさきゆめみじ　よいもせず)\n天下無双の　雄叫びで (てんかむそうの　おたけびで)\n桜花爛漫　咲き誇れ (おうからんまん　さきほこれ)\n狂乱麗舞の　名の下に (きょうらんれいぶの　なのもとに)\n咲かせて魅せよ　五星ノ華 (さかせてみせよ　ごせいのはな)",
         "notes": ""
       }
     ],
@@ -6236,12 +6256,12 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "Irowa Nioedo Chirinuruo\nWagayo Darezo Tsunenaran\nUino Okuyama Kyoukoete\nAsaki Yumemiji Yoimosezu\nTokiha Sengoku Yoharansei\nTenjyou Tenka Yuigadokuson\nHikarino Simesu Otonaruhouhe\nTsurete Tamaure Gokurakujyoudo",
+        "text": "Irowa Nioedo Chirinuruo\nWagayo Darezo Tsunenaran\nUino Okuyama Kyoukoete\nAsaki Yumemiji Yoimosezu\nTokiwa Sengoku Yowaransei\nTenjyou Tenga Yuigadokuson\nHikarino Shimesu Otonaruhoue\nTsurete Tamaure Gokurakujyoudo",
         "notes": ""
       },
       {
         "lang": "日语",
-        "text": "色は匂えど  散りぬるを (いろはにおえど  ちりぬるを)\n我が世誰ぞ  常ならん (わがよたれぞ　つねならん)\n有為の奥山  今日越えて (ういのおくやま　きょうこえて)\n浅き夢見じ  酔いもせず (あさきゆめみじ　よいもせず)\n時は戦国 世は乱世\n天上天下唯我独尊\n光の示す 音鳴る方へ\n連れて給うれ極楽浄土",
+        "text": "色は匂えど　散りぬるを (いろはにおえど　ちりぬるを)\n我が世誰ぞ　常ならん (わがよたれぞ　つねならん)\n有為の奥山　今日越えて (ういのおくやま　きょうこえて)\n浅き夢見じ　酔いもせず (あさきゆめみじ　よいもせず)\n時は戦国　世は乱世 (ときはせんごく　よはらんせい)\n天上天下　唯我独尊 (てんじょうてんが　ゆいがどくそん)\n光の示す　音鳴る方へ (ひかりのしめす　おとなるほうへ)\n連れて給うれ　極楽浄土 (つれてたまうれ　ごくらくじょうど)",
         "notes": ""
       }
     ],
@@ -6249,8 +6269,8 @@
     "notes": "",
     "link_list": [
       {
-        "title": "【地下偶像】紧急更新！戦極专题mix大分享！！ 特别篇（注音付）【07:53左右】",
-        "url": "https://www.bilibili.com/video/BV18u411u7pS"
+        "title": "【地下偶像】紧急更新！戦極专题mix大分享！！ 特别篇（注音付）",
+        "url": "https://www.bilibili.com/video/BV18u411u7pS/?t=470"
       }
     ]
   },
