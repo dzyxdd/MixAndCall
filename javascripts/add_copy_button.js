@@ -12,30 +12,27 @@ document$.subscribe(function () {
             } else {
                 copy_button.className = 'copy_button display_none';
             }
-        });
-        // 添加对点击和触摸事件的监听
-        ['click', 'touchstart'].forEach(evt => {
-            copy_button.addEventListener(evt, function () {
+        })
+        copy_button.addEventListener("click", function () {
 
-                let span = detail.querySelector('span');
+            let span = detail.querySelector('span');
 
-                let copy_text = "";
-                span.childNodes.forEach(function (node) {
-                    if (node.nodeType === Node.TEXT_NODE) {
-                        copy_text += node.textContent;
-                    }
-                })
-                navigator.clipboard.writeText(copy_text).then(function () {
-
-                    copy_button.textContent = '已复制';
-                    setTimeout(function () {
-                        copy_button.textContent = '复制';
-                    }, 1000);
-
-                }).catch(err => {
-                    console.error('Failed to copy!', err);
-                });
+            let copy_text = "";
+            span.childNodes.forEach(function (node) {
+                if (node.nodeType === Node.TEXT_NODE) {
+                    copy_text += node.textContent;
+                }
             })
+            navigator.clipboard.writeText(copy_text).then(function () {
+
+                copy_button.textContent = '已复制';
+                setTimeout(function () {
+                    copy_button.textContent = '复制';
+                }, 1000);
+
+            }).catch(err => {
+                console.error('Failed to copy!', err);
+            });
         })
     })
 })
