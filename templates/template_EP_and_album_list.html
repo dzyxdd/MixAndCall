@@ -1,7 +1,7 @@
 {% for item in song_list %}
+#### {{ item.title }}
 <details class="song_list">
     <summary>
-        <div class="stage_title">{{ item.title }}</div>
         <ul class="stage_attr_label_list">
             <li class="stage_attr">{{ item.date }}</li>
             {% if item.description %}{% for cnt in item.description %}<li class="stage_attr">{{ cnt }}</li>
