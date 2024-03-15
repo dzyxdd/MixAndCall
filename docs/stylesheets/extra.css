@@ -31,6 +31,10 @@ table td {
     display: inline;
 }
 
+.display_inline_block {
+    display: inline-block;
+}
+
 .white_space_pre {
     white-space: pre;
 }
@@ -102,12 +106,8 @@ table td {
     align-items: center;
 }
 
-details.song_list{
-    margin:1% 5%!important;
-}
-
-li {
-    display: inline-block;
+details.song_list {
+    margin: 1% 5% !important;
 }
 
 div.Thumbnail {
@@ -162,7 +162,7 @@ figure.call_pic p {
     min-width: fit-content;
 }
 
-.json_generator_title{
+.json_generator_title {
     text-align: center;
     font-size: 1.5em;
     margin: 0;
@@ -182,7 +182,7 @@ label span {
     width: 30%;
     min-width: 30%;
     display: inline-block;
-    align-content :start;
+    align-content: start;
 }
 
 label input {
@@ -191,7 +191,7 @@ label input {
     align-content: center;
 }
 
-.json_generator_button_container{
+.json_generator_button_container {
     width: 100%;
     text-align: center;
 }
@@ -210,7 +210,7 @@ label input {
 }
 
 .parent {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
