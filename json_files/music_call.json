@@ -6988,5 +6988,33 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Mad World",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "Mad World--rainbow",
+            "href": "../../../../call_image/rainbow/第48区/Mad World.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "战歌",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "战歌--rainbow",
+            "href": "../../../../call_image/rainbow/第48区/战歌.jpg"
+          }
+        ]
+      }
+    ]
   }
 ]
