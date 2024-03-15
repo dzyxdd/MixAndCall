@@ -21,6 +21,8 @@ markdown_extensions:
   - admonition
   - pymdownx.superfences
   - pymdownx.extra
+  - markdown.extensions.toc:
+      slugify: !!python/object/apply:pymdownx.slugs.slugify { kwds: { case: lower, percent_encode: True} }
 
 plugins:
   - search
