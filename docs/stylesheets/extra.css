@@ -1,3 +1,99 @@
+[data-md-color-group=SNH48] {
+    --flag-color: #8fd3f5;
+}
+
+[data-md-color-group=GNZ48] {
+    --flag-color: #aaca13;
+}
+
+[data-md-color-group=BEJ48] {
+    --flag-color: #ff2471;
+}
+
+[data-md-color-group=CKG48] {
+    --flag-color: #ffba07;
+}
+
+[data-md-color-group=CGT48] {
+    --flag-color: #d71518;
+}
+
+[data-md-color-team=SNH48TeamSII] {
+    --flag-color: #56b8ff;
+}
+
+[data-md-color-team=SNH48TeamNII] {
+    --flag-color: #bf9bc7;
+}
+
+[data-md-color-team=SNH48TeamHII] {
+    --flag-color: #f9a821;
+}
+
+[data-md-color-team=SNH48TeamX] {
+    --flag-color: #a7cd28;
+}
+
+[data-md-color-team=GNZ48TeamG] {
+    --flag-color: #accb15;
+}
+
+[data-md-color-team=GNZ48TeamNIII] {
+    --flag-color: #f4d024;
+}
+
+[data-md-color-team=GNZ48TeamZ] {
+    --flag-color: #eb627e;
+}
+
+[data-md-color-team=BEJ48TeamB] {
+    --flag-color: #e85081;
+}
+
+[data-md-color-team=BEJ48TeamE] {
+    --flag-color: #32bdba;
+}
+
+[data-md-color-team=CKG48TeamC] {
+    --flag-color: #ffba07;
+}
+
+[data-md-color-team=CKG48TeamK] {
+    --flag-color: #ff5043;
+}
+
+[data-md-color-team=CGT48TeamCII] {
+    --flag-color: #e60000;
+}
+
+[data-md-color-team=CGT48TeamGII] {
+    --flag-color: #01559b;
+}
+
+.mdx-switch button {
+    cursor: pointer;
+    transition: opacity 250ms;
+
+    &:is(:focus, :hover) {
+        opacity: 0.75;
+    }
+
+    > code {
+        display: block;
+        color: #ffffff;
+        background-color: var(--flag-color);
+
+        > a, a:hover, a:focus {
+            color: #ffffff;
+            text-decoration: none;
+        }
+    }
+}
+
+.md-typeset h4 {
+    margin: 0;
+}
+
 .table-style {
     border-collapse: collapse;
 }
@@ -33,6 +129,14 @@ table td {
 
 .display_inline_block {
     display: inline-block;
+}
+
+.display_flex {
+    display: flex;
+}
+
+.white_space_no_wrap {
+    white-space: nowrap;
 }
 
 .white_space_pre {
@@ -82,6 +186,7 @@ table td {
     padding: 0 10px;
     min-width: 40px;
     border-radius: 1000px;
+    font-size: .64rem;
     background-color: rgba(83, 252, 181, 0.41);
 }
 
@@ -106,8 +211,8 @@ table td {
     align-items: center;
 }
 
-details.song_list {
-    margin: 1% 5% !important;
+.song_list {
+    margin: 0 10% 1% 0 !important;
 }
 
 div.Thumbnail {
