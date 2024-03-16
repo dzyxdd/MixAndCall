@@ -52,6 +52,7 @@
 - `title`(字符串): 歌曲标题。
 - `version_list`(JSON对象数组): 每个JSON对象存储了该歌曲的一个版本的信息，其结构如下所示：
 	- `title`(字符串): 歌曲版本的名称，如长版、短版、xxx公演定制版等。
+	- `simple_text`(JSON对象): 省流版call本，包含若干字符串列表，每个列表表示该列表的`key`对应的歌曲位置的可选call法，每一种call法为一个字符串，具体见示例。
 	- `pic_list`(JSON对象数组): 每个JSON对象包含了该歌曲版本的不同版本的call本信息，其结构如下所示：
 		- `description`(字符串): 对该call本的简要描述，可包含call本作者、call本来源等信息。
 		- `href`(字符串): 图片的保存路径。
@@ -61,27 +62,42 @@
 ```json
 [
   {
-    "title": "速",
+    "title": "石中花-战",
     "version_list": [
       {
         "title": "长版",
+        "simple_text": {
+          "前奏": [
+            "Tsunagaritai"
+          ],
+          "副歌": [
+            "意味不明"
+          ],
+          "间奏一": [
+            "倍速日语"
+          ],
+          "间奏二": [
+            "足球小将mix+我最喜欢〇〇〇",
+            "拉长mix（园长）+拉长mix（闇）"
+          ],
+          "尾奏": [
+            "中文恋口上（十个八拍版）",
+            "恋口上→西语二连",
+            "火箭队口上"
+          ]
+        },
         "pic_list": [
           {
-            "description": "baf公演版--dzy",
-            "href": "../../../../call_image/dzydoom/速.png"
+            "description": "交X点公演--dzydoom",
+            "href": "../../../../call_image/dzydoom/交X点/石中花-战.png"
           },
           {
-            "description": "rb",
-            "href": "../../../../call_image/rainbow/速1.jpg"
-          }
-        ]
-      },
-      {
-        "title": "短版",
-        "pic_list": [
+            "description": "启程Z--rainbow",
+            "href": "../../../../call_image/rainbow/启程Z/石中花-战.jpg"
+          },
           {
-            "description": "xxx拉票--rb",
-            "href": "../../../../call_image/rainbow/速2.jpg"
+            "description": "遗忘的国度--meto",
+            "href": "../../../../call_image/meto/遗忘的国度/石中花-战.jpg"
           }
         ]
       }
@@ -90,7 +106,7 @@
 ]
 ```
 
-该示例列表仅包含一首歌《速》，这首歌包括2个版本，其中长版有2个版本的call本，短版有1个版本的call本。
+该示例列表仅包含一首歌《石中花-战》，这首歌包括1个版本，长版有两个版本的call本。
 
 ### stage_list.json
 
