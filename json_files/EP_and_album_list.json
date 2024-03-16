@@ -65,9 +65,9 @@
       "剧场女神",
       "无尽旋转",
       "开拓者",
-      "飞翔入手（重填词）",
-      "激流之战（重填词）",
-      "马尾与发圈（重填词）"
+      "飞翔入手",
+      "激流之战",
+      "马尾与发圈"
     ]
   },
   {
@@ -163,7 +163,7 @@
       "新年的钟声",
       "绿光",
       "面包与奶油",
-      "Du Du Baby",
+      "DU-DU BABY",
       "奔跑的少女",
       "给你"
     ]
@@ -266,7 +266,7 @@
     "song_title_list": [
       "新年这一刻",
       "Burning Up",
-      "Brave Heart",
+      "勇敢的心（Brave Heart）",
       "倒转魔法师",
       "关于甜蜜的愿望",
       "钟声过后是乐园"
@@ -311,7 +311,7 @@
       "天使与恶魔",
       "倾听我的爱",
       "美丽世界",
-      "Run for the dream",
+      "Run For The Dream",
       "致每个你"
     ]
   },
@@ -565,7 +565,7 @@
       "七点整（7 O'CLOCK）",
       "唐人街（CHINA TOWN）",
       "偶买噶（OMG）",
-      "第七感（7SENSES Remix）"
+      "7Senses（第七感）"
     ]
   },
   {
@@ -581,7 +581,7 @@
       "说声新年好",
       "新的帷幕",
       "新年这一刻",
-      "Brave Heart",
+      "勇敢的心（Brave Heart）",
       "微笑的向日葵",
       "新年好"
     ]
@@ -597,7 +597,7 @@
       "就差一点点",
       "笨",
       "Spy",
-      "Zen",
+      "Zen（禅）",
       "钢铁之翼",
       "9 To 9",
       "人间规则",
@@ -616,7 +616,7 @@
       "就差一点点",
       "笨",
       "Spy",
-      "Zen",
+      "Zen（禅）",
       "钢铁之翼",
       "9 To 9",
       "人间规则",
@@ -635,7 +635,7 @@
       "就差一点点",
       "笨",
       "Spy",
-      "Zen",
+      "Zen（禅）",
       "钢铁之翼",
       "9 To 9",
       "人间规则",
@@ -663,7 +663,7 @@
       "Demoon EP01"
     ],
     "song_title_list": [
-      "狐狸",
+      "狐狸（FOX）",
       "我就是我",
       "触电"
     ]
@@ -735,8 +735,8 @@
       "U Know",
       "Sandglass",
       "The Shadows",
-      "Who Is Your Girl（acoustic）",
-      "We Are（Special）"
+      "Who Is Your Girl",
+      "We Are"
     ]
   },
   {
@@ -747,11 +747,11 @@
     ],
     "song_title_list": [
       "TAKE ME（爱）",
-      "I CAN FLY（飞翔）",
+      "I CAN FLY",
       "天黑日记",
-      "SOMEWHERE（约定之地）",
+      "SOMEWHERE",
       "我的世界还有你",
-      "晨光（日语版）",
+      "晨光",
       "梦与星光的海上",
       "蜉蝣",
       "人间规则",
@@ -810,7 +810,7 @@
       "梦与星光的海上",
       "Gravity",
       "不放手",
-      "Zen",
+      "Zen（禅）",
       "晨曦下的我们",
       "Remenber You"
     ]
@@ -823,7 +823,7 @@
     ],
     "song_title_list": [
       "海砂",
-      "支流"
+      "支流（Dream River）"
     ]
   },
   {
@@ -835,12 +835,12 @@
     "song_title_list": [
       "等等（One Of Them）",
       "Make it better",
-      "水蒸气 （Paradise）",
+      "水蒸气（Paradise）",
       "Whisper（耳语者）",
       "My Way（偏执）",
       "盛装（Black Out）",
       "Super Duper",
-      "甜蜜盛典2022"
+      "甜蜜盛典"
     ]
   },
   {
@@ -850,9 +850,9 @@
       "SNH48 EP32"
     ],
     "song_title_list": [
-      "丝路",
-      "白昼街灯",
-      "家"
+      "丝路（Silk Road）",
+      "白昼街灯（LIGHT IT UP）",
+      "家（HOME）"
     ]
   },
   {
@@ -863,7 +863,7 @@
     ],
     "song_title_list": [
       "CRAZY FOR YOU",
-      "安可 (Encore)",
+      "安可（Encore）",
       "AfterParty"
     ]
   },
@@ -874,10 +874,10 @@
       "星梦剧院十周年专辑"
     ],
     "song_title_list": [
-      "重逢的世界",
-      "幻镜",
+      "Into The World（重逢的世界）",
+      "幻镜（Dream）",
       "远方的海",
-      "少女的巴别塔",
+      "Goodbye（少女的巴别塔）",
       "命运的帆",
       "Winkend",
       "不完美",
@@ -893,8 +893,8 @@
       "SNH48 EP33"
     ],
     "song_title_list": [
-      "爱的回响",
-      "Call My Name"
+      "爱的回响（Lovely Echo）",
+      "Call My Name（未完待续）"
     ]
   },
   {
@@ -904,8 +904,8 @@
       "SNH48 EP34"
     ],
     "song_title_list": [
-      "Number One",
-      "Day and Night",
+      "Number One（悖论体）",
+      "Day and Night（涂鸦油画）",
       "无风岛屿"
     ]
   }

@@ -32,7 +32,7 @@
       "那好吧",
       "Like A Star",
       "下次旅行",
-      "夏日回忆",
+      "夏之回忆",
       "夏の思い出",
       "City Lights",
       "梦与旅人",
@@ -44,15 +44,20 @@
     "song_title_list": [
       "Keep Fighting",
       "Sugarfree",
-      "等等 (One Of Them)",
-      "藏笑 (Get Stupid)"
+      "等等（One Of Them）",
+      "藏笑（Get Stupid）"
+    ]
+  },{
+    "title": "赵粤",
+    "song_title_list": [
+      "凤（舞）"
     ]
   },
   {
     "title": "沈梦瑶",
     "song_title_list": [
-      "绿洲（FLASH ON）",
-      "耳语者（WHISPER）"
+      "绿洲（Flash on）",
+      "Whisper（耳语者）"
     ]
   }
 ]
