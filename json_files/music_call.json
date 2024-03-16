@@ -1047,6 +1047,9 @@
           {
             "description": "启程G--极梦",
             "href": "../../../../call_image/jm/启程G/新目的地.jpg"
+          },{
+            "description": "TeamCII--dzydoom",
+            "href": "../../../../call_image/dzydoom/CGT遗忘的国度/新目的地.png"
           }
         ]
       }
@@ -1103,6 +1106,9 @@
           {
             "description": "遗忘的国度--meto",
             "href": "../../../../call_image/meto/遗忘的国度/Black Baccara.jpg"
+          },{
+            "description": "TeamCII--dzydoom",
+            "href": "../../../../call_image/dzydoom/CGT遗忘的国度/Black Baccara.png"
           }
         ]
       }
@@ -1153,6 +1159,9 @@
           {
             "description": "遗忘的国度--meto",
             "href": "../../../../call_image/meto/遗忘的国度/冬日.jpg"
+          },{
+            "description": "TeamCII--dzydoom",
+            "href": "../../../../call_image/dzydoom/CGT遗忘的国度/冬日.png"
           }
         ]
       }
@@ -1171,6 +1180,9 @@
           {
             "description": "交X点公演--dzydoom",
             "href": "../../../../call_image/dzydoom/交X点/雪之祭.png"
+          },{
+            "description": "TeamCII--dzydoom",
+            "href": "../../../../call_image/dzydoom/CGT遗忘的国度/雪之祭.png"
           }
         ]
       }
@@ -1185,6 +1197,9 @@
           {
             "description": "遗忘的国度--meto",
             "href": "../../../../call_image/meto/遗忘的国度/遗忘的国度.jpg"
+          },{
+            "description": "TeamCII--dzydoom",
+            "href": "../../../../call_image/dzydoom/CGT遗忘的国度/遗忘的国度.png"
           }
         ]
       }
@@ -1203,6 +1218,160 @@
           {
             "description": "启程NIII--糖糖Tokiho",
             "href": "../../../../call_image/Tokiho/启程NIII/以十洲的名义.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "ID destiny",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "TeamCII--dzydoom",
+            "href": "../../../../call_image/dzydoom/CGT遗忘的国度/ID destiny.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Sing together(concerto)",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "TeamCII--dzydoom",
+            "href": "../../../../call_image/dzydoom/CGT遗忘的国度/Sing together(concerto).png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Blossoms island",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "TeamCII--dzydoom",
+            "href": "../../../../call_image/dzydoom/CGT遗忘的国度/Blossoms island.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "贝加尔花园舞曲(illusion)",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "TeamCII--dzydoom",
+            "href": "../../../../call_image/dzydoom/CGT遗忘的国度/贝加尔花园舞曲(illusion).png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "黑与白(hacker)",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "TeamCII--dzydoom",
+            "href": "../../../../call_image/dzydoom/CGT遗忘的国度/黑与白(hacker).png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "蝶语言(B++)",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "TeamCII--dzydoom",
+            "href": "../../../../call_image/dzydoom/CGT遗忘的国度/蝶语言(B++).png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "自言自说(chat)",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "TeamCII--dzydoom",
+            "href": "../../../../call_image/dzydoom/CGT遗忘的国度/自言自说(chat).png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "零和游戏(XYAB)",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "TeamCII--dzydoom",
+            "href": "../../../../call_image/dzydoom/CGT遗忘的国度/零和游戏(XYAB).png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "石中花-Survivor",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "TeamCII--dzydoom",
+            "href": "../../../../call_image/dzydoom/CGT遗忘的国度/石中花-Survivor.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "White light-Alive",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "TeamCII--dzydoom",
+            "href": "../../../../call_image/dzydoom/CGT遗忘的国度/White light-Alive.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "以天府的名义",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "TeamCII--dzydoom",
+            "href": "../../../../call_image/dzydoom/CGT遗忘的国度/以天府的名义.png"
           }
         ]
       }
