@@ -5464,6 +5464,10 @@
           {
             "description": "TeamJ--极梦",
             "href": "../../../../call_image/jm/HAKUNA MATATA/Wake up.jpg"
+          },
+          {
+            "description": "TeamGII--dzydoom",
+            "href": "../../../../call_image/dzydoom/CGTHM/Wake Up.png"
           }
         ]
       }
@@ -5588,6 +5592,10 @@
         "title": "长版",
         "pic_list": [
           {
+            "description": "TeamGII--dzydoom",
+            "href": "../../../../call_image/dzydoom/CGTHM/翅膀.png"
+          },
+          {
             "description": "TeamJ--极梦",
             "href": "../../../../call_image/jm/HAKUNA MATATA/翅膀.jpg"
           }
@@ -5616,6 +5624,10 @@
         "title": "长版",
         "pic_list": [
           {
+            "description": "TeamGII--dzydoom",
+            "href": "../../../../call_image/dzydoom/CGTHM/(J)'Story.png"
+          },
+          {
             "description": "TeamJ--极梦",
             "href": "../../../../call_image/jm/HAKUNA MATATA/(J)'Story.jpg"
           }
@@ -5629,6 +5641,10 @@
       {
         "title": "长版",
         "pic_list": [
+          {
+            "description": "TeamGII--dzydoom",
+            "href": "../../../../call_image/dzydoom/CGTHM/追梦少年.png"
+          },
           {
             "description": "TeamJ--极梦",
             "href": "../../../../call_image/jm/HAKUNA MATATA/追梦少年.jpg"
@@ -5644,8 +5660,166 @@
         "title": "长版",
         "pic_list": [
           {
+            "description": "TeamGII--dzydoom",
+            "href": "../../../../call_image/dzydoom/CGTHM/未来主题曲.png"
+          },
+          {
             "description": "TeamJ--极梦",
             "href": "../../../../call_image/jm/HAKUNA MATATA/未来主题曲.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "哈库纳 玛塔塔",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "TeamGII--dzydoom",
+            "href": "../../../../call_image/dzydoom/CGTHM/哈库纳 玛塔塔.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "翼",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "TeamGII--dzydoom",
+            "href": "../../../../call_image/dzydoom/CGTHM/翼.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Table Tennis",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "TeamGII--dzydoom",
+            "href": "../../../../call_image/dzydoom/CGTHM/Table Tennis.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "差一点点成为My Boy",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "TeamGII--dzydoom",
+            "href": "../../../../call_image/dzydoom/CGTHM/差一点点成为My Boy.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Siren",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "TeamGII--dzydoom",
+            "href": "../../../../call_image/dzydoom/CGTHM/Siren.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "热气球",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "TeamGII--dzydoom",
+            "href": "../../../../call_image/dzydoom/CGTHM/热气球.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Alarm!Pay Attention",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "TeamGII--dzydoom",
+            "href": "../../../../call_image/dzydoom/CGTHM/Alarm!Pay Attention.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "黑猫Sleep Party",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "TeamGII--dzydoom",
+            "href": "../../../../call_image/dzydoom/CGTHM/黑猫Sleep Party.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "赋离歌·江东",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "TeamGII--dzydoom",
+            "href": "../../../../call_image/dzydoom/CGTHM/赋离歌·江东.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Deal(易)",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "TeamGII--dzydoom",
+            "href": "../../../../call_image/dzydoom/CGTHM/Deal(易).png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "四季 Puppy Love",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "TeamGII--dzydoom",
+            "href": "../../../../call_image/dzydoom/CGTHM/四季 Puppy Love.png"
           }
         ]
       }
