@@ -1047,7 +1047,8 @@
           {
             "description": "启程G--极梦",
             "href": "../../../../call_image/jm/启程G/新目的地.jpg"
-          },{
+          },
+          {
             "description": "TeamCII--dzydoom",
             "href": "../../../../call_image/dzydoom/CGT遗忘的国度/新目的地.png"
           }
@@ -1106,7 +1107,8 @@
           {
             "description": "遗忘的国度--meto",
             "href": "../../../../call_image/meto/遗忘的国度/Black Baccara.jpg"
-          },{
+          },
+          {
             "description": "TeamCII--dzydoom",
             "href": "../../../../call_image/dzydoom/CGT遗忘的国度/Black Baccara.png"
           }
@@ -1133,6 +1135,26 @@
     "version_list": [
       {
         "title": "长版",
+        "simple_text": {
+          "前奏": [
+            "Tsunagaritai"
+          ],
+          "副歌": [
+            "意味不明"
+          ],
+          "间奏一": [
+            "倍速日语"
+          ],
+          "间奏二": [
+            "足球小将mix+我最喜欢〇〇〇",
+            "拉长mix（园长）+拉长mix（闇）"
+          ],
+          "尾奏": [
+            "中文恋口上（十个八拍版）",
+            "恋口上→西语二连",
+            "火箭队口上"
+          ]
+        },
         "pic_list": [
           {
             "description": "交X点公演--dzydoom",
@@ -1159,7 +1181,8 @@
           {
             "description": "遗忘的国度--meto",
             "href": "../../../../call_image/meto/遗忘的国度/冬日.jpg"
-          },{
+          },
+          {
             "description": "TeamCII--dzydoom",
             "href": "../../../../call_image/dzydoom/CGT遗忘的国度/冬日.png"
           }
@@ -1180,7 +1203,8 @@
           {
             "description": "交X点公演--dzydoom",
             "href": "../../../../call_image/dzydoom/交X点/雪之祭.png"
-          },{
+          },
+          {
             "description": "TeamCII--dzydoom",
             "href": "../../../../call_image/dzydoom/CGT遗忘的国度/雪之祭.png"
           }
@@ -1197,7 +1221,8 @@
           {
             "description": "遗忘的国度--meto",
             "href": "../../../../call_image/meto/遗忘的国度/遗忘的国度.jpg"
-          },{
+          },
+          {
             "description": "TeamCII--dzydoom",
             "href": "../../../../call_image/dzydoom/CGT遗忘的国度/遗忘的国度.png"
           }

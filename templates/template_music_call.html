@@ -2,6 +2,16 @@
 {% for version in music_call.version_list %}
 {% set outer_loop = loop %}
 ## {{ version.title }}
+{% if 'simple_text' in version %}
+<details open>
+    <summary>省流版call本：</summary>
+    <ul>
+        {% for key, value in version.simple_text.items() %}
+        <li>{{ key }}：{% for item in value %}【{{ item }}】{% endfor %}</li>
+        {% endfor %}
+    </ul>
+</details>
+{% endif %}
 <div class="Thumbnail">
     {% for picture in version.pic_list %}<figure class="call_pic">
         <p><a class="glightbox" href={{picture.href}}>
