@@ -7398,5 +7398,42 @@
         ]
       }
     ]
+  },
+  {
+    "title": "少女革命",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "少女革命--rainbow",
+            "href": "../../../../call_image/rainbow/第一人称/少女革命.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "粉红狙击手",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "粉红狙击手(长版)--rainbow",
+            "href": "../../../../call_image/rainbow/第一人称/粉红狙击手(长版).jpg"
+          }
+        ]
+      },
+      {
+        "title": "短版",
+        "pic_list": [
+          {
+            "description": "粉红狙击手(短版)--rainbow",
+            "href": "../../../../call_image/rainbow/第一人称/粉红狙击手(短版).jpg"
+          }
+        ]
+      }
+    ]
   }
 ]
