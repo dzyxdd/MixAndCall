@@ -1,5 +1,5 @@
 @echo off
-
+call clean_cache.bat
 pip install -r requirements.txt
 
 cd python_generator

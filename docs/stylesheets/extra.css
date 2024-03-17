@@ -319,3 +319,20 @@ label input {
     justify-content: center;
     align-items: center;
 }
+
+.common_length {
+    font-size: smaller;
+    text-align: center;
+    display: inline-block !important;
+    margin: 0 3px !important;
+    padding: 0 10px;
+    min-width: 40px;
+    border-radius: 1000px;
+    background-color: rgba(255, 243, 35, 0.6);
+}
+
+.common_length_list {
+    align-items: center;
+    margin-top: 0.3em!important;
+    margin-bottom: 0.3em!important;
+}
