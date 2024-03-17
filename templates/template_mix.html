@@ -2,9 +2,9 @@
 #### {{ mix.title }}
 <div class="mix {% for length in mix.common_length %}length{{ length }} {% endfor %}">
 <ul class="common_length_list">
-    <li class="common_length return_all"><button>显示全部</button></li>
+    <li class="common_length return_all">显示全部</li>
     {% for length in mix.common_length %}
-        <li class="common_length length{{ length }}"><button>{{ length }}个八拍</button></li>
+        <li class="common_length length{{ length }}">{{ length }}个八拍</li>
     {% endfor %}
 </ul>
 <table>
