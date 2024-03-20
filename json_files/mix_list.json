@@ -1,7 +1,10 @@
 [
   {
     "title": "英语mix [ スタンダードmix ] [ 英語mix ]",
-    "common_length": [4,4.5],
+    "common_length": [
+      4,
+      4.5
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -20,7 +23,10 @@
   },
   {
     "title": "スタンダードmix [ タイガーファイヤー始動 ]",
-    "common_length": [4,5],
+    "common_length": [
+      4,
+      5
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -39,7 +45,9 @@
   },
   {
     "title": "12Taiga [ スタンダードmix（12タイガー+タイガーファイヤー始動） ]",
-    "common_length": [4],
+    "common_length": [
+      4
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -58,7 +66,9 @@
   },
   {
     "title": "スタンダードmix尺+2小節",
-    "common_length": [5],
+    "common_length": [
+      5
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -77,7 +87,9 @@
   },
   {
     "title": "スタンダードmix逆打ち",
-    "common_length": [2],
+    "common_length": [
+      2
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -399,12 +411,12 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "Raiga Faita Saida Fainda\nDoraiba Beibe Jyajjya",
+        "text": "Raiga Faita Saida Fainda\nDoraiba Beibe Jyajjya\nBaribo Sutoraipa",
         "notes": ""
       },
       {
         "lang": "日语",
-        "text": "ライガー ファイター サイダー ファインダー\nドライバー ベイベー ジャッジャー",
+        "text": "ライガー　ファイター　サイダー　ファインダー\nドライバー　ベイベー　ジャッジャー\nバリボー　ストライパー",
         "notes": ""
       }
     ],
@@ -1863,6 +1875,30 @@
       {
         "title": "【コール·MIX】意味不我愛你",
         "url": "https://www.bilibili.com/video/BV1br421H7Nu/"
+      }
+    ]
+  },
+  {
+    "title": "バリヤードmix【仮称】",
+    "common_length": [],
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "Ba Ba Bariya-do\nBaribaribaribariBariya-do\nBaribaribaribariBariya-do",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "バ　バ　バリヤード(始動)\nバリバリバリバリバリヤード\nバリバリバリバリバリヤード",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "",
+    "link_list": [
+      {
+        "title": "バリヤード（魔墙人偶）mix",
+        "url": "https://www.bilibili.com/video/BV1QC411h7HN"
       }
     ]
   },
@@ -4139,6 +4175,25 @@
       {
         "lang": "日语",
         "text": "パンパンパンパン腹パンパン\n孕んだ〇〇※の腹パンパン\nカノウリョウ　カノウリョウ\n遅漏　早漏　カノウリョウ",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "〇〇には女、彼女、セフレ、推しメンの名前等の言葉が入ります",
+    "link_list": []
+  },
+  {
+    "title": "バリmix【仮称】",
+    "common_length": [],
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "Baribaribaribari Bariya-do\nFuresshu Bureddo Bariya-do\nBariya-do Barikooru\nYamazaki Haruno Bariya-do",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "バリバリバリバリ　バリヤード\nフレッシュ　ブレッド　バリヤード\nバリヤード　バリコオル\n山崎春のバリヤード",
         "notes": ""
       }
     ],
@@ -6578,7 +6633,7 @@
     "link_list": []
   },
   {
-    "title": "吉村阳平mix",
+    "title": "吉村阳平mix [ 吉村陽平mix ]",
     "common_length": [],
     "text_list": [
       {
@@ -6589,6 +6644,30 @@
       {
         "lang": "日语",
         "text": "ぐーちょきぱーぐーちょきぱー\n何作ろう　何作ろう\n右手はグーで　左手もグーで\n〇〇〇〇(任意の人物名)P 逮捕",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "",
+    "link_list": [
+      {
+        "title": "吉村陽平mix iLiFE",
+        "url": "https://www.bilibili.com/video/BV1xz4y1n7R1"
+      }
+    ]
+  },
+  {
+    "title": "勘定奉行mix（バリヤードver）【仮称】",
+    "common_length": [],
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "Gu-chokipa-de Guchokipa-de\nNanitsukurou Nanitsukurou\nMigitewapa-de Hidaritemopa-de\nBariya-do Bariya-do",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "グーチョキパーでグーチョキパーで\n何つくろう何つくろう\n右手はパーで左手もパーで\nバリヤードバリヤード",
         "notes": ""
       }
     ],
