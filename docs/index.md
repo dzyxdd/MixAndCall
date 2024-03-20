@@ -17,6 +17,7 @@ hide:
 <button data-md-color-team="SNH48TeamNII"><code>[应许之地](music_lib/song_list.md/#应许之地)</code></button>
 <button data-md-color-team="SNH48TeamHII"><code>[终极任务B版](music_lib/song_list.md/#终极任务b版)</code></button>
 <button data-md-color-team="SNH48TeamX"><code>[交X点](music_lib/song_list.md/#交x点)</code></button>
+<button data-md-color-team="Kenkyuusei"><code>[代号XII2.0](music_lib/song_list.md/#代号xii20超感进化版)</code></button>
 </div>
 <div class="mdx-switch" markdown>
 <button data-md-color-group="GNZ48"><code>GNZ48</code></button> ----
