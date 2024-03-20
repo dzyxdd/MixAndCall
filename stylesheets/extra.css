@@ -70,6 +70,10 @@
     --flag-color: #01559b;
 }
 
+[data-md-color-team=Kenkyuusei] {
+    --flag-color: #a7afba;
+}
+
 .mdx-switch button {
     cursor: pointer;
     transition: opacity 250ms;
