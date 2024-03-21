@@ -17,6 +17,7 @@ hide:
 <button data-md-color-team="SNH48TeamNII"><code>[应许之地](music_lib/song_list.md/#应许之地)</code></button>
 <button data-md-color-team="SNH48TeamHII"><code>[终极任务B版](music_lib/song_list.md/#终极任务b版)</code></button>
 <button data-md-color-team="SNH48TeamX"><code>[交X点](music_lib/song_list.md/#交x点)</code></button>
+<button data-md-color-team="Kenkyuusei"><code>[代号XII2.0](music_lib/song_list.md/#代号xii20超感进化版)</code></button>
 </div>
 <div class="mdx-switch" markdown>
 <button data-md-color-group="GNZ48"><code>GNZ48</code></button> ----
@@ -44,6 +45,7 @@ hide:
 
 [//]: # (请使用相对路径跳转至对应页面)
 
+- 3.20: [ [バリヤードmix【仮称】](mix/mix.md/#バリヤードmix仮称) ] [ [勘定奉行mix（バリヤードver）【仮称】](mix/mix.md/#勘定奉行mixバリヤードver仮称) ] [ [バリmix【仮称】](mix/mix.md/#バリmix仮称) ]
 - 3.15: [ [エヴァンゲリオンMIX](mix/mix.md/#新世纪福音战士mix--エヴァンゲリオンmix-) ] [ [意味不ですよ。](mix/mix.md/#意味不ですよ) ] [ [しゃぶしゃぶmix](mix/mix.md/#涮锅mix--しゃぶしゃぶmix-) ]
 - 3.14: [ [ガチ酒口上](mix/mix.md/#ガチ酒口上) ] [ [パスタMIX](mix/mix.md/#意大利面mix--pasta-mix---パスタmix-) ] [ [吉幾三MIX](mix/mix.md/#吉幾三mix) ] [ [NewWorld口上](mix/mix.md/#newworld口上) ]
 - 3.13: [ [森光子口上](mix/mix.md/#森光子口上) ] [ [佐藤舞mix](mix/mix.md/#佐藤舞mix) ] [ [おつのきコール](mix/mix.md/#おつのきコール) ]
