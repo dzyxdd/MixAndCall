@@ -36,10 +36,11 @@ document$.subscribe(function () {
     })
 
     // 获取所有的li元素和div元素
-    let liElements = document.querySelectorAll('.common_length');
+    let liElements = document.querySelectorAll('.mix_tag');
     let divElements = document.querySelectorAll('div.mix');
+    let tocLiElements = document.querySelectorAll('.md-nav__list .md-nav__item');
     document.querySelectorAll('.return_all');
-// 为每个li元素添加点击事件处理器
+    // 为每个li元素添加点击事件处理器
     liElements.forEach(function (li) {
         li.addEventListener('click', function () {
             if (li.classList.contains('return_all')) {
@@ -48,17 +49,20 @@ document$.subscribe(function () {
                     let previousH4 = div.previousElementSibling;
                     if (previousH4) previousH4.style.display = 'block';
                 });
+                tocLiElements.forEach(function (li) {
+                    li.style.display = 'list-item';
+                });
                 return;
             }
-            // 获取被点击的li元素的length类
-            let lengthClass = Array.from(li.classList).find(cls => cls.startsWith('length'));
+            // 获取被点击的li元素的tag类
+            let tagClass = Array.from(li.classList).find(cls => cls.startsWith('tag_'));
             // 遍历所有的div元素
             divElements.forEach(function (div) {
                 // 获取当前div元素的前一个兄弟元素
                 let previousH4 = div.previousElementSibling;
 
-                // 如果div元素具有length类，显示它和它的h4
-                if (div.classList.contains(lengthClass)) {
+                // 如果div元素具有tag类，显示它和它的h4
+                if (div.classList.contains(tagClass)) {
                     div.style.display = 'block';
                     if (previousH4) previousH4.style.display = 'block';
                 }
@@ -68,26 +72,16 @@ document$.subscribe(function () {
                     if (previousH4) previousH4.style.display = 'none';
                 }
             });
-        });
-    });
-
-    let aElements = document.querySelectorAll('a');
-    // 为每个a元素添加点击事件处理器
-    aElements.forEach(function (a) {
-        // 检查a元素的href属性是否包含'/mix/mix/'
-        if (a.href.includes('/mix/mix')) {
-            a.addEventListener('click', function () {
-
-                // 遍历所有的div元素
-                divElements.forEach(function (div) {
-                    // 获取当前div元素的前一个兄弟元素
-                    let previousH4 = div.previousElementSibling;
-
-                    // 显示div元素和它的h4
-                    div.style.display = 'block';
-                    if (previousH4) previousH4.style.display = 'block';
-                });
+            // 遍历所有的toc li元素
+            tocLiElements.forEach(function (li) {
+                let linkText = li.querySelector('.md-nav__link .md-ellipsis').textContent.trim();
+                let correspondingH4 = Array.from(divElements).find(div => div.previousElementSibling.textContent.trim() === linkText);
+                if (correspondingH4 && correspondingH4.style.display !== 'none') {
+                    li.style.display = 'list-item';
+                } else {
+                    li.style.display = 'none';
+                }
             });
-        }
+        });
     });
 })
