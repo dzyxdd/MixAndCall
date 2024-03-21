@@ -7334,6 +7334,10 @@
           {
             "description": "不造NIII--niiiyyh",
             "href": "../../../../call_image/niiiyyh/不造NIII/唔吼吼.jpg"
+          },
+          {
+            "description": "呜吼吼--rainbow",
+            "href": "../../../../call_image/rainbow/勇气重生/呜吼吼.jpg"
           }
         ]
       }
@@ -7697,20 +7701,6 @@
           {
             "description": "粉红狙击手(短版)--rainbow",
             "href": "../../../../call_image/rainbow/第一人称/粉红狙击手(短版).jpg"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "呜吼吼",
-    "version_list": [
-      {
-        "title": "长版",
-        "pic_list": [
-          {
-            "description": "呜吼吼--rainbow",
-            "href": "../../../../call_image/rainbow/勇气重生/呜吼吼.jpg"
           }
         ]
       }
