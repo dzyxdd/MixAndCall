@@ -324,7 +324,7 @@ label input {
     align-items: center;
 }
 
-.common_length {
+.mix_tag {
     font-size: smaller;
     text-align: center;
     display: inline-block !important;
@@ -335,7 +335,7 @@ label input {
     background-color: rgba(255, 243, 35, 0.6);
 }
 
-.common_length_list {
+.mix_tag_list {
     align-items: center;
     margin-top: 0.3em!important;
     margin-bottom: 0.3em!important;

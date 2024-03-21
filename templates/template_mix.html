@@ -1,10 +1,10 @@
 {% for mix in mix_list %}
 #### {{ mix.title }}
-<div class="mix {% for length in mix.common_length %}length{{ length }} {% endfor %}">
-<ul class="common_length_list">
-    <li class="common_length return_all">显示全部</li>
-    {% for length in mix.common_length %}
-        <li class="common_length length{{ length }}">{{ length }}个八拍</li>
+<div class="mix {% for mix_tag in mix.mix_tag_list %}tag_{{ mix_tag }} {% endfor %}">
+<ul class="mix_tag_list">
+    <li class="mix_tag return_all">显示全部</li>
+    {% for mix_tag in mix.mix_tag_list %}
+        <li class="mix_tag tag_{{ mix_tag }}">{{ mix_tag }}</li>
     {% endfor %}
 </ul>
 <table>
