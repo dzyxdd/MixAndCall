@@ -2,13 +2,10 @@
   {
     "title": "英语mix [ スタンダードmix ] [ 英語mix ]",
     "mix_tag_list": [
-      "面包",
-      "9小節",
+      "4小節",
+      "5小節",
       "8小節",
-      "20小節",
-      "9小節",
-      "101小節",
-      "可变"
+      "9小節"
     ],
     "text_list": [
       {
@@ -72,6 +69,7 @@
   {
     "title": "スタンダードmix尺+2小節",
     "mix_tag_list": [
+      "6小節",
       "10小節"
     ],
     "text_list": [
@@ -113,7 +111,12 @@
   },
   {
     "title": "日本语mix [ ジャパニーズmix ] [ 日本語mix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節",
+      "5小節",
+      "8小節",
+      "9小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -132,7 +135,10 @@
   },
   {
     "title": "ジャパニーズmix（最後を短縮）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節",
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -151,7 +157,9 @@
   },
   {
     "title": "ジャパニーズmix（虎火始動）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -170,7 +178,9 @@
   },
   {
     "title": "12Tora [ ジャパニーズmix（12虎+虎火始動） ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -184,12 +194,15 @@
       }
     ],
     "text_list_size": 2,
-    "notes": "",
+    "notes": "有时前面有发动：虎虎いくよ(ToraToraIkuyo)",
     "link_list": []
   },
   {
     "title": "ジャパニーズmix尺+2小節",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "6小節",
+      "10小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -208,7 +221,9 @@
   },
   {
     "title": "ジャパニーズmix逆打ち",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -227,7 +242,10 @@
   },
   {
     "title": "阿伊努语mix [ アイヌ語mix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "6小節",
+      "10小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -246,7 +264,10 @@
   },
   {
     "title": "アイヌ語mix（ゼンキョウver）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節",
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -265,7 +286,9 @@
   },
   {
     "title": "12Chape [ アイヌ語mix（12チャペ+チャペチャペ始動） ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -284,7 +307,10 @@
   },
   {
     "title": "アイヌ語mix+アイヌ晴乞い",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節",
+      "12小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -303,7 +329,10 @@
   },
   {
     "title": "アイヌ語mix+アイヌ雨乞い",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節",
+      "12小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -322,7 +351,12 @@
   },
   {
     "title": "中文mix [ 中国語mix ] [ チャイニーズmix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節",
+      "5小節",
+      "8小節",
+      "9小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -341,7 +375,9 @@
   },
   {
     "title": "中文mix（12虎+虎火发动）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -355,7 +391,9 @@
   },
   {
     "title": "中文三连 [ 中国語三連MIX ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -374,7 +412,9 @@
   },
   {
     "title": "园长mix [ 園長MIX ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -393,7 +433,9 @@
   },
   {
     "title": "園長mix逆打ち",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -412,7 +454,10 @@
   },
   {
     "title": "闇mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節",
+      "6小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -431,7 +476,9 @@
   },
   {
     "title": "黑服mix [ 黒服mix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -450,7 +497,9 @@
   },
   {
     "title": "黒服 PERFECT FULL [ 黒服パーフェクトフル ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "5小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -469,7 +518,9 @@
   },
   {
     "title": "黒服 PERFECT FULL OVER [ 黒服パーフェクトフルオーバー ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "6小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -488,7 +539,10 @@
   },
   {
     "title": "ファボリアスターmix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節",
+      "6小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -507,7 +561,9 @@
   },
   {
     "title": "英語→園長→園長逆打ち→黒服",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -526,7 +582,9 @@
   },
   {
     "title": "日本語逆打ち→ファボリアスター→園長逆打ち→黒服",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -545,7 +603,9 @@
   },
   {
     "title": "タケミンオリジナルパーフェクト [ タイミング合ってるかわからん ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -564,16 +624,18 @@
   },
   {
     "title": "虎火発動→タケミンベトナム",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "10小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "ToraToraToraToraToraToraToraTora\nToraToraToraToraTo-ra-Hi-!\n_Jinzou Sen'i Ama Shindou\n_Kasen Tobi Jyo-kyo\nJya-jya Faibo Waipa\nHerutei Kaiza Ba-mosu Izanagi\nIe Izanami Chakada Somyu\nBoraru Jego Hoashen Raofu\nJyuntoise\nTi-garu Chai Ki-baru Soi\nTou-ran Ron Soitonhoppu",
+        "text": "ToraToraToraToraToraToraToraTora\nToraToraToraToraTo-ra-Hi-!\n_Jinzou Sen'i Ama Shindou\n_Kasen Tobi Jyo-kyo\nJya-jya Faibo Waipa Herutei\nKaiza Ba-mosu Izanagi Ie\nIzanami Chakada Somyu Boraru\nJego Hoashen Raofu Jyuntoise\nTi-garu Chai Ki-baru Soi\nTou-ran Ron Soitonhoppu",
         "notes": ""
       },
       {
         "lang": "日语",
-        "text": "虎虎虎虎虎虎虎虎\n虎虎虎虎 虎火\n人造繊維海女振動\n化繊飛除去\nジャージャー！ファイボー！ワイパー！\nヘルテイ！カイザー バーモス！イザナギ！\nイェ！イザナミ！チャカダ！ソミュ！\nボラル！ジェゴ！ホァシェン！ラオフー！\nジュントイセー！\nティーガル チャイ！キーバル ソイ！\nトゥーラン ロン！ソイトンホップ！",
+        "text": "虎虎虎虎虎虎虎虎\n虎虎虎虎 虎火\n人造繊維海女振動\n化繊飛除去\nジャージャー！ファイボー！ワイパー！ヘルテイ！\nカイザー バーモス！イザナギ！イェ！\nイザナミ！チャカダ！ソミュ！ボラル！\nジェゴ！ホァシェン！ラオフー！ジュントイセー！\nティーガル チャイ！キーバル ソイ！\nトゥーラン ロン！ソイトンホップ！",
         "notes": ""
       }
     ],
@@ -588,7 +650,9 @@
   },
   {
     "title": "宫本mix [ 宮本mix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -607,7 +671,9 @@
   },
   {
     "title": "极意mix [ 極意mix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "9小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -626,7 +692,9 @@
   },
   {
     "title": "新托马斯mix [ トーマスmix#2 ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -655,7 +723,9 @@
   },
   {
     "title": "旧托马斯mix [ トーマスmix#1 ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -684,7 +754,10 @@
   },
   {
     "title": "花火mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節",
+      "6小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -703,7 +776,9 @@
   },
   {
     "title": "华岚mix [ 華嵐 一式-麗- ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -727,7 +802,9 @@
   },
   {
     "title": "胧月mix [ 朧月MIX ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -751,7 +828,10 @@
   },
   {
     "title": "六花mix [ むつのはな mix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節",
+      "10小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -775,7 +855,9 @@
   },
   {
     "title": "樱花mix [ 桜色MIX ] [ 桜MIX ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -794,7 +876,9 @@
   },
   {
     "title": "龙猫mix [ トトロmix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -813,7 +897,9 @@
   },
   {
     "title": "披萨mix [ ピザmix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -832,7 +918,9 @@
   },
   {
     "title": "ピザMIX(フル)",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "10小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -851,7 +939,9 @@
   },
   {
     "title": "意大利面mix [ Pasta mix ] [ パスタMIX ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "10小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -875,7 +965,9 @@
   },
   {
     "title": "Pasta mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -899,7 +991,9 @@
   },
   {
     "title": "涮锅mix [ しゃぶしゃぶmix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -923,7 +1017,9 @@
   },
   {
     "title": "十二星座mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "10小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -942,7 +1038,11 @@
   },
   {
     "title": "星座三连mix [ 星座MIX(3連) ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節",
+      "6小節",
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -961,7 +1061,10 @@
   },
   {
     "title": "圣杯mix [ 聖杯戦争mix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節",
+      "9小節"
+    ],
     "text_list": [
       {
         "lang": "英语",
@@ -985,7 +1088,9 @@
   },
   {
     "title": "奶酪mix [ チーズmix ] [ Cheese mix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "10小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1004,7 +1109,9 @@
   },
   {
     "title": "飞马座mix [ ペガサスmix ] [ まあこれ聖闘士星矢MIX ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "10小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1023,7 +1130,9 @@
   },
   {
     "title": "ディアステmix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1042,7 +1151,9 @@
   },
   {
     "title": "ディアステmix(english)",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1061,7 +1172,9 @@
   },
   {
     "title": "ぷよぷよMIX",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1080,7 +1193,10 @@
   },
   {
     "title": "dropオリジナルmix(英語) [ ナナランドオリジナルMIX ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節",
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "英语",
@@ -1104,7 +1220,10 @@
   },
   {
     "title": "dropオリジナルmix(日本語)",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節",
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1123,7 +1242,10 @@
   },
   {
     "title": "dropオリジナルmix(アイヌ語)",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節",
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1142,7 +1264,9 @@
   },
   {
     "title": "Cinderella mix [ シンデレラMIX ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "英语",
@@ -1171,7 +1295,9 @@
   },
   {
     "title": "Diver mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1190,7 +1316,9 @@
   },
   {
     "title": "干支mix#1",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1214,7 +1342,9 @@
   },
   {
     "title": "干支mix#2",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1238,7 +1368,10 @@
   },
   {
     "title": "海蒂mix [ ハイジmix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節",
+      "6小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1257,7 +1390,9 @@
   },
   {
     "title": "倍速英语",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "2小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1276,7 +1411,9 @@
   },
   {
     "title": "倍速英语（3小節）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "3小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1295,7 +1432,9 @@
   },
   {
     "title": "逆倍速英语",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "2小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1314,7 +1453,9 @@
   },
   {
     "title": "英语取消→倍速英语 [ スタンダードキャンセル倍速スタンダードmix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1333,7 +1474,9 @@
   },
   {
     "title": "倍重英语 [ 倍速二重英语 ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1352,7 +1495,9 @@
   },
   {
     "title": "倍速日语",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "2小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1371,7 +1516,9 @@
   },
   {
     "title": "倍速日语（3小節）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "3小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1390,7 +1537,9 @@
   },
   {
     "title": "逆倍速日语",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "2小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1409,7 +1558,9 @@
   },
   {
     "title": "日语取消→倍速日语 [ ジャパニーズキャンセル倍速ジャパニーズmix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1428,7 +1579,9 @@
   },
   {
     "title": "日语倍速正逆打",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1447,7 +1600,9 @@
   },
   {
     "title": "倍重日语 [ 倍速二重日语 ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1466,7 +1621,9 @@
   },
   {
     "title": "倍速阿伊努语",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "2小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1485,7 +1642,9 @@
   },
   {
     "title": "倍速阿伊努语（3小節）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "3小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1504,7 +1663,10 @@
   },
   {
     "title": "阿伊努语取消→倍速阿伊努语 [ アイヌ語キャンセル倍速アイヌ語mix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節",
+      "5小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1523,7 +1685,9 @@
   },
   {
     "title": "倍速园长",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "2小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1542,7 +1706,9 @@
   },
   {
     "title": "倍速二重园长",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1561,7 +1727,9 @@
   },
   {
     "title": "倍速中文",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "2小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -1575,7 +1743,9 @@
   },
   {
     "title": "中文倍速正逆打",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -1589,7 +1759,10 @@
   },
   {
     "title": "基本三连",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "6小節",
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1608,7 +1781,9 @@
   },
   {
     "title": "2.5连 [ 英語mix裏日本語キャンセル英語mix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1627,7 +1802,9 @@
   },
   {
     "title": "2.5连 [ 日本語mix裏アイヌ語キャンセル日本語mix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1646,7 +1823,9 @@
   },
   {
     "title": "ねるねるねるねmix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1665,7 +1844,9 @@
   },
   {
     "title": "俊龙call",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1684,7 +1865,9 @@
   },
   {
     "title": "俊龙call（ZOOM ver.）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1703,7 +1886,9 @@
   },
   {
     "title": "GT警报",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1722,7 +1907,9 @@
   },
   {
     "title": "意味不明 [ 意味不アイアイ ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1741,7 +1928,9 @@
   },
   {
     "title": "意味不アイアイ→カルピスソーダ",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1765,7 +1954,9 @@
   },
   {
     "title": "意味不アイアイ→アイウエオ",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1789,7 +1980,9 @@
   },
   {
     "title": "意味不ですよ。",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1813,7 +2006,11 @@
   },
   {
     "title": "意味不爱 [ 意味不愛してる ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節",
+      "6小節",
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1837,7 +2034,11 @@
   },
   {
     "title": "意味不愛してる（あいうえおver.）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節",
+      "6小節",
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1861,7 +2062,11 @@
   },
   {
     "title": "意味不我愛你",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節",
+      "6小節",
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1885,7 +2090,9 @@
   },
   {
     "title": "バリヤードmix【仮称】",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "6小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1909,7 +2116,10 @@
   },
   {
     "title": "家虎 [ イエッタイガー ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "2小節",
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1928,7 +2138,9 @@
   },
   {
     "title": "ノータイガー",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1947,7 +2159,10 @@
   },
   {
     "title": "ガンダムエピオン部",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "2小節",
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1966,7 +2181,9 @@
   },
   {
     "title": "秒本二助 [ ミョーホントゥスケ広場 ] [ ミ広 ] [ 可変mix ] [アイヌ可変 ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "2小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -1985,7 +2202,9 @@
   },
   {
     "title": "短版秒本驱动器广场 [ ミョーホンドライバー広場(通常尺) ] [ ミョーホンドライバー可変 ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "2小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2004,7 +2223,9 @@
   },
   {
     "title": "长版秒本驱动器广场 [ ミョーホンドライバー広場(通常尺+2小節) ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "6小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2023,7 +2244,11 @@
   },
   {
     "title": "ミョーホントゥスケ広場の始動",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "2小節",
+      "4小節",
+      "6小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2042,7 +2267,10 @@
   },
   {
     "title": "ミョーホンドライバーの始動",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "6小節",
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2061,7 +2289,9 @@
   },
   {
     "title": "可变mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2080,7 +2310,9 @@
   },
   {
     "title": "秒本九连拍+可变mix [ ミョーホンワイパー ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2099,7 +2331,9 @@
   },
   {
     "title": "ミョーホントゥスケ+ロケット団口上+ワイパー+悲しい",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2123,7 +2357,9 @@
   },
   {
     "title": "三爷mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -2142,7 +2378,9 @@
   },
   {
     "title": "二郎mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "10小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2161,7 +2399,9 @@
   },
   {
     "title": "C3PO [ どんぐりたけしmix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2180,7 +2420,9 @@
   },
   {
     "title": "満員電車Mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2199,7 +2441,11 @@
   },
   {
     "title": "ダンソンMIX",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節",
+      "6小節",
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2218,7 +2464,10 @@
   },
   {
     "title": "完整混沌mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節",
+      "10小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2237,7 +2486,10 @@
   },
   {
     "title": "完整逆混沌mix [混沌mix・逆打ち]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節",
+      "10小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2256,7 +2508,9 @@
   },
   {
     "title": "正逆混沌mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2275,7 +2529,9 @@
   },
   {
     "title": "二位正逆混沌mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2289,7 +2545,9 @@
   },
   {
     "title": "正逆萨莉亚混沌mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -2308,7 +2566,10 @@
   },
   {
     "title": "完整萨莉亚混沌mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節",
+      "10小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -2322,7 +2583,9 @@
   },
   {
     "title": "阿修罗混沌mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "12小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2346,7 +2609,9 @@
   },
   {
     "title": "ガンダムエピオン混沌",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2365,11 +2630,13 @@
   },
   {
     "title": "ワールド俊龍",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "10小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "Wa Wa Wa Wa\nWa Wa Waarudoshunryuu\n_Kokutai Yuushou Denrei Taikou\n_HoukokuzanShunryuuji\nChoushuu Yamaguchi Shunryuujibashi\n",
+        "text": "Wa Wa Wa Wa\nWa Wa Waarudoshunryuu\n_Kokutai Yuushou Denrei Taikou\n_HoukokuzanShunryuuji\nChoushuu Yamaguchi Shunryuujibashi",
         "notes": ""
       },
       {
@@ -2384,7 +2651,10 @@
   },
   {
     "title": "世界平和mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節",
+      "10小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2403,7 +2673,9 @@
   },
   {
     "title": "正逆世界平和mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2427,7 +2699,9 @@
   },
   {
     "title": "正逆世界平和mix（奉天承运ver.）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2451,7 +2725,10 @@
   },
   {
     "title": "世界平和mix（最佳拍档ver.）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節",
+      "10小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2470,7 +2747,9 @@
   },
   {
     "title": "混沌mix（黒塗りの高級車ver.）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "10小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2494,7 +2773,9 @@
   },
   {
     "title": "BlueLock混沌 [ ブルーロック ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2513,7 +2794,10 @@
   },
   {
     "title": "日本酒mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節",
+      "10小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2532,7 +2816,9 @@
   },
   {
     "title": "正逆蟑螂混沌mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2546,7 +2832,10 @@
   },
   {
     "title": "阿伊努日可变mix [ アイヌ日可変 ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節",
+      "9小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2565,7 +2854,9 @@
   },
   {
     "title": "阿伊努日可变逆打",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2584,7 +2875,9 @@
   },
   {
     "title": "阿伊努日可变正逆打",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2603,7 +2896,9 @@
   },
   {
     "title": "阿伊努日可变正打+逆打",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2622,7 +2917,9 @@
   },
   {
     "title": "アイヌ日可変二連",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "12小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2641,7 +2938,9 @@
   },
   {
     "title": "アイヌ日可変三連",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2660,7 +2959,9 @@
   },
   {
     "title": "アイヌ日可変+宮本Mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "12小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2679,7 +2980,9 @@
   },
   {
     "title": "アイヌ日可変とパンと超可愛いと田んぼ",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "10小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2703,7 +3006,10 @@
   },
   {
     "title": "秃头可变 [ ハゲ可変mix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節",
+      "9小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2727,7 +3033,9 @@
   },
   {
     "title": "三倍速可变 [ ジャパニーズ3倍速可変 ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2751,7 +3059,9 @@
   },
   {
     "title": "ゼンキョウオリジナルMIX",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2775,7 +3085,9 @@
   },
   {
     "title": "ゼンキョウオリジナルMIX→倍速ジャパ表裏等速ジャパ",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2799,11 +3111,13 @@
   },
   {
     "title": "スタジャパ可変",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "_Taiga Faiya\n_Saiba Faiba\n_Kasen Shindou Ama Sen'i\nKasenShindouAmaSen'iJinzouHiTora",
+        "text": "_Taiga__Faiya\n_Saiba__Faiba\n_Kasen Shindou Ama Sen'i\nKasenShindouAmaSen'iJinzouHiTora",
         "notes": ""
       },
       {
@@ -2818,7 +3132,11 @@
   },
   {
     "title": "恋口上 [ ガチ恋口上 ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節",
+      "18小節",
+      "20小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2837,7 +3155,9 @@
   },
   {
     "title": "恋口上转爆裂一连",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2856,11 +3176,15 @@
   },
   {
     "title": "中文恋口上",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節",
+      "18小節",
+      "20小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
-        "text": "有一些 心里话 想要说给你\n〇〇〇 就是你 最可爱的你\n喜欢你 喜欢你 就是喜欢你\n翻过山 越过海 你就是唯一\n有了你 生命里 全都是奇迹\n失去你 不再有 燃烧的意义\n让我们 再继续 绽放吧生命\n全世界 所有人 我最喜欢你\n我！最！喜！欢！你！",
+        "text": "有一些 心里话 想要说给你\n〇〇〇 就是你 最可爱的你\n喜欢你 喜欢你 就是喜欢你\n翻过山 越过海 你就是唯一\n有了你 生命里 全都是奇迹\n失去你 不再有 燃烧的意义\n让我们 再继续 绽放吧生命\n全世界 所有人 我最喜欢你\n我！最！喜！欢！你！\n〇！〇！〇！",
         "notes": ""
       }
     ],
@@ -2870,7 +3194,11 @@
   },
   {
     "title": "恋口上（瓜向ver）[ メンズ現場向けガチ恋口上 ] [ ガチ恋口上（メンズVer.） ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節",
+      "18小節",
+      "20小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2894,7 +3222,11 @@
   },
   {
     "title": "零式口上 [ 大天使 ] [ ガチ恋口上零式 ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節",
+      "16小節",
+      "18小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2913,7 +3245,9 @@
   },
   {
     "title": "ゴージャス口上",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2932,7 +3266,10 @@
   },
   {
     "title": "森光子口上",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節",
+      "18小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2956,7 +3293,10 @@
   },
   {
     "title": "ガチ恋口上・真",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節",
+      "18小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -2980,7 +3320,10 @@
   },
   {
     "title": "ガチ恋口上・真(12小節)",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "12小節",
+      "14小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3004,7 +3347,10 @@
   },
   {
     "title": "ガチ恋口上(卒業Ver.)",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節",
+      "18小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3023,7 +3369,10 @@
   },
   {
     "title": "ガチ恋口上（こじらせオタク Ver）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節",
+      "18小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3042,7 +3391,10 @@
   },
   {
     "title": "舔狗恋口上 [ 拗らせガチ恋口上 ] [ ガチ恋口上（こじらせオタク Ver.2） ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節",
+      "18小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3066,7 +3418,10 @@
   },
   {
     "title": "ガチ恋大五郎",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節",
+      "18小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3090,7 +3445,10 @@
   },
   {
     "title": "ガチ恋あいうえお",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節",
+      "18小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3114,7 +3472,9 @@
   },
   {
     "title": "ガチ恋キャンセル",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "12小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3133,7 +3493,10 @@
   },
   {
     "title": "ガチ酒口上",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節",
+      "18小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3161,7 +3524,10 @@
   },
   {
     "title": "恋口上（东北话ver）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節",
+      "18小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3175,7 +3541,9 @@
   },
   {
     "title": "恋口上→繋がりたい",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "12小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3194,7 +3562,10 @@
   },
   {
     "title": "恋口上转西语 [ ガチ恋キャンセル裏スペイン語mix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節",
+      "18小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3213,7 +3584,9 @@
   },
   {
     "title": "ガチ恋キャンセル→スタンダードmix（タイガーファイヤー始動）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3237,7 +3610,10 @@
   },
   {
     "title": "恋煩い口上",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節",
+      "18小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3256,7 +3632,10 @@
   },
   {
     "title": "寺田心恋口上",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節",
+      "18小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3280,7 +3659,10 @@
   },
   {
     "title": "ガチ恋口上・佐賀弁ver",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節",
+      "18小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3299,7 +3681,10 @@
   },
   {
     "title": "新世纪福音战士mix [ エヴァンゲリオンMIX ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節",
+      "18小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3323,7 +3708,9 @@
   },
   {
     "title": "ガチ恋口上MIX#1",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "17小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3342,7 +3729,9 @@
   },
   {
     "title": "ガチ恋口上MIX#2",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3366,7 +3755,9 @@
   },
   {
     "title": "可变三连（可変三連#1）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3385,7 +3776,9 @@
   },
   {
     "title": "可変三連#2",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3404,7 +3797,9 @@
   },
   {
     "title": "ワイパー可変三連",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3423,7 +3818,9 @@
   },
   {
     "title": "足球小将 [ キャプテン翼可変三連 ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3442,7 +3839,9 @@
   },
   {
     "title": "闪电足球 [ イナイレMIX ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3461,7 +3860,9 @@
   },
   {
     "title": "ストファイMIX",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3485,7 +3886,10 @@
   },
   {
     "title": "佐藤舞mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節",
+      "10小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3509,7 +3913,9 @@
   },
   {
     "title": "ヒガシノ可変三連 [ ヒガシノアイヌ日可変 ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3528,7 +3934,9 @@
   },
   {
     "title": "名前のない可変三連",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3552,7 +3960,9 @@
   },
   {
     "title": "家虎根绝 [ ブシロ可変三連 ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3571,7 +3981,9 @@
   },
   {
     "title": "可変三連コンボ [ チキパ可変三連 ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3590,7 +4002,9 @@
   },
   {
     "title": "深圳大学可变三连",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3614,7 +4028,9 @@
   },
   {
     "title": "深圳大学可变三连（女子大生ver.）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3633,7 +4049,9 @@
   },
   {
     "title": "始動あり可変三連mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3652,7 +4070,9 @@
   },
   {
     "title": "逸雪可変三連",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3676,7 +4096,9 @@
   },
   {
     "title": "小池百合子口上",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3695,7 +4117,9 @@
   },
   {
     "title": "麦当劳可変三連 [ マクドナルドmix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3714,7 +4138,9 @@
   },
   {
     "title": "寺田心可变三连",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3742,7 +4168,9 @@
   },
   {
     "title": "可变恋口上 [ ガチ恋可変口上 ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3761,7 +4189,9 @@
   },
   {
     "title": "大蛇丸mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3780,7 +4210,10 @@
   },
   {
     "title": "胖虎可变三连 [ ジャイアン可変 ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節",
+      "18小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3799,7 +4232,9 @@
   },
   {
     "title": "Blue Lock可变三连 [ ブルーロックMIX ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3818,7 +4253,10 @@
   },
   {
     "title": "可変三連→田んぼ→スペイン語mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節",
+      "18小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3842,7 +4280,9 @@
   },
   {
     "title": "可変ワイパー→黒服MIX",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "18小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3861,7 +4301,13 @@
   },
   {
     "title": "动物园mix [ チキパmix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節",
+      "12小節",
+      "14小節",
+      "16小節",
+      "18小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3885,7 +4331,9 @@
   },
   {
     "title": "上野动物园mix [ どんぐりチキパmix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3904,7 +4352,10 @@
   },
   {
     "title": "サファリmix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "10小節",
+      "12小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3923,7 +4374,9 @@
   },
   {
     "title": "OTAHENアンセムチキパ",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3942,7 +4395,9 @@
   },
   {
     "title": "チキパMIX(ラトラータフルMIX)",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3961,7 +4416,10 @@
   },
   {
     "title": "面包mix#1 [ パンmix（松たか子ver.） ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節",
+      "10小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3980,7 +4438,9 @@
   },
   {
     "title": "面包mix#2 [ パンmix（アンパン食パンver.） ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -3999,7 +4459,9 @@
   },
   {
     "title": "面包mix#3 [ パンmix（あき竹城(北海道ローカル)ver.） ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4018,7 +4480,9 @@
   },
   {
     "title": "面包mix（长版）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4042,7 +4506,10 @@
   },
   {
     "title": "パンMIX#2→アンパンマン口上（面包超人）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "24小節",
+      "26小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4066,7 +4533,9 @@
   },
   {
     "title": "面包MIX（上海话ver）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -4085,7 +4554,9 @@
   },
   {
     "title": "面包mix（黄楚茵粤语ver）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -4099,7 +4570,9 @@
   },
   {
     "title": "面包mix（粤语ver）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -4113,7 +4586,9 @@
   },
   {
     "title": "面包mix（四川话ver）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -4132,7 +4607,9 @@
   },
   {
     "title": "汉堡mix [ ハンバーグmix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4151,7 +4628,9 @@
   },
   {
     "title": "カノウリョウmix#1",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4170,7 +4649,9 @@
   },
   {
     "title": "カノウリョウmix#2",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4189,7 +4670,9 @@
   },
   {
     "title": "バリmix【仮称】",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4208,7 +4691,9 @@
   },
   {
     "title": "清酒mix [ お酒mix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4227,7 +4712,9 @@
   },
   {
     "title": "米mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4255,7 +4742,9 @@
   },
   {
     "title": "米mix（中文ver.）→田んぼ",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "中文+罗马字",
@@ -4269,7 +4758,9 @@
   },
   {
     "title": "麺mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4288,7 +4779,9 @@
   },
   {
     "title": "麺mix（新） [ ラーメンmix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4312,7 +4805,9 @@
   },
   {
     "title": "竹下製菓mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4331,7 +4826,9 @@
   },
   {
     "title": "宝くじmix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4355,7 +4852,9 @@
   },
   {
     "title": "阳光mix [ サンシャインmix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4374,7 +4873,9 @@
   },
   {
     "title": "本mix#1",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4402,7 +4903,9 @@
   },
   {
     "title": "本mix#2",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4430,7 +4933,9 @@
   },
   {
     "title": "本mix#3",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4454,7 +4959,9 @@
   },
   {
     "title": "寺田心mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4478,7 +4985,10 @@
   },
   {
     "title": "阴阳师mix [ レッツゴー陰陽師 MIX ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節",
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4502,7 +5012,9 @@
   },
   {
     "title": "ChipiCat mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4526,7 +5038,9 @@
   },
   {
     "title": "Chipi阴阳师mix【仮称】",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4550,7 +5064,10 @@
   },
   {
     "title": "西班牙语mix [ スペイン語mix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節",
+      "10小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4569,7 +5086,9 @@
   },
   {
     "title": "简化西班牙语mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "10小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -4583,7 +5102,10 @@
   },
   {
     "title": "西班牙语二连 [ スペインスパニッシュオリジナル ] [ 裏スペ ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "12小節",
+      "14小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4602,7 +5124,9 @@
   },
   {
     "title": "西班牙语二连逆打 [ 裏スペ（逆打ち） ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "12小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4621,7 +5145,9 @@
   },
   {
     "title": "西班牙语三连 [ スペインスパニッシュ3連mix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4640,7 +5166,9 @@
   },
   {
     "title": "西班牙语mix口上 [ スペイン口上 ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4659,7 +5187,10 @@
   },
   {
     "title": "德语mix [ ドイツ語mix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節",
+      "10小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4678,7 +5209,9 @@
   },
   {
     "title": "德语二连 [ 裏ドイツ ] [ ドイツ語2連 ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "12小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4697,7 +5230,9 @@
   },
   {
     "title": "德语三连#1 [ ドイツ語3連(3連尺ちょうど) ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4716,7 +5251,9 @@
   },
   {
     "title": "德语三连 [ ドイツ語3連#2(余りあり) ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "18小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4735,7 +5272,9 @@
   },
   {
     "title": "カールハインツシュナイダーの出張",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "12小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4754,7 +5293,9 @@
   },
   {
     "title": "まんげ",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "12小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4773,7 +5314,9 @@
   },
   {
     "title": "意大利语mix [ イタリア語mix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "10小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4792,7 +5335,9 @@
   },
   {
     "title": "意大利语二连 [ 裏イタリア ] [ イタリア語2連mix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "12小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4811,7 +5356,9 @@
   },
   {
     "title": "意大利语三连 [ イタリア語3連mix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "14小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4830,7 +5377,9 @@
   },
   {
     "title": "ドイツ語キャンセル裏ドイツキャンセルイタリア語mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "22小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4849,7 +5398,9 @@
   },
   {
     "title": "韩国语mix [ 韓国語mix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4868,7 +5419,9 @@
   },
   {
     "title": "韩文mix [ ハングルmix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "9小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4887,7 +5440,9 @@
   },
   {
     "title": "韩文mix逆打ち",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4906,7 +5461,9 @@
   },
   {
     "title": "葡萄牙语mix [ ポルトガル語mix ] [ ポーチュギーズmix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "10小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4925,7 +5482,9 @@
   },
   {
     "title": "裏スペポルト [ 裏スペ逆打ち→スペインキャンセル→ポルトガル逆打ち ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "22小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4944,7 +5503,9 @@
   },
   {
     "title": "越南语mix [ ベトナム語mix ] [ ビエトナミーズmix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4963,7 +5524,9 @@
   },
   {
     "title": "阿拉伯语mix [ アラビア語mix ] [ アラビアックmix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -4982,7 +5545,9 @@
   },
   {
     "title": "拉丁语mix [ ラテン語mix ] [ ラテンmix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "10小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -5001,7 +5566,9 @@
   },
   {
     "title": "裏ドイツラテ [ 裏ドイツ逆打ちドイツキャンセルラテン語 ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "22小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -5020,7 +5587,9 @@
   },
   {
     "title": "ハム語mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -5039,7 +5608,9 @@
   },
   {
     "title": "梵语mix [ サンスクリット語mix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -5058,7 +5629,9 @@
   },
   {
     "title": "高低call [ 俾斯麦口上 ] [ ビスマルク口上 ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "12小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -5077,7 +5650,9 @@
   },
   {
     "title": "完全圣域 [ 完全聖域ビスマルク口上・フル ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -5096,7 +5671,9 @@
   },
   {
     "title": "短版圣域",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -5115,7 +5692,9 @@
   },
   {
     "title": "ビスマルク口上（ショートバージョンで始動）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -5134,7 +5713,9 @@
   },
   {
     "title": "高まらないけどシジマール口上",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -5158,7 +5739,9 @@
   },
   {
     "title": "居酒屋mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "12小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -5177,7 +5760,9 @@
   },
   {
     "title": "ビスマルク口上·派生",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -5201,7 +5786,9 @@
   },
   {
     "title": "三角関数mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -5225,7 +5812,11 @@
   },
   {
     "title": "红线mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節",
+      "12小節",
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -5244,7 +5835,9 @@
   },
   {
     "title": "红线mix→倍速英语→家虎",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "20小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -5263,7 +5856,9 @@
   },
   {
     "title": "繋がりタイガーmix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -5287,7 +5882,9 @@
   },
   {
     "title": "繋がりタイガーmix（8小節尺）#1",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -5306,7 +5903,9 @@
   },
   {
     "title": "繋がりタイガーmix（8小節尺）#2",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -5325,7 +5924,9 @@
   },
   {
     "title": "繋がりタイガーmix（12小節尺）#1",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "12小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -5344,7 +5945,9 @@
   },
   {
     "title": "繋がりタイガーmix（12小節尺）#2",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "12小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -5363,7 +5966,9 @@
   },
   {
     "title": "繋がりタイガーMIX（14小節尺）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "14小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -5382,7 +5987,9 @@
   },
   {
     "title": "繋がりたい→英语mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "12小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -5401,7 +6008,9 @@
   },
   {
     "title": "日本語逆打ち→英語逆打ち→繋がりタイガー後半",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -5420,7 +6029,9 @@
   },
   {
     "title": "可変三連→繋がりタイガー後半",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "24小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -5439,7 +6050,10 @@
   },
   {
     "title": "レスください",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節",
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -5458,7 +6072,10 @@
   },
   {
     "title": "霍格沃茨mix [ ホグワーツmix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節",
+      "18小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -5477,7 +6094,10 @@
   },
   {
     "title": "霍格沃茨mix（中文ver）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節",
+      "18小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -5496,7 +6116,10 @@
   },
   {
     "title": "霍格沃茨mix（英语ver）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節",
+      "18小節"
+    ],
     "text_list": [
       {
         "lang": "英语",
@@ -5515,7 +6138,9 @@
   },
   {
     "title": "霍格沃茨mix（四川话ver）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -5534,7 +6159,9 @@
   },
   {
     "title": "霍格沃茨雨刷器mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -5558,7 +6185,10 @@
   },
   {
     "title": "可变霍格沃茨恋口上 [ アルティメットmix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節",
+      "18小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -5577,7 +6207,11 @@
   },
   {
     "title": "海鲜三连 [ 田んぼ三連mix ] [ 田んぼ口上·フル ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節",
+      "8小節",
+      "12小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -5596,7 +6230,10 @@
   },
   {
     "title": "尺mix【仮称】",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節",
+      "6小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -5615,7 +6252,10 @@
   },
   {
     "title": "巧克力口上 [ ショコラ・ラブ口上 ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節",
+      "18小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -5634,7 +6274,9 @@
   },
   {
     "title": "天神爱眼mix [ 天神愛眼MIX ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -5653,7 +6295,10 @@
   },
   {
     "title": "Sukidakara [ 好きだから ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節",
+      "10小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -5672,7 +6317,10 @@
   },
   {
     "title": "超かわいい",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節",
+      "10小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -5691,7 +6339,9 @@
   },
   {
     "title": "俺もー",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -5710,7 +6360,11 @@
   },
   {
     "title": "ChapeToraTaiga [ チャペ虎タイガー ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節",
+      "9小節",
+      "10小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -5729,7 +6383,10 @@
   },
   {
     "title": "悲伤校准mix [ 悲キャリMIX ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節",
+      "9小節"
+    ],
     "text_list": [
       {
         "lang": "英语",
@@ -5758,7 +6415,9 @@
   },
   {
     "title": "悲伤校准·改 [ 悲しみキャリブレーションmix(ゆる革ver) ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "英语",
@@ -5787,7 +6446,9 @@
   },
   {
     "title": "悲伤校准mix（Combustion ver）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "英语",
@@ -5816,7 +6477,9 @@
   },
   {
     "title": "悲伤校准mix（中文ver）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -5835,7 +6498,9 @@
   },
   {
     "title": "悲伤校准mix（永恒ver）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "10小節"
+    ],
     "text_list": [
       {
         "lang": "英语",
@@ -5859,7 +6524,10 @@
   },
   {
     "title": "麦当劳校准mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節",
+      "9小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -5878,7 +6546,9 @@
   },
   {
     "title": "肯德基校准mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -5892,7 +6562,9 @@
   },
   {
     "title": "爹伤校准mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "10小節"
+    ],
     "text_list": [
       {
         "lang": "英语",
@@ -5921,7 +6593,9 @@
   },
   {
     "title": "Fever mix#1",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -5945,7 +6619,9 @@
   },
   {
     "title": "Fever mix#2",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "12小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -5964,7 +6640,9 @@
   },
   {
     "title": "ガンダムエピオン校准",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -5988,7 +6666,9 @@
   },
   {
     "title": "林修mix#1",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "12小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6007,7 +6687,9 @@
   },
   {
     "title": "林修mix#2",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6026,7 +6708,9 @@
   },
   {
     "title": "林修mix+英语mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6045,7 +6729,9 @@
   },
   {
     "title": "林修mix+红线mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "24小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6064,7 +6750,9 @@
   },
   {
     "title": "林修mix+英语mix+园长mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "24小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6083,7 +6771,9 @@
   },
   {
     "title": "林修恋口上",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6102,7 +6792,10 @@
   },
   {
     "title": "林修混沌mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節",
+      "18小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6121,7 +6814,10 @@
   },
   {
     "title": "林修霍格沃茨mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "24小節",
+      "26小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6140,7 +6836,9 @@
   },
   {
     "title": "拉长mix（英语） [ スタンダードうんち可変 ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6159,7 +6857,9 @@
   },
   {
     "title": "拉长mix（园长） [ 園長うんち可変 ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6178,7 +6878,10 @@
   },
   {
     "title": "拉长mix（闇） [ 闇うんち可変 ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節",
+      "10小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6197,7 +6900,9 @@
   },
   {
     "title": "拉长mix（黑服） [ 4つ目のうんちmix ] [ 黒服 PERFECT FULL OVERのうんち可変mix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6216,7 +6921,9 @@
   },
   {
     "title": "叠字mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6235,7 +6942,9 @@
   },
   {
     "title": "叠字mix+倍速日语正逆打+第三连",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6254,7 +6963,9 @@
   },
   {
     "title": "印尼mix [ フリースタイル mix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6282,7 +6993,9 @@
   },
   {
     "title": "おつのきコール",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "12小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6306,7 +7019,9 @@
   },
   {
     "title": "原宿サニーデイmix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6325,7 +7040,9 @@
   },
   {
     "title": "原宿サニーデイmix（中文ver）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -6339,7 +7056,9 @@
   },
   {
     "title": "I☆Ris高速三连mix [ 高速3連MIX ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6358,7 +7077,9 @@
   },
   {
     "title": "湘南新宿mix [ 湘南新宿ラインMIX ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6377,7 +7098,9 @@
   },
   {
     "title": "C3PO→上野动物园→湘南新宿mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "12小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6401,7 +7124,9 @@
   },
   {
     "title": "时折mix [ 時折マーメイドmix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "13小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6420,7 +7145,9 @@
   },
   {
     "title": "アッチェレ派生 13小節対応ver",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "13小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6439,7 +7166,9 @@
   },
   {
     "title": "终幕可变mix [ アッチェレ終幕ジャパ可変mix ] [ ジャパ可変mix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6458,7 +7187,9 @@
   },
   {
     "title": "终幕可变mix（中文ver）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -6477,7 +7208,9 @@
   },
   {
     "title": "アッチェレ終幕ジャパ可変+宮本武蔵",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "18小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6496,7 +7229,9 @@
   },
   {
     "title": "アッチェレ終幕ジャパ可変→宮本mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "18小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6520,7 +7255,9 @@
   },
   {
     "title": "终幕可变延长 [ アッチェレ終幕ジャパ可変ロング ] [ ポイポイパッラストジャパ可変 ] [ ポイポイパッアッチェレ終幕ジャパ可変（特殊尺） ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "26小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6539,7 +7276,9 @@
   },
   {
     "title": "アッチェレキャンセル極意パーフェクトMix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "18小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6558,7 +7297,9 @@
   },
   {
     "title": "抱き抱きmix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "14小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6582,7 +7323,9 @@
   },
   {
     "title": "北風インパクトもっちゃん可変",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "14小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6601,7 +7344,9 @@
   },
   {
     "title": "勘定奉行mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6620,7 +7365,9 @@
   },
   {
     "title": "勘定奉行mix·派生",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6639,7 +7386,9 @@
   },
   {
     "title": "吉村阳平mix [ 吉村陽平mix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6663,7 +7412,9 @@
   },
   {
     "title": "勘定奉行mix（バリヤードver）【仮称】",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6682,7 +7433,9 @@
   },
   {
     "title": "勘定奉行mixで女性器を叫ぶやつ",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6701,7 +7454,9 @@
   },
   {
     "title": "石头剪刀布mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -6715,7 +7470,10 @@
   },
   {
     "title": "两只老虎mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節",
+      "10小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6729,7 +7487,9 @@
   },
   {
     "title": "童谣mix [ 童謡mix ] [ 幼稚園児向け可変MIX ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6748,7 +7508,9 @@
   },
   {
     "title": "童谣→阿修罗混沌",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "20小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6772,7 +7534,9 @@
   },
   {
     "title": "落ちサビ口上からの世界平和mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "18小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6791,7 +7555,9 @@
   },
   {
     "title": "国木田花丸mix(般若心经+九字真言)",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6824,7 +7590,9 @@
   },
   {
     "title": "九字mix#1",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "2小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6843,7 +7611,9 @@
   },
   {
     "title": "九字mix#2",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "2小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6862,7 +7632,9 @@
   },
   {
     "title": "九字MIX×2→可変三連（前半）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "12小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6886,7 +7658,9 @@
   },
   {
     "title": "最後の曙光口上",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "10小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6905,7 +7679,10 @@
   },
   {
     "title": "Cruise口上 [ Cruising My Story口上 ] [ くるーず～CRUISE! ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節",
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6933,7 +7710,9 @@
   },
   {
     "title": "千本ノックが終わらない口上　(絶対直球女子！プレイボールズ)",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6952,7 +7731,9 @@
   },
   {
     "title": "闪光8口上 [ 閃光8口上 ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -6976,7 +7757,9 @@
   },
   {
     "title": "闪亮旋律口上 [ kirakira口上 ] [ キラキラチューン口上　(でんぱ組.inc) ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7000,7 +7783,9 @@
   },
   {
     "title": "6STARS口上",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7019,7 +7804,9 @@
   },
   {
     "title": "いろは唄口上",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7043,7 +7830,9 @@
   },
   {
     "title": "いろは唄口上(戦極ver.)",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7067,7 +7856,9 @@
   },
   {
     "title": "爱口上 [ ガチ愛口上 ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7091,7 +7882,9 @@
   },
   {
     "title": "伊吕波歌",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -7110,7 +7903,9 @@
   },
   {
     "title": "橙色射线口上 [ ORANGE RIUM口上　(でんぱ組.inc) ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7134,7 +7929,9 @@
   },
   {
     "title": "修造口上",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7158,7 +7955,9 @@
   },
   {
     "title": "短版修造口上 [ 修造口上ショート ] [ 松岡修造口上 ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7177,7 +7976,10 @@
   },
   {
     "title": "Namida口上",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節",
+      "18小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7201,7 +8003,10 @@
   },
   {
     "title": "TAKEOFF口上",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "12小節",
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7225,7 +8030,9 @@
   },
   {
     "title": "银河口上 [ アイカレ口上 ] [ 制服恋物語口上 ] [ 銀河口上 ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "12小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7249,7 +8056,9 @@
   },
   {
     "title": "NewWorld口上",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7273,7 +8082,9 @@
   },
   {
     "title": "IDOL mix [ アイドルmix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7292,7 +8103,9 @@
   },
   {
     "title": "警察mix [ アイマス警察レギュレーション確認口上 ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7316,7 +8129,11 @@
   },
   {
     "title": "地藏mix [ アイマスレギュ確認mix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節",
+      "10小節",
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7344,7 +8161,9 @@
   },
   {
     "title": "神田外語大mix#1",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7372,7 +8191,9 @@
   },
   {
     "title": "神田外語大mix#2",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7400,7 +8221,9 @@
   },
   {
     "title": "神田外語大mix#3",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "9小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7428,7 +8251,9 @@
   },
   {
     "title": "この世の終わり可変三連",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7452,7 +8277,10 @@
   },
   {
     "title": "电车mix [ デンシャmix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "18小節",
+      "20小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7476,7 +8304,9 @@
   },
   {
     "title": "北京地铁mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "18小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -7490,7 +8320,9 @@
   },
   {
     "title": "ペロペロMix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "18小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7509,7 +8341,11 @@
   },
   {
     "title": "香槟call",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節",
+      "8小節",
+      "12小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7528,7 +8364,9 @@
   },
   {
     "title": "香槟call（小恶魔ver）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7547,7 +8385,9 @@
   },
   {
     "title": "香槟call（头牌ver）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7566,7 +8406,9 @@
   },
   {
     "title": "香槟call（冰之王子ver）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7585,7 +8427,9 @@
   },
   {
     "title": "色mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "12小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7604,7 +8448,9 @@
   },
   {
     "title": "色mix（愛の色ver.）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7628,7 +8474,9 @@
   },
   {
     "title": "海女",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "2小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7647,7 +8495,10 @@
   },
   {
     "title": "日体大mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "10小節",
+      "12小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7671,7 +8522,10 @@
   },
   {
     "title": "日体大mix（萨莉亚ver）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "10小節",
+      "12小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7690,7 +8544,9 @@
   },
   {
     "title": "章鱼烧mix [ たこ焼きMIX ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7714,7 +8570,9 @@
   },
   {
     "title": "吉幾三MIX",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "12小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7738,7 +8596,9 @@
   },
   {
     "title": "Future Diver口上　(でんぱ組.inc)",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7757,7 +8617,9 @@
   },
   {
     "title": "魔法のジュース口上　(妄想キャリブレーション)",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "5小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7776,7 +8638,10 @@
   },
   {
     "title": "敬语恋口上",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節",
+      "18小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7800,7 +8665,10 @@
   },
   {
     "title": "感谢恋口上 [ ガチ恋感謝口上 ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節",
+      "18小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7824,7 +8692,9 @@
   },
   {
     "title": "因为你就是你口上#1 [ 私が私であるために口上 ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "18小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7848,7 +8718,9 @@
   },
   {
     "title": "因为你就是你口上#2 [ 私が私であるために口上 ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "18小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7867,7 +8739,9 @@
   },
   {
     "title": "打上花火口上",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "12小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7891,7 +8765,10 @@
   },
   {
     "title": "汉谟拉比法典口上 [ ハンムラビ法典口上 ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節",
+      "18小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7915,7 +8792,9 @@
   },
   {
     "title": "布丁狗mix [ プリンmix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7939,7 +8818,9 @@
   },
   {
     "title": "三丽鸥mix [ サンリオmix ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "10小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7958,7 +8839,10 @@
   },
   {
     "title": "ポケモン口上（宝可梦）（16/18小節尺）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節",
+      "18小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7977,7 +8861,11 @@
   },
   {
     "title": "ポケモン口上（宝可梦）（20/22/28小節尺）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "20小節",
+      "22小節",
+      "28小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -7996,7 +8884,9 @@
   },
   {
     "title": "火箭队口上#1 [ ロケット団口上 ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -8015,7 +8905,9 @@
   },
   {
     "title": "火箭队口上#2 [ ムコニャ口上（ロケット団） ]",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "20小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -8034,7 +8926,9 @@
   },
   {
     "title": "クソコール酒",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "20小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -8062,7 +8956,9 @@
   },
   {
     "title": "国木田花丸涅槃经mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -8086,7 +8982,9 @@
   },
   {
     "title": "寿限无mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -8110,7 +9008,9 @@
   },
   {
     "title": "悲しみガンダムエピオン",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "罗马字",
@@ -8129,7 +9029,9 @@
   },
   {
     "title": "魂斗罗mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -8143,7 +9045,9 @@
   },
   {
     "title": "街头霸王mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -8157,11 +9061,13 @@
   },
   {
     "title": "生日快乐mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
-        "text": "_生 日 快 乐\n生-日-快-乐 生日快-乐",
+        "text": "P-PPP-P 生日快乐\n_生 日 快 乐\n生-日-快-乐 生日快-乐",
         "notes": ""
       }
     ],
@@ -8171,7 +9077,9 @@
   },
   {
     "title": "方琪mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "10小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -8185,7 +9093,9 @@
   },
   {
     "title": "净心神咒mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -8199,7 +9109,9 @@
   },
   {
     "title": "中华料理mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -8218,7 +9130,9 @@
   },
   {
     "title": "中华料理mix（四川方言ver）",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -8237,7 +9151,9 @@
   },
   {
     "title": "切克闹mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -8256,7 +9172,9 @@
   },
   {
     "title": "玛卡巴卡mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -8270,7 +9188,9 @@
   },
   {
     "title": "装天干诀",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -8284,7 +9204,9 @@
   },
   {
     "title": "地支三会",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -8298,7 +9220,9 @@
   },
   {
     "title": "十二生肖+天干mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "4小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -8312,7 +9236,10 @@
   },
   {
     "title": "六爻断卦mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節",
+      "18小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -8326,7 +9253,9 @@
   },
   {
     "title": "小六壬mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -8340,7 +9269,10 @@
   },
   {
     "title": "渣男mix",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節",
+      "12小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -8354,7 +9286,9 @@
   },
   {
     "title": "桃花庵歌",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -8368,7 +9302,10 @@
   },
   {
     "title": "一人饮酒醉",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節",
+      "9小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -8382,7 +9319,9 @@
   },
   {
     "title": "侠客行",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -8396,7 +9335,10 @@
   },
   {
     "title": "行路难",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "12小節",
+      "24小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -8410,7 +9352,10 @@
   },
   {
     "title": "思远人•红叶黄花秋意晚",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節",
+      "16小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -8424,7 +9369,9 @@
   },
   {
     "title": "春江花月夜",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "8小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
@@ -8438,7 +9385,10 @@
   },
   {
     "title": "刀山火海口上",
-    "mix_tag_list": [],
+    "mix_tag_list": [
+      "16小節",
+      "18小節"
+    ],
     "text_list": [
       {
         "lang": "中文",
