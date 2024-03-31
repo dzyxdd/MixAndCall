@@ -3335,7 +3335,10 @@
     "version_list": [
       {
         "title": "长版",
-        "pic_list": [
+        "pic_list": [{
+            "description": "2021菲诞--meto",
+            "href": "../../../../call_image/meto/EP/那年夏天的吻（菲诞）.jpg"
+          },
           {
             "description": "偶像的黎明--极梦",
             "href": "../../../../call_image/jm/偶像的黎明/那年夏天的吻.jpg"
@@ -3750,6 +3753,10 @@
           {
             "description": "baf--dzydoom",
             "href": "../../../../call_image/dzydoom/baf/速.png"
+          },
+          {
+            "description": "meto",
+            "href": "../../../../call_image/meto/EP/速.jpg"
           }
         ]
       }
@@ -6737,6 +6744,10 @@
         "title": "长版",
         "pic_list": [
           {
+            "description": "meto",
+            "href": "../../../../call_image/meto/EP/粉色城堡.jpg"
+          },
+          {
             "description": "启程G--rainbow",
             "href": "../../../../call_image/rainbow/启程G/粉色城堡.jpg"
           },
@@ -7404,7 +7415,10 @@
     "version_list": [
       {
         "title": "长版",
-        "pic_list": [
+        "pic_list": [{
+            "description": "2021菲诞--meto",
+            "href": "../../../../call_image/meto/EP/相遇的季节（菲诞）.jpg"
+          },
           {
             "description": "不造NIII--niiiyyh",
             "href": "../../../../call_image/niiiyyh/不造NIII/相遇的季节.jpg"
@@ -7743,6 +7757,132 @@
           {
             "description": "抱紧处理--rainbow",
             "href": "../../../../call_image/rainbow/未来的乐章/抱紧处理.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "We Can Try",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "special version",
+            "href": "../../../../call_image/meto/EP/We Can Try.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "雨季之后",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "meto",
+            "href": "../../../../call_image/meto/EP/雨季之后.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "LOVE",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "2024菲诞--meto",
+            "href": "../../../../call_image/meto/EP/LOVE（菲诞）.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "爱情养成日记",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "2024菲诞--meto",
+            "href": "../../../../call_image/meto/EP/爱情养成日记（菲诞）.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "无尽旋转",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "2024菲诞--meto",
+            "href": "../../../../call_image/meto/EP/无尽旋转（菲诞）.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "眼神加速度",
+    "version_list": [
+      {
+        "title": "短版",
+        "pic_list": [
+          {
+            "description": "2021菲诞--meto",
+            "href": "../../../../call_image/meto/EP/眼神加速度（菲诞）.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "那年夏天的梦",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "2021菲诞--meto",
+            "href": "../../../../call_image/meto/EP/那年夏天的梦（菲诞）.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "加油女孩2021",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "加油女孩2021--meto",
+            "href": "../../../../call_image/meto/single/加油女孩2021.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "钟声过后是新年",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "钟声过后是新年--dzydoom",
+            "href": "../../../../call_image/dzydoom/single/钟声过后是新年.png"
           }
         ]
       }
