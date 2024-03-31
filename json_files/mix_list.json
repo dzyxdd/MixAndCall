@@ -2,6 +2,7 @@
   {
     "title": "英语mix [ スタンダードmix ] [ 英語mix ]",
     "mix_tag_list": [
+      "言语mix",
       "4小節",
       "5小節",
       "8小節",
@@ -26,6 +27,7 @@
   {
     "title": "スタンダードmix [ タイガーファイヤー始動 ]",
     "mix_tag_list": [
+      "言语mix",
       "8小節",
       "10小節"
     ],
@@ -48,6 +50,7 @@
   {
     "title": "12Taiga [ スタンダードmix（12タイガー+タイガーファイヤー始動） ]",
     "mix_tag_list": [
+      "言语mix",
       "8小節"
     ],
     "text_list": [
@@ -69,6 +72,7 @@
   {
     "title": "スタンダードmix尺+2小節",
     "mix_tag_list": [
+      "言语mix",
       "6小節",
       "10小節"
     ],
@@ -91,6 +95,7 @@
   {
     "title": "スタンダードmix逆打ち",
     "mix_tag_list": [
+      "言语mix",
       "4小節"
     ],
     "text_list": [
@@ -112,6 +117,7 @@
   {
     "title": "日本语mix [ ジャパニーズmix ] [ 日本語mix ]",
     "mix_tag_list": [
+      "言语mix",
       "4小節",
       "5小節",
       "8小節",
@@ -136,6 +142,7 @@
   {
     "title": "ジャパニーズmix（最後を短縮）",
     "mix_tag_list": [
+      "言语mix",
       "4小節",
       "8小節"
     ],
@@ -158,6 +165,7 @@
   {
     "title": "ジャパニーズmix（虎火始動）",
     "mix_tag_list": [
+      "言语mix",
       "8小節"
     ],
     "text_list": [
@@ -179,6 +187,7 @@
   {
     "title": "12Tora [ ジャパニーズmix（12虎+虎火始動） ]",
     "mix_tag_list": [
+      "言语mix",
       "8小節"
     ],
     "text_list": [
@@ -200,6 +209,7 @@
   {
     "title": "ジャパニーズmix尺+2小節",
     "mix_tag_list": [
+      "言语mix",
       "6小節",
       "10小節"
     ],
@@ -222,6 +232,7 @@
   {
     "title": "ジャパニーズmix逆打ち",
     "mix_tag_list": [
+      "言语mix",
       "4小節"
     ],
     "text_list": [
@@ -243,6 +254,7 @@
   {
     "title": "阿伊努语mix [ アイヌ語mix ]",
     "mix_tag_list": [
+      "言语mix",
       "6小節",
       "10小節"
     ],
@@ -265,6 +277,7 @@
   {
     "title": "アイヌ語mix（ゼンキョウver）",
     "mix_tag_list": [
+      "言语mix",
       "4小節",
       "8小節"
     ],
@@ -287,6 +300,7 @@
   {
     "title": "12Chape [ アイヌ語mix（12チャペ+チャペチャペ始動） ]",
     "mix_tag_list": [
+      "言语mix",
       "8小節"
     ],
     "text_list": [
@@ -308,6 +322,7 @@
   {
     "title": "アイヌ語mix+アイヌ晴乞い",
     "mix_tag_list": [
+      "言语mix",
       "8小節",
       "12小節"
     ],
@@ -330,6 +345,7 @@
   {
     "title": "アイヌ語mix+アイヌ雨乞い",
     "mix_tag_list": [
+      "言语mix",
       "8小節",
       "12小節"
     ],
@@ -352,6 +368,8 @@
   {
     "title": "中文mix [ 中国語mix ] [ チャイニーズmix ]",
     "mix_tag_list": [
+      "言语mix",
+      "中文mix",
       "4小節",
       "5小節",
       "8小節",
@@ -376,6 +394,8 @@
   {
     "title": "中文mix（12虎+虎火发动）",
     "mix_tag_list": [
+      "言语mix",
+      "中文mix",
       "8小節"
     ],
     "text_list": [
@@ -392,6 +412,8 @@
   {
     "title": "中文三连 [ 中国語三連MIX ]",
     "mix_tag_list": [
+      "言语mix",
+      "中文mix",
       "16小節"
     ],
     "text_list": [
@@ -1728,6 +1750,7 @@
   {
     "title": "倍速中文",
     "mix_tag_list": [
+      "中文mix",
       "2小節"
     ],
     "text_list": [
@@ -1744,6 +1767,7 @@
   {
     "title": "中文倍速正逆打",
     "mix_tag_list": [
+      "中文mix",
       "4小節"
     ],
     "text_list": [
@@ -2358,6 +2382,7 @@
   {
     "title": "三爷mix",
     "mix_tag_list": [
+      "中文mix",
       "4小節"
     ],
     "text_list": [
@@ -2546,6 +2571,7 @@
   {
     "title": "正逆萨莉亚混沌mix",
     "mix_tag_list": [
+      "中文mix",
       "16小節"
     ],
     "text_list": [
@@ -2567,6 +2593,7 @@
   {
     "title": "完整萨莉亚混沌mix",
     "mix_tag_list": [
+      "中文mix",
       "8小節",
       "10小節"
     ],
@@ -3177,6 +3204,7 @@
   {
     "title": "中文恋口上",
     "mix_tag_list": [
+      "中文mix",
       "16小節",
       "18小節",
       "20小節"
@@ -4534,6 +4562,7 @@
   {
     "title": "面包MIX（上海话ver）",
     "mix_tag_list": [
+      "中文mix",
       "8小節"
     ],
     "text_list": [
@@ -4555,6 +4584,7 @@
   {
     "title": "面包mix（黄楚茵粤语ver）",
     "mix_tag_list": [
+      "中文mix",
       "8小節"
     ],
     "text_list": [
@@ -4571,6 +4601,7 @@
   {
     "title": "面包mix（粤语ver）",
     "mix_tag_list": [
+      "中文mix",
       "8小節"
     ],
     "text_list": [
@@ -4587,6 +4618,7 @@
   {
     "title": "面包mix（四川话ver）",
     "mix_tag_list": [
+      "中文mix",
       "8小節"
     ],
     "text_list": [
@@ -5065,6 +5097,7 @@
   {
     "title": "西班牙语mix [ スペイン語mix ]",
     "mix_tag_list": [
+      "言语mix",
       "8小節",
       "10小節"
     ],
@@ -5087,6 +5120,8 @@
   {
     "title": "简化西班牙语mix",
     "mix_tag_list": [
+      "言语mix",
+      "中文mix",
       "10小節"
     ],
     "text_list": [
@@ -5103,6 +5138,7 @@
   {
     "title": "西班牙语二连 [ スペインスパニッシュオリジナル ] [ 裏スペ ]",
     "mix_tag_list": [
+      "言语mix",
       "12小節",
       "14小節"
     ],
@@ -5125,6 +5161,7 @@
   {
     "title": "西班牙语二连逆打 [ 裏スペ（逆打ち） ]",
     "mix_tag_list": [
+      "言语mix",
       "12小節"
     ],
     "text_list": [
@@ -5146,6 +5183,7 @@
   {
     "title": "西班牙语三连 [ スペインスパニッシュ3連mix ]",
     "mix_tag_list": [
+      "言语mix",
       "16小節"
     ],
     "text_list": [
@@ -5167,6 +5205,7 @@
   {
     "title": "西班牙语mix口上 [ スペイン口上 ]",
     "mix_tag_list": [
+      "言语mix",
       "16小節"
     ],
     "text_list": [
@@ -5188,6 +5227,7 @@
   {
     "title": "德语mix [ ドイツ語mix ]",
     "mix_tag_list": [
+      "言语mix",
       "8小節",
       "10小節"
     ],
@@ -5210,6 +5250,7 @@
   {
     "title": "德语二连 [ 裏ドイツ ] [ ドイツ語2連 ]",
     "mix_tag_list": [
+      "言语mix",
       "12小節"
     ],
     "text_list": [
@@ -5231,6 +5272,7 @@
   {
     "title": "德语三连#1 [ ドイツ語3連(3連尺ちょうど) ]",
     "mix_tag_list": [
+      "言语mix",
       "16小節"
     ],
     "text_list": [
@@ -5252,6 +5294,7 @@
   {
     "title": "德语三连 [ ドイツ語3連#2(余りあり) ]",
     "mix_tag_list": [
+      "言语mix",
       "18小節"
     ],
     "text_list": [
@@ -5273,6 +5316,7 @@
   {
     "title": "カールハインツシュナイダーの出張",
     "mix_tag_list": [
+      "言语mix",
       "12小節"
     ],
     "text_list": [
@@ -5294,6 +5338,7 @@
   {
     "title": "まんげ",
     "mix_tag_list": [
+      "言语mix",
       "12小節"
     ],
     "text_list": [
@@ -5315,6 +5360,7 @@
   {
     "title": "意大利语mix [ イタリア語mix ]",
     "mix_tag_list": [
+      "言语mix",
       "10小節"
     ],
     "text_list": [
@@ -5336,6 +5382,7 @@
   {
     "title": "意大利语二连 [ 裏イタリア ] [ イタリア語2連mix ]",
     "mix_tag_list": [
+      "言语mix",
       "12小節"
     ],
     "text_list": [
@@ -5357,6 +5404,7 @@
   {
     "title": "意大利语三连 [ イタリア語3連mix ]",
     "mix_tag_list": [
+      "言语mix",
       "14小節"
     ],
     "text_list": [
@@ -5378,6 +5426,7 @@
   {
     "title": "ドイツ語キャンセル裏ドイツキャンセルイタリア語mix",
     "mix_tag_list": [
+      "言语mix",
       "22小節"
     ],
     "text_list": [
@@ -5399,6 +5448,7 @@
   {
     "title": "韩国语mix [ 韓国語mix ]",
     "mix_tag_list": [
+      "言语mix",
       "8小節"
     ],
     "text_list": [
@@ -5420,6 +5470,7 @@
   {
     "title": "韩文mix [ ハングルmix ]",
     "mix_tag_list": [
+      "言语mix",
       "9小節"
     ],
     "text_list": [
@@ -5441,6 +5492,7 @@
   {
     "title": "韩文mix逆打ち",
     "mix_tag_list": [
+      "言语mix",
       "8小節"
     ],
     "text_list": [
@@ -5462,6 +5514,7 @@
   {
     "title": "葡萄牙语mix [ ポルトガル語mix ] [ ポーチュギーズmix ]",
     "mix_tag_list": [
+      "言语mix",
       "10小節"
     ],
     "text_list": [
@@ -5483,6 +5536,7 @@
   {
     "title": "裏スペポルト [ 裏スペ逆打ち→スペインキャンセル→ポルトガル逆打ち ]",
     "mix_tag_list": [
+      "言语mix",
       "22小節"
     ],
     "text_list": [
@@ -5504,6 +5558,7 @@
   {
     "title": "越南语mix [ ベトナム語mix ] [ ビエトナミーズmix ]",
     "mix_tag_list": [
+      "言语mix",
       "8小節"
     ],
     "text_list": [
@@ -5525,6 +5580,7 @@
   {
     "title": "阿拉伯语mix [ アラビア語mix ] [ アラビアックmix ]",
     "mix_tag_list": [
+      "言语mix",
       "8小節"
     ],
     "text_list": [
@@ -5546,6 +5602,7 @@
   {
     "title": "拉丁语mix [ ラテン語mix ] [ ラテンmix ]",
     "mix_tag_list": [
+      "言语mix",
       "10小節"
     ],
     "text_list": [
@@ -5567,6 +5624,7 @@
   {
     "title": "裏ドイツラテ [ 裏ドイツ逆打ちドイツキャンセルラテン語 ]",
     "mix_tag_list": [
+      "言语mix",
       "22小節"
     ],
     "text_list": [
@@ -5588,6 +5646,7 @@
   {
     "title": "ハム語mix",
     "mix_tag_list": [
+      "言语mix",
       "8小節"
     ],
     "text_list": [
@@ -5609,6 +5668,7 @@
   {
     "title": "梵语mix [ サンスクリット語mix ]",
     "mix_tag_list": [
+      "言语mix",
       "4小節"
     ],
     "text_list": [
@@ -6095,6 +6155,7 @@
   {
     "title": "霍格沃茨mix（中文ver）",
     "mix_tag_list": [
+      "中文mix",
       "16小節",
       "18小節"
     ],
@@ -6139,6 +6200,7 @@
   {
     "title": "霍格沃茨mix（四川话ver）",
     "mix_tag_list": [
+      "中文mix",
       "16小節"
     ],
     "text_list": [
@@ -6478,6 +6540,7 @@
   {
     "title": "悲伤校准mix（中文ver）",
     "mix_tag_list": [
+      "中文mix",
       "8小節"
     ],
     "text_list": [
@@ -6525,6 +6588,7 @@
   {
     "title": "麦当劳校准mix",
     "mix_tag_list": [
+      "中文mix",
       "8小節",
       "9小節"
     ],
@@ -6547,6 +6611,7 @@
   {
     "title": "肯德基校准mix",
     "mix_tag_list": [
+      "中文mix",
       "8小節"
     ],
     "text_list": [
@@ -7041,6 +7106,7 @@
   {
     "title": "原宿サニーデイmix（中文ver）",
     "mix_tag_list": [
+      "中文mix",
       "4小節"
     ],
     "text_list": [
@@ -7188,6 +7254,7 @@
   {
     "title": "终幕可变mix（中文ver）",
     "mix_tag_list": [
+      "中文mix",
       "16小節"
     ],
     "text_list": [
@@ -7455,6 +7522,7 @@
   {
     "title": "石头剪刀布mix",
     "mix_tag_list": [
+      "中文mix",
       "8小節"
     ],
     "text_list": [
@@ -7556,6 +7624,7 @@
   {
     "title": "国木田花丸mix(般若心经+九字真言)",
     "mix_tag_list": [
+      "中文mix",
       "4小節"
     ],
     "text_list": [
@@ -7883,6 +7952,7 @@
   {
     "title": "伊吕波歌",
     "mix_tag_list": [
+      "中文mix",
       "8小節"
     ],
     "text_list": [
@@ -8305,6 +8375,7 @@
   {
     "title": "北京地铁mix",
     "mix_tag_list": [
+      "中文mix",
       "18小節"
     ],
     "text_list": [
@@ -9030,6 +9101,7 @@
   {
     "title": "魂斗罗mix",
     "mix_tag_list": [
+      "中文mix",
       "4小節"
     ],
     "text_list": [
@@ -9046,6 +9118,7 @@
   {
     "title": "街头霸王mix",
     "mix_tag_list": [
+      "中文mix",
       "4小節"
     ],
     "text_list": [
@@ -9062,6 +9135,7 @@
   {
     "title": "生日快乐mix",
     "mix_tag_list": [
+      "中文mix",
       "8小節"
     ],
     "text_list": [
@@ -9078,6 +9152,7 @@
   {
     "title": "方琪mix",
     "mix_tag_list": [
+      "中文mix",
       "10小節"
     ],
     "text_list": [
@@ -9094,6 +9169,7 @@
   {
     "title": "净心神咒mix",
     "mix_tag_list": [
+      "中文mix",
       "8小節"
     ],
     "text_list": [
@@ -9110,6 +9186,7 @@
   {
     "title": "中华料理mix",
     "mix_tag_list": [
+      "中文mix",
       "8小節"
     ],
     "text_list": [
@@ -9131,6 +9208,7 @@
   {
     "title": "中华料理mix（四川方言ver）",
     "mix_tag_list": [
+      "中文mix",
       "8小節"
     ],
     "text_list": [
@@ -9152,6 +9230,7 @@
   {
     "title": "切克闹mix",
     "mix_tag_list": [
+      "中文mix",
       "8小節"
     ],
     "text_list": [
@@ -9173,6 +9252,7 @@
   {
     "title": "玛卡巴卡mix",
     "mix_tag_list": [
+      "中文mix",
       "8小節"
     ],
     "text_list": [
@@ -9189,6 +9269,7 @@
   {
     "title": "装天干诀",
     "mix_tag_list": [
+      "中文mix",
       "8小節"
     ],
     "text_list": [
@@ -9205,6 +9286,7 @@
   {
     "title": "地支三会",
     "mix_tag_list": [
+      "中文mix",
       "8小節"
     ],
     "text_list": [
@@ -9221,6 +9303,7 @@
   {
     "title": "十二生肖+天干mix",
     "mix_tag_list": [
+      "中文mix",
       "4小節"
     ],
     "text_list": [
@@ -9237,6 +9320,7 @@
   {
     "title": "六爻断卦mix",
     "mix_tag_list": [
+      "中文mix",
       "16小節",
       "18小節"
     ],
@@ -9254,6 +9338,7 @@
   {
     "title": "小六壬mix",
     "mix_tag_list": [
+      "中文mix",
       "8小節"
     ],
     "text_list": [
@@ -9270,6 +9355,7 @@
   {
     "title": "渣男mix",
     "mix_tag_list": [
+      "中文mix",
       "8小節",
       "12小節"
     ],
@@ -9287,6 +9373,7 @@
   {
     "title": "桃花庵歌",
     "mix_tag_list": [
+      "中文mix",
       "8小節"
     ],
     "text_list": [
@@ -9303,6 +9390,7 @@
   {
     "title": "一人饮酒醉",
     "mix_tag_list": [
+      "中文mix",
       "8小節",
       "9小節"
     ],
@@ -9320,6 +9408,7 @@
   {
     "title": "侠客行",
     "mix_tag_list": [
+      "中文mix",
       "16小節"
     ],
     "text_list": [
@@ -9336,6 +9425,7 @@
   {
     "title": "行路难",
     "mix_tag_list": [
+      "中文mix",
       "12小節",
       "24小節"
     ],
@@ -9353,6 +9443,7 @@
   {
     "title": "思远人•红叶黄花秋意晚",
     "mix_tag_list": [
+      "中文mix",
       "8小節",
       "16小節"
     ],
@@ -9370,6 +9461,7 @@
   {
     "title": "春江花月夜",
     "mix_tag_list": [
+      "中文mix",
       "8小節"
     ],
     "text_list": [
@@ -9386,6 +9478,7 @@
   {
     "title": "刀山火海口上",
     "mix_tag_list": [
+      "中文mix",
       "16小節",
       "18小節"
     ],
