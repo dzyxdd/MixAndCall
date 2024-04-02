@@ -2,7 +2,8 @@
   {
     "title": "SNH48",
     "song_title_list": [
-      "加油女孩2021",
+
+      "加油女孩2021","失忆（Unaware）",
       "钟声过后是新年"
     ]
   },
@@ -62,10 +63,25 @@
     ]
   },
   {
+    "title": "戴萌",
+    "song_title_list": [
+      "How We Do It"
+    ]
+  },
+  {
     "title": "沈梦瑶",
     "song_title_list": [
       "绿洲（Flash on）",
       "Whisper（耳语者）"
+    ]
+  },
+  {
+    "title": "袁一琦",
+    "song_title_list": [
+      "水蒸气（Paradise）",
+      "星球狂欢",
+      "我们要活得比世界更久一点",
+      "大小孩"
     ]
   }
 ]
