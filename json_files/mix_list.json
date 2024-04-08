@@ -2572,7 +2572,7 @@
   },
   {
     "title": "完整混沌mix",
-    "mix_tag_list": [
+    "mix_tag_list": ["混沌mix",
       "8小節",
       "10小節"
     ],
@@ -2594,7 +2594,7 @@
   },
   {
     "title": "完整逆混沌mix [混沌mix・逆打ち]",
-    "mix_tag_list": [
+    "mix_tag_list": ["混沌mix",
       "8小節",
       "10小節"
     ],
@@ -2616,7 +2616,7 @@
   },
   {
     "title": "正逆混沌mix",
-    "mix_tag_list": [
+    "mix_tag_list": ["混沌mix",
       "16小節"
     ],
     "text_list": [
@@ -2637,7 +2637,7 @@
   },
   {
     "title": "二位正逆混沌mix",
-    "mix_tag_list": [
+    "mix_tag_list": ["混沌mix",
       "16小節"
     ],
     "text_list": [
@@ -2653,7 +2653,7 @@
   },
   {
     "title": "正逆萨莉亚混沌mix",
-    "mix_tag_list": [
+    "mix_tag_list": ["混沌mix",
       "中文mix",
       "16小節"
     ],
@@ -2675,7 +2675,7 @@
   },
   {
     "title": "完整萨莉亚混沌mix",
-    "mix_tag_list": [
+    "mix_tag_list": ["混沌mix",
       "中文mix",
       "8小節",
       "10小節"
@@ -2693,7 +2693,7 @@
   },
   {
     "title": "阿修罗混沌mix",
-    "mix_tag_list": [
+    "mix_tag_list": ["混沌mix",
       "12小節"
     ],
     "text_list": [
@@ -2719,7 +2719,7 @@
   },
   {
     "title": "ガンダムエピオン混沌",
-    "mix_tag_list": [
+    "mix_tag_list": ["混沌mix",
       "8小節"
     ],
     "text_list": [
@@ -2740,7 +2740,7 @@
   },
   {
     "title": "ワールド俊龍",
-    "mix_tag_list": [
+    "mix_tag_list": ["混沌mix",
       "10小節"
     ],
     "text_list": [
@@ -2761,7 +2761,7 @@
   },
   {
     "title": "世界平和mix",
-    "mix_tag_list": [
+    "mix_tag_list": ["混沌mix",
       "8小節",
       "10小節"
     ],
@@ -2783,7 +2783,7 @@
   },
   {
     "title": "正逆世界平和mix",
-    "mix_tag_list": [
+    "mix_tag_list": ["混沌mix",
       "16小節"
     ],
     "text_list": [
@@ -2809,7 +2809,7 @@
   },
   {
     "title": "正逆世界平和mix（奉天承运ver.）",
-    "mix_tag_list": [
+    "mix_tag_list": ["混沌mix",
       "16小節"
     ],
     "text_list": [
@@ -2835,7 +2835,7 @@
   },
   {
     "title": "世界平和mix（最佳拍档ver.）",
-    "mix_tag_list": [
+    "mix_tag_list": ["混沌mix",
       "8小節",
       "10小節"
     ],
@@ -2857,7 +2857,7 @@
   },
   {
     "title": "混沌mix（黒塗りの高級車ver.）",
-    "mix_tag_list": [
+    "mix_tag_list": ["混沌mix",
       "10小節"
     ],
     "text_list": [
@@ -2883,7 +2883,7 @@
   },
   {
     "title": "BlueLock混沌 [ ブルーロック ]",
-    "mix_tag_list": [
+    "mix_tag_list": ["混沌mix",
       "8小節"
     ],
     "text_list": [
@@ -2904,7 +2904,7 @@
   },
   {
     "title": "日本酒mix",
-    "mix_tag_list": [
+    "mix_tag_list": ["混沌mix",
       "8小節",
       "10小節"
     ],
@@ -2926,7 +2926,7 @@
   },
   {
     "title": "正逆蟑螂混沌mix",
-    "mix_tag_list": [
+    "mix_tag_list": ["混沌mix",
       "16小節"
     ],
     "text_list": [
@@ -2942,7 +2942,7 @@
   },
   {
     "title": "阿伊努日可变mix [ アイヌ日可変 ]",
-    "mix_tag_list": [
+    "mix_tag_list": ["阿伊努日可变",
       "8小節",
       "9小節"
     ],
@@ -2964,7 +2964,7 @@
   },
   {
     "title": "阿伊努日可变逆打",
-    "mix_tag_list": [
+    "mix_tag_list": ["阿伊努日可变",
       "8小節"
     ],
     "text_list": [
@@ -2985,7 +2985,7 @@
   },
   {
     "title": "阿伊努日可变正逆打",
-    "mix_tag_list": [
+    "mix_tag_list": ["阿伊努日可变",
       "16小節"
     ],
     "text_list": [
@@ -3006,7 +3006,7 @@
   },
   {
     "title": "阿伊努日可变正打+逆打",
-    "mix_tag_list": [
+    "mix_tag_list": ["阿伊努日可变",
       "16小節"
     ],
     "text_list": [
@@ -3027,7 +3027,7 @@
   },
   {
     "title": "アイヌ日可変二連",
-    "mix_tag_list": [
+    "mix_tag_list": ["阿伊努日可变",
       "12小節"
     ],
     "text_list": [
@@ -3048,7 +3048,7 @@
   },
   {
     "title": "アイヌ日可変三連",
-    "mix_tag_list": [
+    "mix_tag_list": ["阿伊努日可变",
       "16小節"
     ],
     "text_list": [
@@ -3069,7 +3069,7 @@
   },
   {
     "title": "アイヌ日可変+宮本Mix",
-    "mix_tag_list": [
+    "mix_tag_list": ["阿伊努日可变",
       "12小節"
     ],
     "text_list": [
@@ -3090,7 +3090,7 @@
   },
   {
     "title": "アイヌ日可変とパンと超可愛いと田んぼ",
-    "mix_tag_list": [
+    "mix_tag_list": ["阿伊努日可变",
       "10小節"
     ],
     "text_list": [
@@ -3116,7 +3116,7 @@
   },
   {
     "title": "秃头可变 [ ハゲ可変mix ]",
-    "mix_tag_list": [
+    "mix_tag_list": ["阿伊努日可变",
       "8小節",
       "9小節"
     ],
@@ -3242,7 +3242,7 @@
   },
   {
     "title": "恋口上 [ ガチ恋口上 ]",
-    "mix_tag_list": [
+    "mix_tag_list": ["恋口上",
       "16小節",
       "18小節",
       "20小節"
@@ -3265,7 +3265,7 @@
   },
   {
     "title": "恋口上转爆裂一连",
-    "mix_tag_list": [
+    "mix_tag_list": ["恋口上",
       "16小節"
     ],
     "text_list": [
@@ -3286,7 +3286,7 @@
   },
   {
     "title": "中文恋口上",
-    "mix_tag_list": [
+    "mix_tag_list": ["恋口上",
       "中文mix",
       "16小節",
       "18小節",
@@ -3305,7 +3305,7 @@
   },
   {
     "title": "恋口上（瓜向ver）[ メンズ現場向けガチ恋口上 ] [ ガチ恋口上（メンズVer.） ]",
-    "mix_tag_list": [
+    "mix_tag_list": ["恋口上",
       "16小節",
       "18小節",
       "20小節"
@@ -3333,7 +3333,7 @@
   },
   {
     "title": "零式口上 [ 大天使 ] [ ガチ恋口上零式 ]",
-    "mix_tag_list": [
+    "mix_tag_list": ["恋口上",
       "8小節",
       "16小節",
       "18小節"
@@ -3356,7 +3356,7 @@
   },
   {
     "title": "ゴージャス口上",
-    "mix_tag_list": [
+    "mix_tag_list": ["恋口上",
       "16小節"
     ],
     "text_list": [
@@ -3377,7 +3377,7 @@
   },
   {
     "title": "森光子口上",
-    "mix_tag_list": [
+    "mix_tag_list": ["恋口上",
       "16小節",
       "18小節"
     ],
@@ -3404,7 +3404,7 @@
   },
   {
     "title": "ガチ恋口上・真",
-    "mix_tag_list": [
+    "mix_tag_list": ["恋口上",
       "16小節",
       "18小節"
     ],
@@ -3431,7 +3431,7 @@
   },
   {
     "title": "ガチ恋口上・真(12小節)",
-    "mix_tag_list": [
+    "mix_tag_list": ["恋口上",
       "12小節",
       "14小節"
     ],
@@ -3458,7 +3458,7 @@
   },
   {
     "title": "ガチ恋口上(卒業Ver.)",
-    "mix_tag_list": [
+    "mix_tag_list": ["恋口上",
       "16小節",
       "18小節"
     ],
@@ -3480,7 +3480,7 @@
   },
   {
     "title": "ガチ恋口上（こじらせオタク Ver）",
-    "mix_tag_list": [
+    "mix_tag_list": ["恋口上",
       "16小節",
       "18小節"
     ],
@@ -3502,7 +3502,7 @@
   },
   {
     "title": "舔狗恋口上 [ 拗らせガチ恋口上 ] [ ガチ恋口上（こじらせオタク Ver.2） ]",
-    "mix_tag_list": [
+    "mix_tag_list": ["恋口上",
       "16小節",
       "18小節"
     ],
@@ -3529,7 +3529,7 @@
   },
   {
     "title": "ガチ恋大五郎",
-    "mix_tag_list": [
+    "mix_tag_list": ["恋口上",
       "16小節",
       "18小節"
     ],
@@ -3556,7 +3556,7 @@
   },
   {
     "title": "ガチ恋あいうえお",
-    "mix_tag_list": [
+    "mix_tag_list": ["恋口上",
       "16小節",
       "18小節"
     ],
@@ -3583,7 +3583,7 @@
   },
   {
     "title": "ガチ恋キャンセル",
-    "mix_tag_list": [
+    "mix_tag_list": ["恋口上",
       "12小節"
     ],
     "text_list": [
@@ -3604,7 +3604,7 @@
   },
   {
     "title": "ガチ酒口上",
-    "mix_tag_list": [
+    "mix_tag_list": ["恋口上",
       "16小節",
       "18小節"
     ],
@@ -3635,7 +3635,7 @@
   },
   {
     "title": "恋口上（东北话ver）",
-    "mix_tag_list": [
+    "mix_tag_list": ["恋口上",
       "16小節",
       "18小節"
     ],
@@ -3652,7 +3652,7 @@
   },
   {
     "title": "恋口上→繋がりたい",
-    "mix_tag_list": [
+    "mix_tag_list": ["恋口上",
       "12小節"
     ],
     "text_list": [
@@ -3673,7 +3673,7 @@
   },
   {
     "title": "恋口上转西语 [ ガチ恋キャンセル裏スペイン語mix ]",
-    "mix_tag_list": [
+    "mix_tag_list": ["恋口上",
       "16小節",
       "18小節"
     ],
@@ -3695,7 +3695,7 @@
   },
   {
     "title": "ガチ恋キャンセル→スタンダードmix（タイガーファイヤー始動）",
-    "mix_tag_list": [
+    "mix_tag_list": ["恋口上",
       "8小節"
     ],
     "text_list": [
@@ -3721,7 +3721,7 @@
   },
   {
     "title": "恋煩い口上",
-    "mix_tag_list": [
+    "mix_tag_list": ["恋口上",
       "16小節",
       "18小節"
     ],
@@ -3743,7 +3743,7 @@
   },
   {
     "title": "寺田心恋口上",
-    "mix_tag_list": [
+    "mix_tag_list": ["恋口上",
       "16小節",
       "18小節"
     ],
@@ -3770,7 +3770,7 @@
   },
   {
     "title": "ガチ恋口上・佐賀弁ver",
-    "mix_tag_list": [
+    "mix_tag_list": ["恋口上",
       "16小節",
       "18小節"
     ],
@@ -3792,7 +3792,7 @@
   },
   {
     "title": "新世纪福音战士mix [ エヴァンゲリオンMIX ]",
-    "mix_tag_list": [
+    "mix_tag_list": ["恋口上",
       "16小節",
       "18小節"
     ],
@@ -3819,7 +3819,7 @@
   },
   {
     "title": "ガチ恋口上MIX#1",
-    "mix_tag_list": [
+    "mix_tag_list": ["恋口上",
       "17小節"
     ],
     "text_list": [
@@ -3840,7 +3840,7 @@
   },
   {
     "title": "ガチ恋口上MIX#2",
-    "mix_tag_list": [
+    "mix_tag_list": ["恋口上",
       "16小節"
     ],
     "text_list": [
@@ -3866,7 +3866,7 @@
   },
   {
     "title": "可变三连（可変三連#1）",
-    "mix_tag_list": [
+    "mix_tag_list": ["可变三连",
       "16小節"
     ],
     "text_list": [
@@ -3887,7 +3887,7 @@
   },
   {
     "title": "可変三連#2",
-    "mix_tag_list": [
+    "mix_tag_list": ["可变三连",
       "16小節"
     ],
     "text_list": [
@@ -3908,7 +3908,7 @@
   },
   {
     "title": "ワイパー可変三連",
-    "mix_tag_list": [
+    "mix_tag_list": ["可变三连",
       "16小節"
     ],
     "text_list": [
@@ -3929,7 +3929,7 @@
   },
   {
     "title": "足球小将 [ キャプテン翼可変三連 ]",
-    "mix_tag_list": [
+    "mix_tag_list": ["可变三连",
       "16小節"
     ],
     "text_list": [
@@ -3950,7 +3950,7 @@
   },
   {
     "title": "闪电足球 [ イナイレMIX ]",
-    "mix_tag_list": [
+    "mix_tag_list": ["可变三连",
       "16小節"
     ],
     "text_list": [
@@ -3971,7 +3971,7 @@
   },
   {
     "title": "ストファイMIX",
-    "mix_tag_list": [
+    "mix_tag_list": ["可变三连",
       "16小節"
     ],
     "text_list": [
@@ -4024,7 +4024,7 @@
   },
   {
     "title": "ヒガシノ可変三連 [ ヒガシノアイヌ日可変 ]",
-    "mix_tag_list": [
+    "mix_tag_list": ["可变三连",
       "16小節"
     ],
     "text_list": [
@@ -4045,7 +4045,7 @@
   },
   {
     "title": "名前のない可変三連",
-    "mix_tag_list": [
+    "mix_tag_list": ["可变三连",
       "16小節"
     ],
     "text_list": [
@@ -4071,7 +4071,7 @@
   },
   {
     "title": "家虎根绝 [ ブシロ可変三連 ]",
-    "mix_tag_list": [
+    "mix_tag_list": ["可变三连",
       "16小節"
     ],
     "text_list": [
@@ -4092,7 +4092,7 @@
   },
   {
     "title": "可変三連コンボ [ チキパ可変三連 ]",
-    "mix_tag_list": [
+    "mix_tag_list": ["可变三连",
       "16小節"
     ],
     "text_list": [
@@ -4113,7 +4113,7 @@
   },
   {
     "title": "深圳大学可变三连",
-    "mix_tag_list": [
+    "mix_tag_list": ["可变三连",
       "16小節"
     ],
     "text_list": [
@@ -4139,7 +4139,7 @@
   },
   {
     "title": "深圳大学可变三连（女子大生ver.）",
-    "mix_tag_list": [
+    "mix_tag_list": ["可变三连",
       "16小節"
     ],
     "text_list": [
@@ -4160,7 +4160,7 @@
   },
   {
     "title": "始動あり可変三連mix",
-    "mix_tag_list": [
+    "mix_tag_list": ["可变三连",
       "16小節"
     ],
     "text_list": [
@@ -4181,7 +4181,7 @@
   },
   {
     "title": "逸雪可変三連",
-    "mix_tag_list": [
+    "mix_tag_list": ["可变三连",
       "16小節"
     ],
     "text_list": [
@@ -4207,7 +4207,7 @@
   },
   {
     "title": "小池百合子口上",
-    "mix_tag_list": [
+    "mix_tag_list": ["可变三连",
       "16小節"
     ],
     "text_list": [
@@ -4228,7 +4228,7 @@
   },
   {
     "title": "麦当劳可変三連 [ マクドナルドmix ]",
-    "mix_tag_list": [
+    "mix_tag_list": ["可变三连",
       "16小節"
     ],
     "text_list": [
@@ -4249,7 +4249,7 @@
   },
   {
     "title": "寺田心可变三连",
-    "mix_tag_list": [
+    "mix_tag_list": ["可变三连",
       "16小節"
     ],
     "text_list": [
@@ -4279,7 +4279,7 @@
   },
   {
     "title": "可变恋口上 [ ガチ恋可変口上 ]",
-    "mix_tag_list": [
+    "mix_tag_list": ["可变三连",
       "16小節"
     ],
     "text_list": [
@@ -4300,7 +4300,7 @@
   },
   {
     "title": "大蛇丸mix",
-    "mix_tag_list": [
+    "mix_tag_list": ["可变三连",
       "16小節"
     ],
     "text_list": [
@@ -4321,7 +4321,7 @@
   },
   {
     "title": "胖虎可变三连 [ ジャイアン可変 ]",
-    "mix_tag_list": [
+    "mix_tag_list": ["可变三连",
       "16小節",
       "18小節"
     ],
@@ -4343,7 +4343,7 @@
   },
   {
     "title": "Blue Lock可变三连 [ ブルーロックMIX ]",
-    "mix_tag_list": [
+    "mix_tag_list": ["可变三连",
       "16小節"
     ],
     "text_list": [
@@ -4364,7 +4364,7 @@
   },
   {
     "title": "可変三連→田んぼ→スペイン語mix",
-    "mix_tag_list": [
+    "mix_tag_list": ["可变三连",
       "16小節",
       "18小節"
     ],
@@ -4391,7 +4391,7 @@
   },
   {
     "title": "可変ワイパー→黒服MIX",
-    "mix_tag_list": [
+    "mix_tag_list": ["可变三连",
       "18小節"
     ],
     "text_list": [
@@ -4527,7 +4527,7 @@
   },
   {
     "title": "面包mix#1 [ パンmix（松たか子ver.） ]",
-    "mix_tag_list": [
+    "mix_tag_list": ["面包mix",
       "8小節",
       "10小節"
     ],
@@ -4549,7 +4549,7 @@
   },
   {
     "title": "面包mix#2 [ パンmix（アンパン食パンver.） ]",
-    "mix_tag_list": [
+    "mix_tag_list": ["面包mix",
       "8小節"
     ],
     "text_list": [
@@ -4570,7 +4570,7 @@
   },
   {
     "title": "面包mix（长版）",
-    "mix_tag_list": [
+    "mix_tag_list": ["面包mix",
       "16小節"
     ],
     "text_list": [
@@ -4596,7 +4596,7 @@
   },
   {
     "title": "パンMIX#2→アンパンマン口上（面包超人）",
-    "mix_tag_list": [
+    "mix_tag_list": ["面包mix",
       "24小節",
       "26小節"
     ],
@@ -4623,7 +4623,7 @@
   },
   {
     "title": "面包MIX（上海话ver）",
-    "mix_tag_list": [
+    "mix_tag_list": ["面包mix",
       "中文mix",
       "8小節"
     ],
@@ -4645,7 +4645,7 @@
   },
   {
     "title": "面包mix（黄楚茵粤语ver）",
-    "mix_tag_list": [
+    "mix_tag_list": ["面包mix",
       "中文mix",
       "8小節"
     ],
@@ -4662,7 +4662,7 @@
   },
   {
     "title": "面包mix（粤语ver）",
-    "mix_tag_list": [
+    "mix_tag_list": ["面包mix",
       "中文mix",
       "8小節"
     ],
@@ -4679,7 +4679,7 @@
   },
   {
     "title": "面包mix（四川话ver）",
-    "mix_tag_list": [
+    "mix_tag_list": ["面包mix",
       "中文mix",
       "8小節"
     ],
@@ -4701,7 +4701,7 @@
   },
   {
     "title": "パンmix（あき竹城(北海道ローカル)ver.）",
-    "mix_tag_list": [
+    "mix_tag_list": ["面包mix",
       "8小節"
     ],
     "text_list": [
@@ -4722,7 +4722,7 @@
   },
   {
     "title": "パンMIX（しゃぶしゃぶVer.）",
-    "mix_tag_list": [
+    "mix_tag_list": ["面包mix",
       "しゃぶしゃぶ",
       "8小節"
     ],
@@ -4749,7 +4749,7 @@
   },
   {
     "title": "汉堡mix [ ハンバーグmix ]",
-    "mix_tag_list": [
+    "mix_tag_list": ["面包mix",
       "8小節"
     ],
     "text_list": [
@@ -4770,7 +4770,7 @@
   },
   {
     "title": "カノウリョウmix#1",
-    "mix_tag_list": [
+    "mix_tag_list": ["面包mix",
       "8小節"
     ],
     "text_list": [
@@ -4791,7 +4791,7 @@
   },
   {
     "title": "カノウリョウmix#2",
-    "mix_tag_list": [
+    "mix_tag_list": ["面包mix",
       "8小節"
     ],
     "text_list": [
@@ -4812,7 +4812,7 @@
   },
   {
     "title": "バリmix【仮称】",
-    "mix_tag_list": [
+    "mix_tag_list": ["面包mix",
       "8小節"
     ],
     "text_list": [
@@ -4833,7 +4833,7 @@
   },
   {
     "title": "清酒mix [ お酒mix ]",
-    "mix_tag_list": [
+    "mix_tag_list": ["面包mix",
       "8小節"
     ],
     "text_list": [
@@ -4854,7 +4854,7 @@
   },
   {
     "title": "米mix",
-    "mix_tag_list": [
+    "mix_tag_list": ["面包mix",
       "8小節"
     ],
     "text_list": [
@@ -4884,7 +4884,7 @@
   },
   {
     "title": "米mix（中文ver.）→田んぼ",
-    "mix_tag_list": [
+    "mix_tag_list": ["面包mix",
       "8小節"
     ],
     "text_list": [
@@ -4900,7 +4900,7 @@
   },
   {
     "title": "麺mix",
-    "mix_tag_list": [
+    "mix_tag_list": ["面包mix",
       "8小節"
     ],
     "text_list": [
@@ -4921,7 +4921,7 @@
   },
   {
     "title": "麺mix（新） [ ラーメンmix ]",
-    "mix_tag_list": [
+    "mix_tag_list": ["面包mix",
       "8小節"
     ],
     "text_list": [
@@ -4947,7 +4947,7 @@
   },
   {
     "title": "竹下製菓mix",
-    "mix_tag_list": [
+    "mix_tag_list": ["面包mix",
       "8小節"
     ],
     "text_list": [
@@ -4968,7 +4968,7 @@
   },
   {
     "title": "宝くじmix",
-    "mix_tag_list": [
+    "mix_tag_list": ["面包mix",
       "8小節"
     ],
     "text_list": [
@@ -4994,7 +4994,7 @@
   },
   {
     "title": "阳光mix [ サンシャインmix ]",
-    "mix_tag_list": [
+    "mix_tag_list": ["面包mix",
       "8小節"
     ],
     "text_list": [
@@ -5015,7 +5015,7 @@
   },
   {
     "title": "本mix#1",
-    "mix_tag_list": [
+    "mix_tag_list": ["面包mix",
       "8小節"
     ],
     "text_list": [
@@ -5045,7 +5045,7 @@
   },
   {
     "title": "本mix#2",
-    "mix_tag_list": [
+    "mix_tag_list": ["面包mix",
       "8小節"
     ],
     "text_list": [
@@ -5075,7 +5075,7 @@
   },
   {
     "title": "本mix#3",
-    "mix_tag_list": [
+    "mix_tag_list": ["面包mix",
       "8小節"
     ],
     "text_list": [
@@ -5101,7 +5101,7 @@
   },
   {
     "title": "寺田心mix",
-    "mix_tag_list": [
+    "mix_tag_list": ["面包mix",
       "8小節"
     ],
     "text_list": [
