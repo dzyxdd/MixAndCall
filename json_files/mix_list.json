@@ -1014,6 +1014,7 @@
   {
     "title": "涮锅mix [ しゃぶしゃぶmix ]",
     "mix_tag_list": [
+      "しゃぶしゃぶ",
       "8小節"
     ],
     "text_list": [
@@ -1031,6 +1032,10 @@
     "text_list_size": 2,
     "notes": "",
     "link_list": [
+      {
+        "title": "【コール·MIX】しゃぶしゃぶMIX",
+        "url": "https://www.bilibili.com/video/BV1TZ421q7vy"
+      },
       {
         "title": "しゃぶしゃぶmix",
         "url": "https://www.tiktok.com/@zennipponchekitarinai/video/7296504443263110408"
@@ -1385,6 +1390,58 @@
       {
         "title": "【干支mix】（原声字幕有り）Never随便call call",
         "url": "https://www.bilibili.com/video/BV1r14y1P7sj/"
+      }
+    ]
+  },
+  {
+    "title": "惑星MIX#1",
+    "mix_tag_list": [
+      "4小節"
+    ],
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "_San Ma-kyuri- Bi-nasu A-su\n_Mu-n Ma-zu Jyupita-",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "サン！マーキュリー！ビーナス！\nアース！ムーン！マーズ！ジュピター！",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "",
+    "link_list": [
+      {
+        "title": "【コール·MIX】惑星MIX",
+        "url": "https://www.bilibili.com/video/BV1a1421U7G1/"
+      }
+    ]
+  },
+  {
+    "title": "惑星MIX#2",
+    "mix_tag_list": [
+      "4小節"
+    ],
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "_Tora Hi Jinzou Sen'i\nSuikinchikamoku P Jyupita-",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "虎！火！人造！繊維！\n水金地火木！P！ジュピター！",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "",
+    "link_list": [
+      {
+        "title": "【コール·MIX】惑星MIX",
+        "url": "https://www.bilibili.com/video/BV1a1421U7G1/"
       }
     ]
   },
@@ -2442,6 +2499,32 @@
     "text_list_size": 2,
     "notes": "",
     "link_list": []
+  },
+  {
+    "title": "ぶんぷく侍",
+    "mix_tag_list": [
+      "4小節"
+    ],
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "Punpuku Samurai Dotchiiku\nPunpuku Samurai Sa-kurukei",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "ぷんぷく侍どっち行く\nぷんぷく侍、サークルK",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "",
+    "link_list": [
+      {
+        "title": "新版SHOUT（Outro）ぶんぷく侍→裏スペ逆打ちキャンセルスペインキャンセルポルトガル語逆打ち",
+        "url": "https://www.bilibili.com/video/BV1ho4y1n7o2"
+      }
+    ]
   },
   {
     "title": "満員電車Mix",
@@ -4486,27 +4569,6 @@
     "link_list": []
   },
   {
-    "title": "面包mix#3 [ パンmix（あき竹城(北海道ローカル)ver.） ]",
-    "mix_tag_list": [
-      "8小節"
-    ],
-    "text_list": [
-      {
-        "lang": "罗马字",
-        "text": "Panpanpanpan Yakisobapan\nFuresshu Bureddo Itoupan\nAkitakejyou Akitakejyou\nFuyuwa Yappashi Sabi-na-",
-        "notes": ""
-      },
-      {
-        "lang": "日语",
-        "text": "パンパンパンパン 焼きそばパン\nフレッシュブレッド 伊藤パン\nあき竹城 あき竹城【あき たけじょう】\n冬はやっぱしサビーナー",
-        "notes": ""
-      }
-    ],
-    "text_list_size": 2,
-    "notes": "冬はやっぱしサビーナー　って言うCMからきてます",
-    "link_list": []
-  },
-  {
     "title": "面包mix（长版）",
     "mix_tag_list": [
       "16小節"
@@ -4634,6 +4696,54 @@
       {
         "title": "【中文Call本】面包&霍格沃茨，但川渝方言版",
         "url": "https://www.bilibili.com/video/BV1QW4y1o75p/"
+      }
+    ]
+  },
+  {
+    "title": "パンmix（あき竹城(北海道ローカル)ver.）",
+    "mix_tag_list": [
+      "8小節"
+    ],
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "Panpanpanpan Yakisobapan\nFuresshu Bureddo Itoupan\nAkitakejyou Akitakejyou\nFuyuwa Yappashi Sabi-na-",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "パンパンパンパン 焼きそばパン\nフレッシュブレッド 伊藤パン\nあき竹城 あき竹城【あき たけじょう】\n冬はやっぱしサビーナー",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "冬はやっぱしサビーナー　って言うCMからきてます",
+    "link_list": []
+  },
+  {
+    "title": "パンMIX（しゃぶしゃぶVer.）",
+    "mix_tag_list": [
+      "しゃぶしゃぶ",
+      "8小節"
+    ],
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "Shabushabushabushabu Pokemonshabu\nFuresshu Raisuno Gohanpawa-\nShabuzukkyun Shabuzukkyun\nParareru Haruno Shabumatsuri",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "しゃぶしゃぶしゃぶしゃぶ　ポケモンしゃぶ\nフレッシュライスのご飯パワー\nしゃぶズッキュン　しゃぶズッキュン\nパラレル春のしゃぶ祭り",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "",
+    "link_list": [
+      {
+        "title": "【コール·MIX】パンMIX(しゃぶしゃぶVer.)",
+        "url": "https://www.bilibili.com/video/BV1j1421m7k4"
       }
     ]
   },
@@ -5553,7 +5663,12 @@
     ],
     "text_list_size": 2,
     "notes": "",
-    "link_list": []
+    "link_list": [
+      {
+        "title": "新版SHOUT（Outro）ぶんぷく侍→裏スペ逆打ちキャンセルスペインキャンセルポルトガル語逆打ち",
+        "url": "https://www.bilibili.com/video/BV1ho4y1n7o2"
+      }
+    ]
   },
   {
     "title": "越南语mix [ ベトナム語mix ] [ ビエトナミーズmix ]",
@@ -5674,12 +5789,34 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "Vya-gura Aguni Karura Tantorura\nGa-ho We-pana Nirura-su",
+        "text": "_Vya-gura Aguni Karura Tantorura\n_Ga-ho We-pana Nirura-su",
         "notes": ""
       },
       {
         "lang": "日语",
         "text": "ヴャーグラ　アグニ　カルラ　タントルラ\nガーホ　ウェーパナ　ニルラース",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "",
+    "link_list": []
+  },
+  {
+    "title": "尼泊尔语mix [ ネパール語MIX ]",
+    "mix_tag_list": [
+      "言语mix",
+      "4小節"
+    ],
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "_Ba-gu Ago Maniche Ruga\n_Poudi Harii Santosutibou",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "バーグ　アゴ　マニチェ　ルガ\nポゥディ　ハリィ　サントスティボゥ",
         "notes": ""
       }
     ],
@@ -8164,6 +8301,27 @@
       {
         "lang": "日语",
         "text": "誰もが信じ崇めてる\nまさに最強で無敵のアイドル\n弱点なんて見当たらない\n一番星を宿している\n弱いとこなんて見せちゃダメダメ\n知りたくないとこは見せずに\n唯一無二じゃなくちゃイヤイヤ\nそれこそ本物のアイ",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "",
+    "link_list": []
+  },
+  {
+    "title": "またねMIX",
+    "mix_tag_list": [
+      "8小節"
+    ],
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "Deaeta Karakoso Dekirukoto\nZenbuga Anatato Tsukutta Hibida\nMachigai Nante Hitotsumo Nakute\nKawaranu Mamano Anatagaii",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "出会えたからこそできること\n全部があなたと作った日々だ\n間違いなんて一つもなくて\n変わらぬままのあなたがいい",
         "notes": ""
       }
     ],
