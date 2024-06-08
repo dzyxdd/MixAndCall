@@ -46,9 +46,5 @@ hide:
 [//]: # (请使用相对路径跳转至对应页面)
 
 - 4.8: [ [またねMIX](mix/mix.md/#またねmix) ] [ [惑星MIX#1](mix/mix.md/#惑星mix1) ] [ [惑星MIX#2](mix/mix.md/#惑星mix2) ] [ [ネパール語MIX](mix/mix.md/#尼泊尔语mix--ネパール語mix-) ] [ [ぶんぷく侍](mix/mix.md/#ぶんぷく侍) ] [ [パンMIX（しゃぶしゃぶVer.）](mix/mix.md/#パンmixしゃぶしゃぶver) ]
-- 3.20: [ [バリヤードmix【仮称】](mix/mix.md/#バリヤードmix仮称) ] [ [勘定奉行mix（バリヤードver）【仮称】](mix/mix.md/#勘定奉行mixバリヤードver仮称) ] [ [バリmix【仮称】](mix/mix.md/#バリmix仮称) ]
-- 3.15: [ [エヴァンゲリオンMIX](mix/mix.md/#新世纪福音战士mix--エヴァンゲリオンmix-) ] [ [意味不ですよ。](mix/mix.md/#意味不ですよ) ] [ [しゃぶしゃぶmix](mix/mix.md/#涮锅mix--しゃぶしゃぶmix-) ]
-- 3.14: [ [ガチ酒口上](mix/mix.md/#ガチ酒口上) ] [ [パスタMIX](mix/mix.md/#意大利面mix--pasta-mix---パスタmix-) ] [ [吉幾三MIX](mix/mix.md/#吉幾三mix) ] [ [NewWorld口上](mix/mix.md/#newworld口上) ]
-- 3.13: [ [森光子口上](mix/mix.md/#森光子口上) ] [ [佐藤舞mix](mix/mix.md/#佐藤舞mix) ] [ [おつのきコール](mix/mix.md/#おつのきコール) ]
-- 3.12: [ [この世の終わり可変三連](mix/mix.md/#この世の終わり可変三連) ] [ [ChipiCat mix](mix/mix.md/#chipicat-mix) ] [ [Chipi阴阳师mix【仮称】](mix/mix.md/#chipi阴阳师mix仮称) ] [ [ガチ恋口上（こじらせオタク Ver）](mix/mix.md/#ガチ恋口上こじらせオタク-ver) ] [ [ガチ恋あいうえお](mix/mix.md/#ガチ恋あいうえお) ] [ [ガチ恋口上(卒業Ver.)](mix/mix.md/#ガチ恋口上卒業ver) ]
-- 3.8: [ [中国語三連MIX](mix/mix.md/#中文三连--中国語三連mix-) ] [ [たこ焼きMIX](mix/mix.md/#章鱼烧mix--たこ焼きmix-) ] [ [ゼンキョウオリジナルMIX](mix/mix.md/#ゼンキョウオリジナルmix) ] [ [ゼンキョウオリジナルMIX→倍速ジャパ表裏等速ジャパ](mix/mix.md/#ゼンキョウオリジナルmix倍速ジャパ表裏等速ジャパ) ] [ [いろは唄口上(戦極ver.)](mix/mix.md/#いろは唄口上戦極ver) ]
+
+- 6.9: [ [ビスマルク口上（アルデンテver.）](mix/mix.md/#ビスマルク口上アルデンテver) ] [ [花火MIX（長尺ver.）](mix/mix.md/#花火mix長尺ver) ] [ [キャプ翼からのバリヤード](mix/mix.md/#キャプ翼からのバリヤード) ] [ [桜並木の口上](mix/mix.md/#桜並木の口上) ] [ [町中華MIX](mix/mix.md/#町中華mix) ] [ [七大罪mix（日本語）](mix/mix.md/#七大罪mix日本語) ] [ [七大罪mix（ラテン語）](mix/mix.md/#七大罪mixラテン語) ] [ [七大罪mix（中国語）](mix/mix.md/#七大罪mix中国語) ] [ [アイヌ可変](mix/mix.md/#アイヌ可変) ] [ [キテノン口上](mix/mix.md/#キテノン口上) ]
