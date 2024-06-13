@@ -79,7 +79,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "A~yosshaikuzo\n_Taiga Faiya Saiba Faiba\n_Daiba Baiba Jya-jya-\nFaibo Waipa Iesukureipa",
+        "text": "A~yosshaikuzo\n_Taiga Faiya Saiba Faiba\n_Daiba Baiba Jya-jya-\nFaibo Waipa Yesukureipa",
         "notes": ""
       },
       {
@@ -440,7 +440,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "Faibo Waipa Faama Jyasupa\nHowaipa Kuupa Iesukureipa\n\n_Faibo Waipa Faama Jyasupa\n_Howaipa KuupaIesukureipa",
+        "text": "Faibo Waipa Faama Jyasupa\nHowaipa Kuupa Yesukureipa\n\n_Faibo Waipa Faama Jyasupa\n_Howaipa KuupaYesukureipa",
         "notes": ""
       },
       {
@@ -568,7 +568,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "_Jya-jya Faibo Injyo Jyasupa\n_Biburaru KasenIesukureipa\n_Naruda Faboriasuta",
+        "text": "_Jya-jya Faibo Injyo Jyasupa\n_Biburaru KasenYesukureipa\n_Naruda Faboriasuta",
         "notes": ""
       },
       {
@@ -589,7 +589,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "_Taiga Faiya Saiba Faiba\n_Daiba Baiba Jya-jya-\n_Faibo Waipa Faama Jyasupa\n_Howaipa KuupaIesukureipa\n_Reipa Kuupa Howaipa Jyasupa\n_Faama Waipa Faibo-\n_Jya-jya Faibo Waipa Jyanpa\n_Pinga Dansu Faama",
+        "text": "_Taiga Faiya Saiba Faiba\n_Daiba Baiba Jya-jya-\n_Faibo Waipa Faama Jyasupa\n_Howaipa KuupaYesukureipa\n_Reipa Kuupa Howaipa Jyasupa\n_Faama Waipa Faibo-\n_Jya-jya Faibo Waipa Jyanpa\n_Pinga Dansu Faama",
         "notes": ""
       },
       {
@@ -610,7 +610,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "_Jyokyo Tobi Kasen Shindou\n_Ama Sen'i JinzouHiTora\n_Jya-jya Faibo Injyo Jyasupa\n_Biburaru KasenIesukureipa\n_Reipa Kuupa Howaipa Jyasupa\n_Faama Waipa Faibo-\n_Jya-jya Faibo Waipa Jyanpa\n_Pinga Dansu Faama-",
+        "text": "_Jyokyo Tobi Kasen Shindou\n_Ama Sen'i JinzouHiTora\n_Jya-jya Faibo Injyo Jyasupa\n_Biburaru KasenYesukureipa\n_Reipa Kuupa Howaipa Jyasupa\n_Faama Waipa Faibo-\n_Jya-jya Faibo Waipa Jyanpa\n_Pinga Dansu Faama-",
         "notes": ""
       },
       {
@@ -1161,6 +1161,53 @@
     "link_list": []
   },
   {
+    "title": "神激mix",
+    "mix_tag_list": [
+      "8小節"
+    ],
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "P-PPP-P Sha-Kourin\n_Atena Zeusu Aresu Gaia\n_Serene Kaosu Heriosu",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "しゃー降臨(始動)\nアテナ　ゼウス　アレス　ガイア\nセレネ　カオス　ヘリオス",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "",
+    "link_list": []
+  },
+  {
+    "title": "神激mix（12神+神降臨始動）",
+    "mix_tag_list": [
+      "8小節"
+    ],
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "KamiKamiKamiKamiKamiKamiKamiKami\nKamiKamiKamiKamiKamiKourin\n_Atena Zeusu Aresu Gaia\n_Serene Kaosu Heriosu",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "神神神神　神神神神\n神神神神　神降臨(始動)\nアテナ　ゼウス　アレス　ガイア\nセレネ　カオス　ヘリオス",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "(捨て身ヒロインの場合追加)\nイェッ 捨て身 エターナル\n(Ye Sutemi Eta-naru)",
+    "link_list": [
+      {
+        "title": "『神奏曲:アブソルートゼロ』MIX・コール解説動画",
+        "url": "https://www.youtube.com/watch?v=O5O9ytb-R68"
+      }
+    ]
+  },
+  {
     "title": "奶酪mix [ チーズmix ] [ Cheese mix ]",
     "mix_tag_list": [
       "10小節"
@@ -1201,6 +1248,62 @@
     "text_list_size": 2,
     "notes": "",
     "link_list": []
+  },
+  {
+    "title": "幕内力士MIX",
+    "mix_tag_list": [
+      "10小節"
+    ],
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "P-PPP-P Gokokuhoujou\n_Kakuryuu Ryuuden Tamawashi Hakuhou\n_Shouhouzan Tochiouzan\nKaisei Yoshikaze Chiyotairyuu",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "五穀豊穣(ごこくほうじょう)(始動)\n鶴竜(かくりゅう)竜電(りゅうでん)玉鷲(たまわし)白鵬(はくほう)\n松鳳山(しょうほうざん)栃煌山(とちおうざん)\n魁聖(かいせい)嘉風(よしかぜ)千代大龍(ちよたいりゅう)",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "",
+    "link_list": [
+      {
+        "title": "幕内力士MIX",
+        "url": "https://www.youtube.com/shorts/ZaBQa4AUHug"
+      }
+    ]
+  },
+  {
+    "title": "権藤MIX",
+    "mix_tag_list": [
+      "8小節"
+    ],
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "P-PPP-P GondouGoudou\n_Ame Gondou Ame Ame\n_Gondou Ame Gondou",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "権藤権藤(始動)\n雨　権藤　雨　雨\n権藤　雨　権藤",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "絶対直球女子！プレイボールズ「かっとばせ！！俺達」のみで発動する．",
+    "link_list": [
+      {
+        "title": "かっとばせ！！俺達",
+        "url": "https://x.com/t_zow19k/status/1673352141120102401"
+      },
+      {
+        "title": "権藤MIX",
+        "url": "https://www.youtube.com/shorts/Vj5C7dqM6OA"
+      }
+    ]
   },
   {
     "title": "ディアステmix",
@@ -1781,7 +1884,7 @@
     "link_list": []
   },
   {
-    "title": "日语倍速正逆打",
+    "title": "日语倍速正逆打 [ 倍速ジャパニーズ表裏MIX ]",
     "mix_tag_list": [
       "4小節"
     ],
@@ -1894,7 +1997,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "FaiboWaipaFaamaJyasupaHowaipaKuupaIesukureipa",
+        "text": "FaiboWaipaFaamaJyasupaHowaipaKuupaYesukureipa",
         "notes": ""
       },
       {
@@ -1915,7 +2018,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "FaiboWaipaFaiboWaipaFaamaJyasupaFaamaJyasupa\nHowaipaKuupaHowaipaKuupaIesukureipa",
+        "text": "FaiboWaipaFaiboWaipaFaamaJyasupaFaamaJyasupa\nHowaipaKuupaHowaipaKuupaYesukureipa",
         "notes": ""
       },
       {
@@ -2294,9 +2397,11 @@
     ]
   },
   {
-    "title": "バリヤードmix【仮称】",
+    "title": "バリヤードmix",
     "mix_tag_list": [
-      "6小節"
+      "4小節",
+      "6小節",
+      "8小節"
     ],
     "text_list": [
       {
@@ -2320,6 +2425,34 @@
     ]
   },
   {
+    "title": "やりますねぇmix",
+    "mix_tag_list": [
+      "4小節",
+      "6小節",
+      "8小節"
+    ],
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "Ya Ya Yarimasunee\nYariyariyariyariYarimasunee\nYariyariyariyariYarimasunee",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "や　や　やりますねぇ(始動)\nやりやりやりやりやりますねぇ\nやりやりやりやりやりますねぇ",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "",
+    "link_list": [
+      {
+        "title": "やりますねぇmix （真是这个压力马斯内）",
+        "url": "https://www.bilibili.com/video/BV1EZ421g7ku"
+      }
+    ]
+  },
+  {
     "title": "家虎 [ イエッタイガー ]",
     "mix_tag_list": [
       "2小節",
@@ -2334,6 +2467,27 @@
       {
         "lang": "日语",
         "text": "イエッタイガー　イエッタイガー\nイエッタイガーファイボワイパー\n\nイエッ イエッ イエッ イエッ\nイエッタイガーファイボワイパー",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "",
+    "link_list": []
+  },
+  {
+    "title": "イェッタイガからの",
+    "mix_tag_list": [
+      "4小節"
+    ],
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "YettaigaKarano YettaigaKarano\nYettaigaKarano Yettaiga",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "イェッタイガからの　イェッタイガからの\nイェッタイガからの　イエッタイガー",
         "notes": ""
       }
     ],
@@ -3324,6 +3478,62 @@
     ]
   },
   {
+    "title": "倍速日本語可変MIX",
+    "mix_tag_list": [
+      "8小節"
+    ],
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "JyokyoTobiKasenShindouAmaSen'iJinzouHi\nJinzouHiAmaSen'iKasenTobiJyokyo\n_Jyokyo Tobi Jyokyo Tobi\nKasenShindouAmaSen'iJinzouHiTora",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "除去飛化繊振動海女繊維人造火\n人造火海女繊維化繊飛除去\n除去 飛 除去 飛\n化繊振動海女繊維人造火虎",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "",
+    "link_list": [
+      {
+        "title": "倍速日本語可変MIX",
+        "url": "https://x.com/neworangeblood/status/1704777841819451745"
+      }
+    ]
+  },
+  {
+    "title": "倍速日本語可変MIX→華嵐→花火",
+    "mix_tag_list": [
+      "16小節"
+    ],
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "JyokyoTobiKasenShindouAmaSen'iJinzouHi\nJinzouHiAmaSen'iKasenTobiJyokyo\n_Jyokyo Tobi Jyokyo Tobi\nKasenShindouAmaSen'iJinzouHiTora\n_Sakura Tsubaki Ayame Kuroyuri\n_Kaede SuirenKakitsubata\n_Kiku Botan Taki Hachi\nSenrinYourakuKamurogiku",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "除去飛化繊振動海女繊維人造火\n人造火海女繊維化繊飛除去\n除去 飛 除去 飛\n化繊振動海女繊維人造火虎\n桜(サクラ)椿(ツバキ)菖蒲(アヤメ)黒百合(クロユリ)\n楓(カエデ)睡蓮(スイレン)杜若(カキツバタ)\n菊(キク)牡丹(ボタン)瀧(タキ)蜂(ハチ)\n千輪(センリン)葉落(ヨウラク)冠菊(カムロギク)",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "",
+    "link_list": [
+      {
+        "title": "倍速日本語可変MIX→華嵐→花火",
+        "url": "https://x.com/neworangeblood/status/1704777765193711883"
+      },
+      {
+        "title": "倍速ジャパ変→華嵐→花火",
+        "url": "https://x.com/rktnshika0325/status/1800699118387712492"
+      }
+    ]
+  },
+  {
     "title": "アイヌ可変",
     "mix_tag_list": [
       "8小節"
@@ -3402,6 +3612,33 @@
     ]
   },
   {
+    "title": "スタジャパ混合MIX",
+    "mix_tag_list": [
+      "4小節",
+      "8小節"
+    ],
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "_Taiga Hi Saiba Sen'I\n_Daiba Shindou Jya-jya-",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "タイガー　火　サイバー　繊維\nダイバー　振動　ジャージャー",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "",
+    "link_list": [
+      {
+        "title": "スタジャパ混合MIX",
+        "url": "https://www.youtube.com/shorts/c0HPYLqYsPY"
+      }
+    ]
+  },
+  {
     "title": "スタジャパ可変",
     "mix_tag_list": [
       "8小節"
@@ -3460,7 +3697,7 @@
       },
       {
         "lang": "日语",
-        "text": "言いたいことがあるんだよ\nやっぱり〇〇はかわいいよ\nすきすき大好きやっぱ好き\nファイブフォースリーツーワンゴー\nウハイウハイウハイウハイ\nあ～よっしゃいくぞー\nタイガー ファイヤー サイバー ファイバー\nダイバー バイバー ジャージャー",
+        "text": "言いたいことがあるんだよ\nやっぱり〇〇はかわいいよ\nすきすき大好きやっぱ好き\nファイブフォースリーツーワンゴー\nうーおいうーおいうーおいうーおい\nあ～よっしゃいくぞー\nタイガー ファイヤー サイバー ファイバー\nダイバー バイバー ジャージャー",
         "notes": ""
       }
     ],
@@ -3731,12 +3968,12 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "Iitai Kotomo Ienaisa\nDatte 〇〇〇ga Sukidakara\nMurimuri Zettai Yappadame\n〇〇〇 Takaneno Hanananda\nOrega Mitsumeru Sonosakide\nSotto Waratte Kurerebaii\nOreni Jyanakutemo Kamawanai\nDarekani Waratte Ikitekure\nI KI TE KU RE",
+        "text": "Iitai Kotomo Ienaisa\nDatte 〇〇〇ga Sukidakara\nMurimuri Zettai Yappadame\n〇〇〇 Takaneno Hanananda\nOrega Mitsumeru Sonosakide\nSotto Waratte Kurerebaii\nOreni Jyanakutemo Kamawanai\nDarekani Waratte Ikitekure\nI-Ki-Te-Ku-Re",
         "notes": ""
       },
       {
         "lang": "日语",
-        "text": "言いたいことも言えないさ\nだって 〇〇〇が好きだから\n無理無理絶対やっぱダメ\nお前わ高嶺の花なんだ\n俺が見つめるその先で\nそつと笑つてくれればいい\n俺にじゃなくでも構わない\n誰かに笑つて生きてくれ",
+        "text": "言いたいことも言えないさ\nだって 〇〇〇が好きだから\n無理無理絶対やっぱダメ\nお前わ高嶺の花なんだ\n俺が見つめるその先で\nそつと笑つてくれればいい\n俺にじゃなくでも構わない\n誰かに笑つて生きてくれ\n生·き·て·く·れ",
         "notes": ""
       }
     ],
@@ -3970,7 +4207,40 @@
     ],
     "text_list_size": 2,
     "notes": "",
-    "link_list": []
+    "link_list": [
+      {
+        "title": "iLiFE!「ナイナイ恋煩い♡ （才没有相思病）」",
+        "url": "https://www.bilibili.com/video/BV1NX4y1772z"
+      }
+    ]
+  },
+  {
+    "title": "ミョーホントゥスケ口上",
+    "mix_tag_list": [
+      "恋口上",
+      "可变三连",
+      "16小節"
+    ],
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "Iitai Kotoga RaraTusuke\nYappari 〇〇〇wa AmaShindou\nChapeApeKaraKina YappaChape\nKasen! Myo-hontusukeChape\nOrega Digushite Kitashiberu\nSaida Omaeni Sutoraipa\nOreto Isshoni ChapeApeKaraKina\nJinzouFaiya FaiboWaipa",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "言いたいことがララトゥスケ\nやっぱり〇〇〇は海女振動\nチャペアペカラキナやっぱチャペ\n化繊ミョーホントゥスケチャペ\n俺がディグしてきたシベル\nサイダーお前にストライパー\n俺と一緒にチャペアペカラキナ\n人造ファイヤファイボワイパー",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "",
+    "link_list": [
+      {
+        "title": "ミョーホントゥスケ口上",
+        "url": "https://www.youtube.com/shorts/rEVrTHn44D8"
+      }
+    ]
   },
   {
     "title": "寺田心恋口上",
@@ -4109,7 +4379,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "JinzouFaiya FaiboWaipa\nTaiga Taiga TatatataTaiga\nChapeApeKaraKina ChapeApeKaraKina\nMyohontousuke P Waipa\nFaiya Faiya ToraToraKaraKina\nChapeApe Faama AmaAmaJyasupa\nToraTaiga ToraTaiga\nJinzouSen'i Iettaiga!",
+        "text": "JinzouFaiya FaiboWaipa\nTaiga Taiga TatatataTaiga\nChapeApeKaraKina ChapeApeKaraKina\nMyo-hontusuke P Waipa\nFaiya Faiya ToraToraKaraKina\nChapeApe Faama AmaAmaJyasupa\nToraTaiga ToraTaiga\nJinzouSen'i Yettaiga!",
         "notes": ""
       },
       {
@@ -4175,7 +4445,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "KitakitakitakitaWaitekita\nTaiga Taiga Taiga Shotto\nToratai Toratai Torataiga\nJinzouSen'i Iettaiga\nJyajjya Jyajjya Baribaribo\nSutosutosutosutoSutoraika\nKaaru Haintsu Shunaida\nSukai Rabu Harikeen",
+        "text": "KitakitakitakitaWaitekita\nTaiga Taiga Taiga Shotto\nToratai Toratai Torataiga\nJinzouSen'i Yettaiga\nJyajjya Jyajjya Baribaribo\nSutosutosutosutoSutoraika\nKaaru Haintsu Shunaida\nSukai Rabu Harikeen",
         "notes": ""
       },
       {
@@ -4197,7 +4467,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "KitakitakitakitaGuddokita\nTaiga Taiga Taiga Doraibu\nFaiya Faiya Toruneedo\nIkarino Tettsui Iettaiga\nJyajjya Jyajjya Desusupia\nSutosutosutosutoSutoraika\nKira Fiiruzu Goddo Bureiku\nGurando Faiya Igunisshon",
+        "text": "KitakitakitakitaGuddokita\nTaiga Taiga Taiga Doraibu\nFaiya Faiya Toruneedo\nIkarino Tettsui Yettaiga\nJyajjya Jyajjya Desusupia\nSutosutosutosutoSutoraika\nKira Fiiruzu Goddo Bureiku\nGurando Faiya Igunisshon",
         "notes": ""
       },
       {
@@ -4246,7 +4516,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "KitakitakitakitaWaitekita\nTaiga Taiga Taiga Shotto\nToratai Toratai Torataiga\nJinzouSen'i Iettaiga\nJyajjya Jyajjya Bariya-do\nBaribaribaribariBariya-do\nBariya-do Bariya-do\nBaribaribaribariBariya-do",
+        "text": "KitakitakitakitaWaitekita\nTaiga Taiga Taiga Shotto\nToratai Toratai Torataiga\nJinzouSen'i Yettaiga\nJyajjya Jyajjya Bariya-do\nBaribaribaribariBariya-do\nBariya-do Bariya-do\nBaribaribaribariBariya-do",
         "notes": ""
       },
       {
@@ -4295,7 +4565,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "JinzouFaiya FaiboWaipa\nTaiga Taiga TatatataTaiga\nChapeApeKaraKina ChapeApeKaraKina\nMyohontousuke P Waipa\nWisupe Kesui ChapeChapeChape\nChapeApeKaraKinaKaraApeChape\nJyokyoTobiJyokyo ToraToraTora\nKasenTobiKasenTobiKasenTobiWaipa",
+        "text": "JinzouFaiya FaiboWaipa\nTaiga Taiga TatatataTaiga\nChapeApeKaraKina ChapeApeKaraKina\nMyo-hontusuke P Waipa\nWisupe Kesui ChapeChapeChape\nChapeApeKaraKinaKaraApeChape\nJyokyoTobiJyokyo ToraToraTora\nKasenTobiKasenTobiKasenTobiWaipa",
         "notes": ""
       },
       {
@@ -4344,7 +4614,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "IetoraKinshi TaidoKouka\nTaijyou Taijyou TatatataTaijyou\nBurakkurisutoda Burakkurisutoda\nBushironoTaidoga P Kibishii\nSeikyuu Seikyuu SongaiBaishou\nHoutekisekinin IetoraSaiban\nKamiUnei KamiUnei\nIetoraKonzetsu Iettaiga",
+        "text": "IetoraKinshi TaidoKouka\nTaijyou Taijyou TatatataTaijyou\nBurakkurisutoda Burakkurisutoda\nBushironoTaidoga P Kibishii\nSeikyuu Seikyuu SongaiBaishou\nHoutekisekinin IetoraSaiban\nKamiUnei KamiUnei\nIetoraKonzetsu Yettaiga",
         "notes": ""
       },
       {
@@ -4437,7 +4707,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "JinzouFaiya FaiboWaipa\nTaiga Taiga TatatataTaiga\nChapeApeKaraKina ChapeApeKaraKina\nMyohontousuke P Waipa\nFaiya Faiya ToraToraKaraKina\nChapeApe Faama AmaAmaJyasupa\nToraTaiga ToraTaiga\nJinzouSen'i Iettaiga!",
+        "text": "JinzouFaiya FaiboWaipa\nTaiga Taiga TatatataTaiga\nChapeApeKaraKina ChapeApeKaraKina\nMyo-hontusuke P Waipa\nFaiya Faiya ToraToraKaraKina\nChapeApe Faama AmaAmaJyasupa\nToraTaiga ToraTaiga\nJinzouSen'i Yettaiga!",
         "notes": ""
       },
       {
@@ -4561,7 +4831,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "Iitai Kotoga FaiboWaipa\nYappari Taiga TatatataTaiga\nSukisuki Daisuki ChapeApeKaraKina\nYatto Mitsuketa P Waipa\nOrega Umarete ToraToraKaraKina\nSorewa Omaeto AmaAmaJyasupa\nOreto Isshoni ToraTaiga\nSekaide Ichiban Iettaiga",
+        "text": "Iitai Kotoga FaiboWaipa\nYappari Taiga TatatataTaiga\nSukisuki Daisuki ChapeApeKaraKina\nYatto Mitsuketa P Waipa\nOrega Umarete ToraToraKaraKina\nSorewa Omaeto AmaAmaJyasupa\nOreto Isshoni ToraTaiga\nSekaide Ichiban Yettaiga",
         "notes": ""
       },
       {
@@ -4583,7 +4853,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "KuchiyoseManda FaiboWaipa\nTaiga Taiga AkatsukiTaiga\nKuchiyoseKaraKina KuchiyoseKaraKina\nSen'eitajyashu P Waipa\nFaiya Faiya KinjyutsuFaiya\nMandara Faama ShikiShikiFuujin\nEdoTensei FushiTensei\nSarutobiSensei Iettaiga",
+        "text": "KuchiyoseManda FaiboWaipa\nTaiga Taiga AkatsukiTaiga\nKuchiyoseKaraKina KuchiyoseKaraKina\nSen'eitajyashu P Waipa\nFaiya Faiya KinjyutsuFaiya\nMandara Faama ShikiShikiFuujin\nEdoTensei FushiTensei\nSarutobiSensei Yettaiga",
         "notes": ""
       },
       {
@@ -4852,7 +5122,7 @@
     "link_list": []
   },
   {
-    "title": "面包mix（长版）",
+    "title": "面包mix长版 [ パンmixロング ]",
     "mix_tag_list": [
       "面包mix",
       "16小節"
@@ -6565,7 +6835,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "JinzouFaiya FaiboWaipa\nTaiga Taiga TatatataTaiga\nChapeApeKaraKina ChapeApeKaraKina\nMyohontousuke P Waipa\nFaiya Faiya ToraToraKaraKina\nChapeApe Faama AmaAmaJyasupa\nToraTaiga ToraTaiga\nJinzouSen'i Iettaiga!\n(P)Faiya Saiba Faiba Daiba\n_Baiba Jya-jya Faibo-\n_Injyo Jyasupa Biburaru Kasen\n_Ye Naruda Faboriasuta-",
+        "text": "JinzouFaiya FaiboWaipa\nTaiga Taiga TatatataTaiga\nChapeApeKaraKina ChapeApeKaraKina\nMyo-hontusuke P Waipa\nFaiya Faiya ToraToraKaraKina\nChapeApe Faama AmaAmaJyasupa\nToraTaiga ToraTaiga\nJinzouSen'i Yettaiga!\n(P)Faiya Saiba Faiba Daiba\n_Baiba Jya-jya Faibo-\n_Injyo Jyasupa Biburaru Kasen\n_Ye Naruda Faboriasuta-",
         "notes": ""
       },
       {
@@ -6724,7 +6994,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "Iitai Kotoga FaiboMarufoi\nYappari 〇〇〇 GurifinTaiga\nAkushio ChapeApe Yappasuki\nWinga-tusuke Ohimesama\nFaiya Oreto ReviosaKaraKina\nSorewa Faama Patoro-namu\nOreto Taiga Tomuridoru\n(Sekaide Ichiban Gurenjya)\nVorudemo-to tte Iettaiga",
+        "text": "Iitai Kotoga FaiboMarufoi\nYappari 〇〇〇 GurifinTaiga\nAkushio ChapeApe Yappasuki\nWinga-tusuke Ohimesama\nFaiya Oreto ReviosaKaraKina\nSorewa Faama Patoro-namu\nOreto Taiga Tomuridoru\n(Sekaide Ichiban Gurenjya)\nVorudemo-to tte Yettaiga",
         "notes": ""
       },
       {
@@ -7212,7 +7482,7 @@
       },
       {
         "lang": "日语",
-        "text": "ウハイウハイウハイウハイ\nあ～まだ行かない\nウハイウハイウハイウハイ\nあ～まだ行かない\nいつ行くの？今でしょ！\nあ～しゃーいくぞ",
+        "text": "うーおいうーおいうーおいうーおい\nあ～まだ行かない\nうーおいうーおいうーおいうーおい\nあ～まだ行かない\nいつ行くの？今でしょ！\nあ～しゃーいくぞ",
         "notes": ""
       }
     ],
@@ -7233,7 +7503,7 @@
       },
       {
         "lang": "日语",
-        "text": "ウハイウハイウハイウハイ\nあ～まだ行かない\nウハイウハイウハイウハイ\nあ～まだ行かない\nいつ行くの？今でしょ！\nあ～まだ行かない\nまだ行かない　まだ行かない\nでも今行かないならもういけない",
+        "text": "うーおいうーおいうーおいうーおい\nあ～まだ行かない\nうーおいうーおいうーおいうーおい\nあ～まだ行かない\nいつ行くの？今でしょ！\nあ～まだ行かない\nまだ行かない　まだ行かない\nでも今行かないならもういけない",
         "notes": ""
       }
     ],
@@ -7254,7 +7524,7 @@
       },
       {
         "lang": "日语",
-        "text": "ウハイウハイウハイウハイ\nあ～まだ行かない\nウハイウハイウハイウハイ\nあ～まだ行かない\nいつ行くの？今でしょ！\nあ～しゃーいくぞ\nタイガー ファイヤー サイバー ファイバー\nダイバー バイバー ジャージャー",
+        "text": "うーおいうーおいうーおいうーおい\nあ～まだ行かない\nうーおいうーおいうーおいうーおい\nあ～まだ行かない\nいつ行くの？今でしょ！\nあ～しゃーいくぞ\nタイガー ファイヤー サイバー ファイバー\nダイバー バイバー ジャージャー",
         "notes": ""
       }
     ],
@@ -7275,7 +7545,7 @@
       },
       {
         "lang": "日语",
-        "text": "ウハイウハイウハイウハイ\nあ～まだ行かない\nウハイウハイウハイウハイ\nあ～まだ行かない\nいつ行くの？今でしょ！\nあ～じゃーいくぞ\n俺とお前の赤い糸\n俺の俺の〇〇〇\nいやいやいやいやいやいやいやいや\n俺の〇〇〇\n夢(ゆめ)汗(あせ)すすめ\nサイルヨァドリーム〇〇〇",
+        "text": "うーおいうーおいうーおいうーおい\nあ～まだ行かない\nうーおいうーおいうーおいうーおい\nあ～まだ行かない\nいつ行くの？今でしょ！\nあ～じゃーいくぞ\n俺とお前の赤い糸\n俺の俺の〇〇〇\nいやいやいやいやいやいやいやいや\n俺の〇〇〇\n夢(ゆめ)汗(あせ)すすめ\nサイルヨァドリーム〇〇〇",
         "notes": ""
       }
     ],
@@ -7291,12 +7561,12 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "U'HaiU'HaiU'HaiU'Hai\nA~Madaikanai\nU'HaiU'HaiU'HaiU'Hai\nA~Madaikanai\nU'HaiU'HaiU'HaiU'Hai\nMadamadamadamadaMadaikanai\nItsuikuno? Imadesho! \nA~Jya-ikuzo\n_Taiga Faiya Saiba Faiba \n_Daiba Baiba Jya-jya-\nFaibo Waipa Faama Jyasupa\nHowaipa Kuupa Iesukureipa",
+        "text": "U'HaiU'HaiU'HaiU'Hai\nA~Madaikanai\nU'HaiU'HaiU'HaiU'Hai\nA~Madaikanai\nU'HaiU'HaiU'HaiU'Hai\nMadamadamadamadaMadaikanai\nItsuikuno? Imadesho! \nA~Jya-ikuzo\n_Taiga Faiya Saiba Faiba \n_Daiba Baiba Jya-jya-\nFaibo Waipa Faama Jyasupa\nHowaipa Kuupa Yesukureipa",
         "notes": ""
       },
       {
         "lang": "日语",
-        "text": "ウハイウハイウハイウハイ\nあ～まだ行かない\nウハイウハイウハイウハイ\nあ～まだ行かない\nウハイウハイウハイウハイ\nまだまだまだまだまだ行かない\nいつ行くの？今でしょ！\nあ～しゃーいくぞ\nタイガー ファイヤー サイバー ファイバー\nダイバー バイバー ジャージャー\nファイボー　ワイパー　ファーマー　ジャスパー\nホワイパー　クーパー　イエスクレイパー",
+        "text": "うーおいうーおいうーおいうーおい\nあ～まだ行かない\nうーおいうーおいうーおいうーおい\nあ～まだ行かない\nうーおいうーおいうーおいうーおい\nまだまだまだまだまだ行かない\nいつ行くの？今でしょ！\nあ～しゃーいくぞ\nタイガー ファイヤー サイバー ファイバー\nダイバー バイバー ジャージャー\nファイボー　ワイパー　ファーマー　ジャスパー\nホワイパー　クーパー　イエスクレイパー",
         "notes": ""
       }
     ],
@@ -7339,7 +7609,7 @@
       },
       {
         "lang": "日语",
-        "text": "ウハイウハイウハイウハイ\nあ～まだ行かない\nウハイウハイウハイウハイ\nあ～まだ行かない\nいつ行くの？今でしょ！\nワ　ワ　ワールドカオス\n諸行 木暮 時雨 神楽\n金剛山 翔襲叉\n黒雲 無常 世界混沌",
+        "text": "うーおいうーおいうーおいうーおい\nあ～まだ行かない\nうーおいうーおいうーおいうーおい\nあ～まだ行かない\nいつ行くの？今でしょ！\nワ　ワ　ワールドカオス\n諸行 木暮 時雨 神楽\n金剛山 翔襲叉\n黒雲 無常 世界混沌",
         "notes": ""
       }
     ],
@@ -7368,6 +7638,36 @@
     "text_list_size": 2,
     "notes": "",
     "link_list": []
+  },
+  {
+    "title": "ウグイスMIX",
+    "mix_tag_list": [
+      "16小節"
+    ],
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "U'HaiU'HaiU'HaiU'Hai\nA~Madaikanai\nU'HaiU'HaiU'HaiU'Hai\nA~Madaikanai\nItsuikuno? Imanakuno!\nA~Ho-hokekyo\n_Ho Hokekyo Hokekyo Hokekyo\n_Hokekyo Hokekyo Hohhokekyo",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "うーおいうーおいうーおいうーおい\nあ～まだ行かない\nうーおいうーおいうーおいうーおい\nあ～まだ行かない\nいつ行くの？今鳴くの！\nあ～ホーホケキョ\nホっ　ホケキョ　ホケキョ　ホケキョ\nホケキョ　ホケキョ　ホっホケキョ",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "",
+    "link_list": [
+      {
+        "title": "ホケキョエンギ",
+        "url": "https://x.com/tcyk_rainbow/status/1790050403435925653"
+      },
+      {
+        "title": "ウグイスMIX",
+        "url": "https://www.youtube.com/shorts/nqfwbdz3yIw"
+      }
+    ]
   },
   {
     "title": "拉长mix（英语） [ スタンダードうんち可変 ]",
@@ -7831,10 +8131,10 @@
     "text_list_size": 2,
     "notes": "",
     "link_list": [
-        {
-            "title": "アッチェレ極意",
-            "url": "https://x.com/Bazzz_dgo/status/1799459958750396714"
-        }
+      {
+        "title": "アッチェレ極意",
+        "url": "https://x.com/Bazzz_dgo/status/1799459958750396714"
+      }
     ]
   },
   {
@@ -7897,7 +8197,7 @@
       },
       {
         "lang": "日语",
-        "text": "ぐーちょきぱーぐーちょきぱー\n何作ろう　何作ろう\n右手はパーで　左手もパーで\n勘定奉行にお任せあれぃ",
+        "text": "ぐーちょきぱーでぐーちょきぱーで\n何作ろう　何作ろう\n右手はパーで　左手もパーで\n勘定奉行にお任せあれぃ",
         "notes": ""
       }
     ],
@@ -7918,7 +8218,7 @@
       },
       {
         "lang": "日语",
-        "text": "ぐーちょきぱーぐーちょきぱー\n何作ろう　何作ろう\n右手はパーで　左手もパーで\n田んぼの様子が P おかしい\n\nぐーちょきぱーぐーちょきぱー\n何作ろう　何作ろう\n右手はパーで　左手もパーで\nP PPP P しゃーいぐぞ！\n(各種mix)",
+        "text": "ぐーちょきぱーでぐーちょきぱーで\n何作ろう　何作ろう\n右手はパーで　左手もパーで\n田んぼの様子が P おかしい\n\nぐーちょきぱーでぐーちょきぱーで\n何作ろう　何作ろう\n右手はパーで　左手もパーで\nP PPP P しゃーいぐぞ！\n(各種mix)",
         "notes": ""
       }
     ],
@@ -7939,7 +8239,7 @@
       },
       {
         "lang": "日语",
-        "text": "ぐーちょきぱーぐーちょきぱー\n何作ろう　何作ろう\n右手はグーで　左手もグーで\n〇〇〇〇(任意の人物名)P 逮捕",
+        "text": "ぐーちょきぱーでぐーちょきぱーで\n何作ろう　何作ろう\n右手はグーで　左手もグーで\n〇〇〇〇(任意の人物名)P 逮捕",
         "notes": ""
       }
     ],
@@ -8036,12 +8336,12 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "Gu-chokipa-de Guchokipa-de\nNanitsukurou Nanitsukurou\nMigitewapa-de Hidaritemopa-de\nMyo-hontusuke P Waipa\nO-kina Kurino Kinoshitade\nAnata to Waarudokaosu\n_Shogyou Kogure Shigure Kagura\n_KongousanShoushuusha",
+        "text": "Gu-chokipa-de Guchokipa-de\nNanitsukurou Nanitsukurou\nMigitewapa-de Hidaritemopa-de\nMyo-hontusuke P Waipa\nOokina Kurino Kinoshitade\nAnata to Waarudokaosu\n_Shogyou Kogure Shigure Kagura\n_KongousanShoushuusha\nKokuun Mujyou Sekaikonton",
         "notes": ""
       },
       {
         "lang": "日语",
-        "text": "ぐーちょきぱーぐーちょきぱー\n何作ろう　何作ろう\n右手はパーで　左手もパーで\nミョーホントゥスケ P ワイパー\n大きな栗の木の下で\nあなたとワールドカオス\n諸行　小暮　時雨　神楽\n金剛山 翔襲叉",
+        "text": "ぐーちょきぱーでぐーちょきぱーで\n何作ろう　何作ろう\n右手はパーで　左手もパーで\nミョーホントゥスケ P ワイパー\n大きな栗の木の下で\nあなたとワールドカオス\n諸行　小暮　時雨　神楽\n金剛山 翔襲叉\n黒雲 無常 世界混沌",
         "notes": ""
       }
     ],
@@ -8062,7 +8362,7 @@
       },
       {
         "lang": "日语",
-        "text": "ぐーちょきぱーぐーちょきぱー\n何作ろう　何作ろう\n右手はパーで　左手もパーで\nミョーホントゥスケ P ワイパー\n大きな栗の木の下で\nあなたとワールドカオス\n諸行　小暮　時雨　神楽\n金剛山 翔襲叉\n極運　夢境　冥界　強剛\nナウダ　マモリアスター\n",
+        "text": "ぐーちょきぱーでぐーちょきぱーで\n何作ろう　何作ろう\n右手はパーで　左手もパーで\nミョーホントゥスケ P ワイパー\n大きな栗の木の下で\nあなたとワールドカオス\n諸行　小暮　時雨　神楽\n金剛山 翔襲叉\n極運　夢境　冥界　強剛\nナウダ　マモリアスター\n",
         "notes": ""
       }
     ],
@@ -8182,7 +8482,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "Rin Pyou Tou Sha KaiJin RetsuZaiZen\nTenGenGyouTai Shin Pen Jintsuuriki\nJinzouFaiya FaiboWaipa\nTaiga Taiga TatatataTaiga\nChapeApeKaraKina ChapeApeKaraKina\nMyohontousuke P Waipa",
+        "text": "Rin Pyou Tou Sha KaiJin RetsuZaiZen\nTenGenGyouTai Shin Pen Jintsuuriki\nJinzouFaiya FaiboWaipa\nTaiga Taiga TatatataTaiga\nChapeApeKaraKina ChapeApeKaraKina\nMyo-hontusuke P Waipa",
         "notes": ""
       },
       {
@@ -8208,7 +8508,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "Saigono Shokouno Sonohimade\nMinnade Koedashi Yosshaikuzo\n_Taiga Faiya Saiba Faiba\n_Daiba Baiba Jya-jya-\nFaibo Waipa Iesukureipa",
+        "text": "Saigono Shokouno Sonohimade\nMinnade Koedashi Yosshaikuzo\n_Taiga Faiya Saiba Faiba\n_Daiba Baiba Jya-jya-\nFaibo Waipa Yesukureipa",
         "notes": ""
       },
       {
@@ -8648,7 +8948,7 @@
     "link_list": [
       {
         "title": "NewWorld口上",
-        "url": "https://www.tiktok.com/@zennipponchekitarinai/video/7318315077730340114"
+        "url": "https://www.youtube.com/shorts/AJ7paPAQvYs"
       }
     ]
   },
@@ -8702,7 +9002,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "Jyanpu o Shinai Mikkusu Shinai\nKurappu Shinai Sakebanai\nManaa o Mamorou Iettaiga\nTaigaFaiyaSaibaFaibaDaibaBaibaJya-jya",
+        "text": "Jyanpu o Shinai Mikkusu Shinai\nKurappu Shinai Sakebanai\nManaa o Mamorou Yettaiga\nTaigaFaiyaSaibaFaibaDaibaBaibaJya-jya",
         "notes": ""
       },
       {
@@ -8760,7 +9060,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "Oppai Manko Manko Chinko\nOppai Manko Manko Chinko\nOppai Manko Manko Chinko\nChinge Mange Iettaiga",
+        "text": "Oppai Manko Manko Chinko\nOppai Manko Manko Chinko\nOppai Manko Manko Chinko\nChinge Mange Yettaiga",
         "notes": ""
       },
       {
@@ -9477,7 +9777,7 @@
     "link_list": []
   },
   {
-    "title": "火箭队口上#1 [ ロケット団口上 ]",
+    "title": "火箭队口上 [ ロケット団口上#1 ]",
     "mix_tag_list": [
       "8小節"
     ],
@@ -9489,16 +9789,47 @@
       },
       {
         "lang": "日语",
-        "text": "なんだかんだと聞かれたら\n答えてあげるが世の情け\n世界の平和を守るため\nわーすた！わーすた！わーるどすたんだーど！（World Standard）",
+        "text": "なんだかんだと聞かれたら\n答えてあげるが世の情け\n世界の平和を守るため\nわーすた！わーすた！World(ワールド) Standard(スタンダード)！",
         "notes": ""
       }
     ],
     "text_list_size": 2,
     "notes": "",
-    "link_list": []
+    "link_list": [
+      {
+        "title": "最上級パラドックス コール",
+        "url": "https://www.bilibili.com/video/BV1se4y1W7Lw"
+      }
+    ]
   },
   {
-    "title": "火箭队口上#2 [ ムコニャ口上（ロケット団） ]",
+    "title": "火箭队口上 [ ロケット団口上#2 ]",
+    "mix_tag_list": [
+      "8小節"
+    ],
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "Nandakanda Tokika Retara\nKotaete Ageruga Yononasake\nSekaino Heiwa o Mamorutame\nKoufun Kouyou Ansudayo",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "なんだかんだと聞かれたら\n答えてあげるが世の情け\n世界の平和を守るため\n興奮(こうふん) 高揚(こうよう) アンスだよ",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "",
+    "link_list": [
+      {
+        "title": "『だだだっ！！！！』MIX・コール解説動画",
+        "url": "https://www.youtube.com/watch?v=Tw4EAw8eKfo"
+      }
+    ]
+  },
+  {
+    "title": "火箭队口上 [ DPムコニャ口上（ロケット団） ]",
     "mix_tag_list": [
       "20小節"
     ],
@@ -9516,7 +9847,12 @@
     ],
     "text_list_size": 2,
     "notes": "",
-    "link_list": []
+    "link_list": [
+      {
+        "title": "『だだだっ！！！！』MIX・コール解説動画",
+        "url": "https://www.youtube.com/watch?v=Tw4EAw8eKfo"
+      }
+    ]
   },
   {
     "title": "クソコール酒",
@@ -9526,7 +9862,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "Nomitaiyo Nomitaiyo\nOishii Osakega Nomitaiyo\nSupiritasu Wankappu\nOnikoroshi Sutorongu\nKanchu-hai U-ronhai\nMenbure Shitande Shotto Shimasu\nNande Mottenno? Nande Mottenno?\nNomitari nai kara Mottenno\nNonde Nondenonde Nonde Nondenonde\nNomitari nai kara Iettaiga",
+        "text": "Nomitaiyo Nomitaiyo\nOishii Osakega Nomitaiyo\nSupiritasu Wankappu\nOnikoroshi Sutorongu\nKanchu-hai U-ronhai\nMenbure Shitande Shotto Shimasu\nNande Mottenno? Nande Mottenno?\nNomitari nai kara Mottenno\nNonde Nondenonde Nonde Nondenonde\nNomitari nai kara Yettaiga",
         "notes": ""
       },
       {
