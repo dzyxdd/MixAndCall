@@ -978,7 +978,12 @@
     ],
     "text_list_size": 2,
     "notes": "",
-    "link_list": []
+    "link_list": [
+        {
+            "title": "ピザMIX",
+            "url": "https://www.tiktok.com/@zennipponchekitarinai/video/7282012984635837704"
+        }
+    ]
   },
   {
     "title": "意大利面mix [ Pasta mix ] [ パスタMIX ]",
@@ -1179,7 +1184,12 @@
     ],
     "text_list_size": 2,
     "notes": "",
-    "link_list": []
+    "link_list": [
+      {
+        "title": "神激mix（基本系）",
+        "url": "https://www.youtube.com/shorts/Jj_CCnKa8W4"
+      }
+    ]
   },
   {
     "title": "神激mix（12神+神降臨始動）",
@@ -1204,6 +1214,10 @@
       {
         "title": "『神奏曲:アブソルートゼロ』MIX・コール解説動画",
         "url": "https://www.youtube.com/watch?v=O5O9ytb-R68"
+      },
+      {
+        "title": "神激mix（神神始動）",
+        "url": "https://www.youtube.com/shorts/y7WmPY_-4q0"
       }
     ]
   },
@@ -1306,6 +1320,32 @@
     ]
   },
   {
+    "title": "せっけんMIX",
+    "mix_tag_list": [
+      "8小節"
+    ],
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "U'HaiU'HaiU'HaiU'Hai\nSekkenMikkusu Sha-ikuzo\n_Biore Utamaro Kireikirei Dabu\nYakuyo Sekken P Myu-zu",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "せっけんMIXしゃー行くぞ(始動)\nビオレ　ウタマロ　キレイキレイ　ダブ\n薬用石鹸 P ミューズ！",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "",
+    "link_list": [
+      {
+        "title": "せっけんMIX",
+        "url": "https://www.youtube.com/shorts/i7_EHTvS3zY"
+      }
+    ]
+  },
+  {
     "title": "ディアステmix",
     "mix_tag_list": [
       "4小節"
@@ -1369,6 +1409,87 @@
     "link_list": []
   },
   {
+    "title": "ナナランドMIX(英語)",
+    "mix_tag_list": [
+      "4小節",
+      "8小節"
+    ],
+    "text_list": [
+      {
+        "lang": "英语",
+        "text": "_Shiny Fire Star Water\n_Nature Wind Lovely",
+        "notes": ""
+      },
+      {
+        "lang": "罗马字",
+        "text": "_Shaini Faiya Suta Wo-ta\n_Neicha Uindo Raburi",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "シャイニー　ファイヤー　スター　ウォーター\nネイチャー　ウインド　ラブリー",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 3,
+    "notes": "",
+    "link_list": [
+      {
+        "title": "ナナランドMIX",
+        "url": "https://www.youtube.com/shorts/BISVSV8Kp9o"
+      }
+    ]
+  },
+  {
+    "title": "ナナランドMIX(日本語)",
+    "mix_tag_list": [
+      "4小節",
+      "8小節"
+    ],
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "_You En Sei Sui\n_Ryoku FuuAinanarando",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "陽(よう)　炎(えん)　星(せい)　水(すい)\n緑(りょく)　風(ふう)　愛ナナランド",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "",
+    "link_list": [
+      {
+        "title": "ナナランドMIX",
+        "url": "https://www.youtube.com/shorts/oxs9fB8lu88"
+      }
+    ]
+  },
+  {
+    "title": "ナナランドMIX(アイヌ語)",
+    "mix_tag_list": [
+      "4小節",
+      "8小節"
+    ],
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "_Chupu Uhyui Nochiu Wakka\n_Kamui Rera Katairokke",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "チュプ　ウヒュイ　ノチウ　ワッカ\nカムイ　レラ　カタイロッケ",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "",
+    "link_list": []
+  },
+  {
     "title": "dropオリジナルmix(英語) [ ナナランドオリジナルMIX ]",
     "mix_tag_list": [
       "4小節",
@@ -1387,7 +1508,7 @@
       },
       {
         "lang": "日语",
-        "text": "シャイニー！ファイヤー！サンダー！ウォーター！\nネイチャー！ポイズン！サクマー！",
+        "text": "シャイニー　ファイヤー　サンダー　ウォーター\nネイチャー　ポイズン　サクマー",
         "notes": ""
       }
     ],
@@ -1409,7 +1530,7 @@
       },
       {
         "lang": "日语",
-        "text": "陽(よう)！炎(えん)！雷(らい)！水(すい)！\n緑(りょく)！毒(どく)！サクマと上昇！",
+        "text": "陽(よう)　炎(えん)　雷(らい)　水(すい)\n緑(りょく)　毒(どく)　サクマと上昇",
         "notes": ""
       }
     ],
@@ -1431,7 +1552,7 @@
       },
       {
         "lang": "日语",
-        "text": "チュプ！ウヒュイ！カンナ！ワッカ！\nカムイ！スルク！サクマホプンパ！",
+        "text": "チュプ　ウヒュイ　カンナ　ワッカ\nカムイ　スルク　サクマホプンパ",
         "notes": ""
       }
     ],
@@ -2715,6 +2836,32 @@
     ]
   },
   {
+    "title": "撫子広場 [ 美人広場 ]",
+    "mix_tag_list": [
+      "4小節"
+    ],
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "TatebaShakuyaku SuwarebaBotan\nArukuSugatawa Yettaiga",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "立てば芍薬　座れば牡丹\n歩く姿は　イェッタイガー",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "",
+    "link_list": [
+      {
+        "title": "撫子広場",
+        "url": "https://www.youtube.com/shorts/S-s1C7cBZ_k"
+      }
+    ]
+  },
+  {
     "title": "三爷mix",
     "mix_tag_list": [
       "中文mix",
@@ -2932,6 +3079,33 @@
     "text_list_size": 1,
     "notes": "两人配合完成",
     "link_list": []
+  },
+  {
+    "title": "混沌mix（变则） [ 混沌mix（アブソver.） ]",
+    "mix_tag_list": [
+      "混沌mix",
+      "18小節"
+    ],
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "Wa Wa Wa Wa\nWa Wa Waarudokaosu\nWa Wa Wa Wa\nWa Wa Waarudokaosu\nWa Wa Wa Wa\nWa Wa Waarudokaosu\n_Shogyou Kogure Shigure Kagura\n_KongousanShoushuusha\nKokuun Mujyou Sekaikonton",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "ワ　ワ　ワ　ワ\nワ　ワ　ワールドカオス\nワ　ワ　ワ　ワ\nワ　ワ　ワールドカオス\nワ　ワ　ワ　ワ\nワ　ワ　ワールドカオス\n諸行 木暮 時雨 神楽\n金剛山 翔襲叉\n黒雲 無常 世界混沌",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "",
+    "link_list": [
+      {
+        "title": "混沌mix（アブソver.）",
+        "url": "https://www.youtube.com/shorts/-psTqLfi_jc"
+      }
+    ]
   },
   {
     "title": "正逆萨莉亚混沌mix",
@@ -4160,6 +4334,34 @@
     "link_list": []
   },
   {
+    "title": "ショートガチ恋口上",
+    "mix_tag_list": [
+      "恋口上",
+      "8小節",
+      "10小節"
+    ],
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "Iitai Kotoga Arundayo\nYappari 〇〇〇wa Kawaiiyo\nSukisuki Daisuki Yappasuki\nSekaide Ichiban Aishiteru\nA-I-Shi-Te-Ru",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "言いたいことがあるんだよ\nやっぱり〇〇はかわいいよ\nすきすき大好きやっぱ好き\n世界で一番愛してる\nあーいーしーてーるー",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "",
+    "link_list": [
+      {
+        "title": "ショートガチ恋口上",
+        "url": "https://www.tiktok.com/@zennipponchekitarinai/video/7290132766795074834"
+      }
+    ]
+  },
+  {
     "title": "ガチ恋キャンセル→スタンダードmix（タイガーファイヤー始動）",
     "mix_tag_list": [
       "恋口上",
@@ -4412,7 +4614,10 @@
     ],
     "text_list_size": 2,
     "notes": "",
-    "link_list": []
+    "link_list": [{
+        "title": "可変三連#2",
+        "url": "https://www.tiktok.com/@zennipponchekitarinai/video/7359197630292905234"
+      }]
   },
   {
     "title": "ワイパー可変三連",
@@ -5475,7 +5680,7 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "Menmenmenmen Jya-jya-men\nTsurutto Nodogoshi SandaSeimen\nKakeudon Kakeudon\nAkaikitsuneto Midorinotanuki",
+        "text": "Menmenmenmen Jya-jya-men\nTsurutto Nodogoshi Mitaseimen\nKakeudon Kakeudon\nAkaikitsuneto Midorinotanuki",
         "notes": ""
       },
       {
@@ -5779,6 +5984,32 @@
         "title": "16小節MIX？",
         "url": "https://www.bilibili.com/video/BV1kv421r7nY/"
       }
+    ]
+  },
+  {
+    "title": "文明堂MIX",
+    "mix_tag_list": [
+      "8小節"
+    ],
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "Omaega Ichiban Denwawa Niban\nSanjino Oyatsuwa Bunmeidou\nBunmeidou Bunmeidou\nSanjino Oyatsuwa Bunmeidou",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "お前が1番　電話は2番\n3時のおやつは文明堂\n文明堂　文明堂\n3時のおやつは文明堂",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "",
+    "link_list": [
+        {
+            "title": "文明堂MIX",
+            "url": "https://www.tiktok.com/@zennipponchekitarinai/video/7264565974509178113"
+        }
     ]
   },
   {
@@ -7161,7 +7392,7 @@
     "link_list": []
   },
   {
-    "title": "ChapeToraTaiga [ チャペ虎タイガー ]",
+    "title": "ChapeToraTaiga [ チャペ虎タイガー ] [ チャペ可変MIX ]",
     "mix_tag_list": [
       "8小節",
       "9小節",
@@ -7170,18 +7401,23 @@
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "Sekaide Ichiban Aishiteru\n〇〇〇ni Sasageru ChapeToraTaiga\n_Chape Chape Chape Chape\n_Chape Chape Chape Chape\n_I Love You",
+        "text": "Sekaide Ichiban Aishiteru\n〇〇〇ni Sasageru ChapeToraTaiga\n_Chape Chape Chape Chape\n_Chape Chape Chape\n_I Love You",
         "notes": ""
       },
       {
         "lang": "日语",
-        "text": "世界で一番愛してる\n〇〇〇に捧げるチャペ虎タイガー\nチャペチャペチャペチャペ\nチャペチャペチャペチャペ\nI　LOVE　YOU",
+        "text": "世界で一番愛してる\n〇〇〇に捧げるチャペ虎タイガー\nチャペチャペチャペチャペ\nチャペチャペチャペ\nI　LOVE　YOU",
         "notes": ""
       }
     ],
     "text_list_size": 2,
-    "notes": "",
-    "link_list": []
+    "notes": "チャペ次数根据实际情况确定",
+    "link_list": [
+      {
+        "title": "チャペ可変MIX",
+        "url": "https://www.youtube.com/shorts/DSDIPBNw8ZU"
+      }
+    ]
   },
   {
     "title": "悲伤校准mix [ 悲キャリMIX ]",
@@ -8394,7 +8630,38 @@
     ],
     "text_list_size": 2,
     "notes": "",
-    "link_list": []
+    "link_list": [
+        {
+            "title": "落ちサビ口上からの世界平和mix",
+            "url": "https://www.tiktok.com/@zennipponchekitarinai/video/7291678161526410503"
+        }
+    ]
+  },
+  {
+    "title": "ひき肉MIX",
+    "mix_tag_list": [
+      "8小節"
+    ],
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "Cho Cho Chonmage Doumo Namazudesu\nMigiashi Bonjuuru Iso Ginchakudesu\nHikinikudesu Hikinikudesu Hikinikudesu Hikinikudesu\nHikinikudesu Hikinikudesu Hikinikudesu Hikinikudesu",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "ちょ　ちょ　ちょんまげ　どうもナマズです\n右足ボンジュール　イソギンチャクです\nひき肉です　ひき肉です　ひき肉です　ひき肉です\nひき肉です　ひき肉です　ひき肉です　ひき肉です",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "",
+    "link_list": [
+        {
+            "title": "【ひき肉MIX】 なんとかなーれファンファーレ",
+            "url": "https://www.bilibili.com/video/BV1SV411w7aT"
+        }
+    ]
   },
   {
     "title": "国木田花丸mix(般若心经+九字真言)",
@@ -9234,6 +9501,32 @@
     "link_list": []
   },
   {
+    "title": "ゆりこMIX",
+    "mix_tag_list": [
+      "16小節"
+    ],
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "U'HaiU'HaiU'HaiU'Hai\nA~Doyukoto?\nOkke Wakatta Roketto Sukeena\nA~Naruhodo Soyukoto?\nIine Iine Kawaiine\nNeesan Iiyo Kawaiiyo\nNaninomuno? Dashichauyo\nOrerato Isshoni (P) Kanpai",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "うーおいうーおいうーおいうーおい\nあ～どゆこと?\nOK(オッケー)　わかった　ロケット すけぇな\nあ～なるほど　そゆこと?\nいいね　いいね　可愛いね\n姉(ねえ)さん　いいよ　可愛いよ\n何飲むの?　出しちゃうよ\n俺らと一緒に　乾杯",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "",
+    "link_list": [
+      {
+        "title": "【コール·MIX】ゆりこMIX",
+        "url": "https://www.youtube.com/shorts/UqaudPn8qMI"
+      }
+    ]
+  },
+  {
     "title": "香槟call",
     "mix_tag_list": [
       "4小節",
@@ -9390,18 +9683,18 @@
   {
     "title": "日体大mix",
     "mix_tag_list": [
-      "10小節",
-      "12小節"
+      "8小節",
+      "10小節"
     ],
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "HaiHaiHaiHaiHaiHaiHaiHai\nRettsu gou Nittaidai\nNittaidai Nittaidai Nittaidai (U!)\nNittaidai Nittaidai Nittaidai (U!)\nNittaidai Nittaidai Nittaidai (U!)\nRettsu gou Nittaidai",
+        "text": "Rettsu gou Nittaidai\nNittaidai Nittaidai Nittaidai (U!)\nNittaidai Nittaidai Nittaidai (U!)\nNittaidai Nittaidai Nittaidai (U!)\nRettsu gou Nittaidai",
         "notes": ""
       },
       {
         "lang": "日语",
-        "text": "ハイハイハイハイハイハイハイハイ\nレッツゴー　日体大\n日体大　日体大　日体大（ウッ）\n日体大　日体大　日体大（ウッ）\n日体大　日体大　日体大（ウッ）\nレッツゴー　日体大",
+        "text": "レッツゴー　日体大\n日体大　日体大　日体大（ウッ）\n日体大　日体大　日体大（ウッ）\n日体大　日体大　日体大（ウッ）\nレッツゴー　日体大",
         "notes": ""
       }
     ],
@@ -9417,18 +9710,18 @@
   {
     "title": "日体大mix（萨莉亚ver）",
     "mix_tag_list": [
-      "10小節",
-      "12小節"
+      "8小節",
+      "10小節"
     ],
     "text_list": [
       {
         "lang": "罗马字",
-        "text": "HaiHaiHaiHaiHaiHaiHaiHai\nRettsu go- Saizeriya\nSaizeriya Saizeriya Saizeriya (U!)\nSaizeriya Saizeriya Saizeriya (U!)\nSaizeriya Saizeriya Saizeriya (U!)\nRettsu go- Saizeriya",
+        "text": "Rettsu go- Saizeriya\nSaizeriya Saizeriya Saizeriya (U!)\nSaizeriya Saizeriya Saizeriya (U!)\nSaizeriya Saizeriya Saizeriya (U!)\nRettsu go- Saizeriya",
         "notes": ""
       },
       {
         "lang": "日语",
-        "text": "ハイハイハイハイハイハイハイハイ\nレッツゴー　サイゼリヤ\nサイゼリヤ　サイゼリヤ　サイゼリヤ（ウッ）\nサイゼリヤ　サイゼリヤ　サイゼリヤ（ウッ）\nサイゼリヤ　サイゼリヤ　サイゼリヤ（ウッ）\nレッツゴー　サイゼリヤ",
+        "text": "レッツゴー　サイゼリヤ\nサイゼリヤ　サイゼリヤ　サイゼリヤ（ウッ）\nサイゼリヤ　サイゼリヤ　サイゼリヤ（ウッ）\nサイゼリヤ　サイゼリヤ　サイゼリヤ（ウッ）\nレッツゴー　サイゼリヤ",
         "notes": ""
       }
     ],
