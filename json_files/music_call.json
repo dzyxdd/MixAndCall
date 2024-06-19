@@ -3335,7 +3335,8 @@
     "version_list": [
       {
         "title": "长版",
-        "pic_list": [{
+        "pic_list": [
+          {
             "description": "2021菲诞--meto",
             "href": "../../../../call_image/meto/EP/那年夏天的吻（菲诞）.jpg"
           },
@@ -6307,6 +6308,202 @@
     ]
   },
   {
+    "title": "勇气重生",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "勇气重生--rainbow",
+            "href": "../../../../call_image/rainbow/勇气重生/勇气重生.jpg"
+          },
+          {
+            "description": "我的舞台修订版--dzydoom",
+            "href": "../../../../call_image/dzydoom/我的舞台/勇气重生.png"
+          },
+          {
+            "description": "我的舞台--小黄鞋",
+            "href": "../../../../call_image/1917小黄鞋/我的舞台/勇气重生.jpg"
+          },
+          {
+            "description": "我的舞台--神说要有鬼",
+            "href": "../../../../call_image/神说要有鬼/我的舞台/勇气重生.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "焕然一新",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "焕然一新--rainbow",
+            "href": "../../../../call_image/rainbow/勇气重生/焕然一新.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "能做你的女友吗",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "能做你的女友吗--rainbow",
+            "href": "../../../../call_image/rainbow/勇气重生/能做你的女友吗.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "呜吼吼",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "不造NIII--niiiyyh",
+            "href": "../../../../call_image/niiiyyh/不造NIII/唔吼吼.jpg"
+          },
+          {
+            "description": "呜吼吼--rainbow",
+            "href": "../../../../call_image/rainbow/勇气重生/呜吼吼.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "再见制服",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "启程NIII--rainbow",
+            "href": "../../../../call_image/rainbow/启程NIII/再见制服.jpg"
+          },
+          {
+            "description": "启程NIII--糖糖Tokiho",
+            "href": "../../../../call_image/Tokiho/启程NIII/再见制服.jpg"
+          },
+          {
+            "description": "不造Z--meto",
+            "href": "../../../../call_image/meto/不造Z/再见制服.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "王子殿下",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "王子殿下--rainbow",
+            "href": "../../../../call_image/rainbow/勇气重生/王子殿下.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "毒蜘蛛",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "毒蜘蛛--rainbow",
+            "href": "../../../../call_image/rainbow/勇气重生/毒蜘蛛.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "放手一搏",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "放手一搏--rainbow",
+            "href": "../../../../call_image/rainbow/勇气重生/放手一搏.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "白色情人节",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "白色情人节--rainbow",
+            "href": "../../../../call_image/rainbow/勇气重生/白色情人节.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "仰望星空",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "仰望星空--rainbow",
+            "href": "../../../../call_image/rainbow/勇气重生/仰望星空.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "日升日落",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "日升日落--rainbow",
+            "href": "../../../../call_image/rainbow/勇气重生/日升日落.jpg"
+          },
+          {
+            "description": "偶像DE研究计划--糖糖Tokiho",
+            "href": "../../../../call_image/Tokiho/偶研DE/日升日落.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "新的旅程",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "新的旅程--rainbow",
+            "href": "../../../../call_image/rainbow/勇气重生/新的旅程.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "Mute",
     "version_list": [
       {
@@ -6588,28 +6785,6 @@
     ]
   },
   {
-    "title": "再见制服",
-    "version_list": [
-      {
-        "title": "长版",
-        "pic_list": [
-          {
-            "description": "启程NIII--rainbow",
-            "href": "../../../../call_image/rainbow/启程NIII/再见制服.jpg"
-          },
-          {
-            "description": "启程NIII--糖糖Tokiho",
-            "href": "../../../../call_image/Tokiho/启程NIII/再见制服.jpg"
-          },
-          {
-            "description": "不造Z--meto",
-            "href": "../../../../call_image/meto/不造Z/再见制服.jpg"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "title": "如果你拥抱我",
     "version_list": [
       {
@@ -6850,28 +7025,6 @@
           {
             "description": "启程Z--rainbow",
             "href": "../../../../call_image/rainbow/启程Z/最美之人.jpg"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "勇气重生",
-    "version_list": [
-      {
-        "title": "长版",
-        "pic_list": [
-          {
-            "description": "我的舞台修订版--dzydoom",
-            "href": "../../../../call_image/dzydoom/我的舞台/勇气重生.png"
-          },
-          {
-            "description": "我的舞台--小黄鞋",
-            "href": "../../../../call_image/1917小黄鞋/我的舞台/勇气重生.jpg"
-          },
-          {
-            "description": "我的舞台--神说要有鬼",
-            "href": "../../../../call_image/神说要有鬼/我的舞台/勇气重生.jpg"
           }
         ]
       }
@@ -7145,20 +7298,6 @@
     ]
   },
   {
-    "title": "日升日落",
-    "version_list": [
-      {
-        "title": "长版",
-        "pic_list": [
-          {
-            "description": "偶像DE研究计划--糖糖Tokiho",
-            "href": "../../../../call_image/Tokiho/偶研DE/日升日落.jpg"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "title": "For the future",
     "version_list": [
       {
@@ -7337,164 +7476,6 @@
     ]
   },
   {
-    "title": "呜吼吼",
-    "version_list": [
-      {
-        "title": "长版",
-        "pic_list": [
-          {
-            "description": "不造NIII--niiiyyh",
-            "href": "../../../../call_image/niiiyyh/不造NIII/唔吼吼.jpg"
-          },
-          {
-            "description": "呜吼吼--rainbow",
-            "href": "../../../../call_image/rainbow/勇气重生/呜吼吼.jpg"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "焕然一新",
-    "version_list": [
-      {
-        "title": "长版",
-        "pic_list": [
-          {
-            "description": "焕然一新--rainbow",
-            "href": "../../../../call_image/rainbow/勇气重生/焕然一新.jpg"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "能做你的女友吗",
-    "version_list": [
-      {
-        "title": "长版",
-        "pic_list": [
-          {
-            "description": "能做你的女友吗--rainbow",
-            "href": "../../../../call_image/rainbow/勇气重生/能做你的女友吗.jpg"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "日升日落",
-    "version_list": [
-      {
-        "title": "长版",
-        "pic_list": [
-          {
-            "description": "日升日落--rainbow",
-            "href": "../../../../call_image/rainbow/勇气重生/日升日落.jpg"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "王子殿下",
-    "version_list": [
-      {
-        "title": "长版",
-        "pic_list": [
-          {
-            "description": "王子殿下--rainbow",
-            "href": "../../../../call_image/rainbow/勇气重生/王子殿下.jpg"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "新的旅程",
-    "version_list": [
-      {
-        "title": "长版",
-        "pic_list": [
-          {
-            "description": "新的旅程--rainbow",
-            "href": "../../../../call_image/rainbow/勇气重生/新的旅程.jpg"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "仰望星空",
-    "version_list": [
-      {
-        "title": "长版",
-        "pic_list": [
-          {
-            "description": "仰望星空--rainbow",
-            "href": "../../../../call_image/rainbow/勇气重生/仰望星空.jpg"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "勇气重生",
-    "version_list": [
-      {
-        "title": "长版",
-        "pic_list": [
-          {
-            "description": "勇气重生--rainbow",
-            "href": "../../../../call_image/rainbow/勇气重生/勇气重生.jpg"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "白色情人节",
-    "version_list": [
-      {
-        "title": "长版",
-        "pic_list": [
-          {
-            "description": "白色情人节--rainbow",
-            "href": "../../../../call_image/rainbow/勇气重生/白色情人节.jpg"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "毒蜘蛛",
-    "version_list": [
-      {
-        "title": "长版",
-        "pic_list": [
-          {
-            "description": "毒蜘蛛--rainbow",
-            "href": "../../../../call_image/rainbow/勇气重生/毒蜘蛛.jpg"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "放手一搏",
-    "version_list": [
-      {
-        "title": "长版",
-        "pic_list": [
-          {
-            "description": "放手一搏--rainbow",
-            "href": "../../../../call_image/rainbow/勇气重生/放手一搏.jpg"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "title": "DU-DU BABY",
     "version_list": [
       {
@@ -7555,7 +7536,8 @@
     "version_list": [
       {
         "title": "长版",
-        "pic_list": [{
+        "pic_list": [
+          {
             "description": "2021菲诞--meto",
             "href": "../../../../call_image/meto/EP/相遇的季节（菲诞）.jpg"
           },
