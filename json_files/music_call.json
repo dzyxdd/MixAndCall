@@ -349,6 +349,10 @@
           {
             "description": "应许之地--dz_zd",
             "href": "../../../../call_image/dzzd/应许之地/皆渡（莲）.jpg"
+          },
+          {
+            "description": "Baf2.0--dzydoom",
+            "href": "../../../../call_image/dzydoom/baf2.0/6_皆渡.png"
           }
         ]
       }
@@ -1051,6 +1055,10 @@
           {
             "description": "TeamCII--dzydoom",
             "href": "../../../../call_image/dzydoom/CGT遗忘的国度/新目的地.png"
+          },
+          {
+            "description": "Baf2.0--dzydoom",
+            "href": "../../../../call_image/dzydoom/baf2.0/15_新目的地.png"
           }
         ]
       }
@@ -3748,6 +3756,15 @@
             "href": "../../../../call_image/dzydoom/baf/Be a Fighter.png"
           }
         ]
+      },
+      {
+        "title": "短版",
+        "pic_list": [
+          {
+            "description": "Baf2.0--dzydoom",
+            "href": "../../../../call_image/dzydoom/baf2.0/1_B A Fighter【短版】.png"
+          }
+        ]
       }
     ]
   },
@@ -3778,6 +3795,10 @@
           {
             "description": "meto",
             "href": "../../../../call_image/meto/EP/速.jpg"
+          },
+          {
+            "description": "Baf2.0--dzydoom",
+            "href": "../../../../call_image/dzydoom/baf2.0/3_速.png"
           }
         ]
       }
@@ -3894,6 +3915,10 @@
           {
             "description": "baf--dzydoom",
             "href": "../../../../call_image/dzydoom/baf/华夏-紫禁城.png"
+          },
+          {
+            "description": "Baf2.0--dzydoom",
+            "href": "../../../../call_image/dzydoom/baf2.0/12_华夏-紫禁城.png"
           }
         ]
       }
@@ -3908,6 +3933,10 @@
           {
             "description": "baf--dzydoom",
             "href": "../../../../call_image/dzydoom/baf/If You.png"
+          },
+          {
+            "description": "Baf2.0--dzydoom",
+            "href": "../../../../call_image/dzydoom/baf2.0/13_If you.png"
           }
         ]
       }
@@ -3964,6 +3993,10 @@
           {
             "description": "baf--dzydoom",
             "href": "../../../../call_image/dzydoom/baf/爱与前方.png"
+          },
+          {
+            "description": "Baf2.0--dzydoom",
+            "href": "../../../../call_image/dzydoom/baf2.0/16_爱与前方.png"
           }
         ]
       }
@@ -5348,6 +5381,10 @@
           {
             "description": "TeamZ",
             "href": "../../../../call_image/好邻居老陈/三角函数/Z you again（See u Again）.jpg"
+          },
+          {
+            "description": "Baf2.0--dzydoom",
+            "href": "../../../../call_image/dzydoom/baf2.0/4_B You Again.png"
           }
         ]
       },
@@ -6216,6 +6253,10 @@
           {
             "description": "代号XII2.0--rainbow",
             "href": "../../../../call_image/rainbow/代号XII2.0/人间规则.jpg"
+          },
+          {
+            "description": "Baf2.0--dzydoom",
+            "href": "../../../../call_image/dzydoom/baf2.0/8_人间规则.png"
           }
         ]
       }
@@ -6392,6 +6433,10 @@
           {
             "description": "能做你的女友吗--rainbow",
             "href": "../../../../call_image/rainbow/勇气重生/能做你的女友吗.jpg"
+          },
+          {
+            "description": "Baf2.0--dzydoom",
+            "href": "../../../../call_image/dzydoom/baf2.0/7_能做你的女友吗.png"
           }
         ]
       }
@@ -6432,6 +6477,10 @@
           {
             "description": "不造Z--meto",
             "href": "../../../../call_image/meto/不造Z/再见制服.jpg"
+          },
+          {
+            "description": "Baf2.0--dzydoom",
+            "href": "../../../../call_image/dzydoom/baf2.0/10_再见制服.png"
           }
         ]
       }
@@ -8465,6 +8514,10 @@
           {
             "description": "战歌--rainbow",
             "href": "../../../../call_image/rainbow/第48区/战歌.jpg"
+          },
+          {
+            "description": "Baf2.0--dzydoom",
+            "href": "../../../../call_image/dzydoom/baf2.0/2_战歌.png"
           }
         ]
       }
@@ -8507,6 +8560,10 @@
           {
             "description": "粉红狙击手(长版)--rainbow",
             "href": "../../../../call_image/rainbow/第一人称/粉红狙击手(长版).jpg"
+          },
+          {
+            "description": "Baf2.0--dzydoom",
+            "href": "../../../../call_image/dzydoom/baf2.0/5_粉红狙击手.png"
           }
         ]
       },
@@ -8532,6 +8589,10 @@
             "href": "../../../../call_image/rainbow/重生计划/晨光.jpg"
           }
         ]
+      },
+      {
+        "description": "Baf2.0--dzydoom",
+        "href": "../../../../call_image/dzydoom/baf2.0/14_晨光.png"
       }
     ]
   },
@@ -8754,6 +8815,34 @@
           {
             "description": "双面偶像2.0--dzydoom",
             "href": "../../../../call_image/dzydoom/双面偶像2.0/13_公主披风.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "升温",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "Baf2.0--dzydoom",
+            "href": "../../../../call_image/dzydoom/baf2.0/9_升温.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "石头剪刀布",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "Baf2.0--dzydoom",
+            "href": "../../../../call_image/dzydoom/baf2.0/11_石头剪刀布.png"
           }
         ]
       }
