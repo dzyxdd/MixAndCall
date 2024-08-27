@@ -3435,6 +3435,10 @@
           {
             "description": "不造G--gyyh",
             "href": "../../../../call_image/gyyh/不造G/初夏之恋.jpg"
+          },
+          {
+            "description": "双面偶像2.0--dzydoom",
+            "href": "../../../../call_image/dzydoom/双面偶像2.0/2_初夏之恋.png"
           }
         ]
       },
@@ -3466,6 +3470,10 @@
           {
             "description": "不造G--gyyh",
             "href": "../../../../call_image/gyyh/不造G/Fly.jpg"
+          },
+          {
+            "description": "双面偶像2.0--dzydoom",
+            "href": "../../../../call_image/dzydoom/双面偶像2.0/3_Fly.png"
           }
         ]
       }
@@ -3568,6 +3576,10 @@
           {
             "description": "不造G--gyyh",
             "href": "../../../../call_image/gyyh/不造G/双面偶像.jpg"
+          },
+          {
+            "description": "双面偶像2.0--dzydoom",
+            "href": "../../../../call_image/dzydoom/双面偶像2.0/11_双面偶像.png"
           }
         ]
       }
@@ -3658,6 +3670,10 @@
           {
             "description": "不造G--gyyh",
             "href": "../../../../call_image/gyyh/不造G/遥远的爱.jpg"
+          },
+          {
+            "description": "双面偶像2.0--dzydoom",
+            "href": "../../../../call_image/dzydoom/双面偶像2.0/15_遥远的爱.png"
           }
         ]
       }
@@ -3694,6 +3710,10 @@
           {
             "description": "不造G--gyyh",
             "href": "../../../../call_image/gyyh/不造G/Gravity.jpg"
+          },
+          {
+            "description": "双面偶像2.0--dzydoom",
+            "href": "../../../../call_image/dzydoom/双面偶像2.0/12_Gravity.png"
           }
         ]
       }
@@ -4526,6 +4546,10 @@
           {
             "description": "NII专属派对--极梦",
             "href": "../../../../call_image/jm/NII专属派对/星愿.jpg"
+          },
+          {
+            "description": "双面偶像2.0--dzydoom",
+            "href": "../../../../call_image/dzydoom/双面偶像2.0/16_星愿.png"
           }
         ]
       }
@@ -5133,6 +5157,10 @@
         "title": "长版",
         "pic_list": [
           {
+            "description": "双面偶像2.0--dzydoom",
+            "href": "../../../../call_image/dzydoom/双面偶像2.0/14_Universe.png"
+          },
+          {
             "description": "TeamZ",
             "href": "../../../../call_image/好邻居老陈/三角函数/Universe.jpg"
           }
@@ -5429,6 +5457,10 @@
       {
         "title": "长版",
         "pic_list": [
+          {
+            "description": "双面偶像2.0--dzydoom",
+            "href": "../../../../call_image/dzydoom/双面偶像2.0/5_背水一战.png"
+          },
           {
             "description": "美丽世界--极梦",
             "href": "../../../../call_image/jm/美丽世界/背水一战.jpg"
@@ -6130,6 +6162,10 @@
           {
             "description": "代号XII2.0--rainbow",
             "href": "../../../../call_image/rainbow/代号XII2.0/完美超载.jpg"
+          },
+          {
+            "description": "双面偶像2.0--dzydoom",
+            "href": "../../../../call_image/dzydoom/双面偶像2.0/10_完美超载.png"
           }
         ]
       }
@@ -7910,6 +7946,15 @@
             "href": "../../../../call_image/Tokiho/偶研DE/盛夏好声音.jpg"
           }
         ]
+      },
+      {
+        "title": "短版",
+        "pic_list": [
+          {
+            "description": "双面偶像2.0--dzydoom",
+            "href": "../../../../call_image/dzydoom/双面偶像2.0/1_盛夏好声音（短版）.png"
+          }
+        ]
       }
     ]
   },
@@ -8248,6 +8293,10 @@
           {
             "description": "不造Z--meto",
             "href": "../../../../call_image/meto/不造Z/初恋小盗.jpg"
+          },
+          {
+            "description": "双面偶像2.0--dzydoom",
+            "href": "../../../../call_image/dzydoom/双面偶像2.0/7_初恋小盗.png"
           }
         ]
       }
@@ -8635,6 +8684,76 @@
           {
             "description": "钟声过后是新年--dzydoom",
             "href": "../../../../call_image/dzydoom/single/钟声过后是新年.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "无风岛屿",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "双面偶像2.0--dzydoom",
+            "href": "../../../../call_image/dzydoom/双面偶像2.0/4_无风岛屿.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "CRAZY FOR YOU",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "双面偶像2.0--dzydoom",
+            "href": "../../../../call_image/dzydoom/双面偶像2.0/6_CRAZY FOR YOU.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "蒲公英的脚印",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "双面偶像2.0--dzydoom",
+            "href": "../../../../call_image/dzydoom/双面偶像2.0/8_蒲公英的脚印.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "失忆（Unaware）",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "双面偶像2.0--dzydoom",
+            "href": "../../../../call_image/dzydoom/双面偶像2.0/9_失忆.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "公主披风",
+    "version_list": [
+      {
+        "title": "长版",
+        "pic_list": [
+          {
+            "description": "双面偶像2.0--dzydoom",
+            "href": "../../../../call_image/dzydoom/双面偶像2.0/13_公主披风.png"
           }
         ]
       }
