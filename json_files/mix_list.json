@@ -7318,6 +7318,38 @@
     "link_list": []
   },
   {
+    "title": "罗马mix+基督教mix",
+    "mix_tag_list": [
+      "12小節",
+      "14小節"
+    ],
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "ToraToraToraToraToraToraToraTora\nToraToraToraToraTo-ra-Shin-!\nkaiza sei oku furii\nnero sureiman konsutantin\nadamu iesu ibu ruuze\nmouze yuda koutennou\n(kami no fukuin tte shitteruu)",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "虎虎虎虎虎虎虎虎\n虎虎虎虎トラシン\nカイザー せい オク フリー\nネロ スレイマン コンスタンティン\nアダム イエス イブ ルーゼ\nモーゼ ユダ こうてんのう\n（神の福音って知ってるー？）",
+        "notes": ""
+      },
+      {
+        "lang": "中文",
+        "text": "虎虎虎虎虎虎虎虎\n虎虎虎虎 图拉真\n凯撒 圣座 屋大维 腓特烈\n尼禄 苏莱曼 君士坦丁\n亚当 耶稣 夏娃 Luce\n摩西 犹大 洪天王\n神之福音你知道吗？",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 3,
+    "notes": "",
+    "link_list": [
+      {
+        "title": "【コール】KiLLKiSS 应援指南（迫真）（精准空降）",
+        "url": "https://www.bilibili.com/video/BV12ak2YdEQr?t=70.2"
+      }
+    ]
+  },
+  {
     "title": "天神爱眼mix [ 天神愛眼MIX ]",
     "mix_tag_list": [
       "8小節"
@@ -10261,6 +10293,27 @@
     "text_list_size": 2,
     "notes": "",
     "link_list": []
+  },
+  {
+    "title": "社会主义核心价值观 mix",
+    "mix_tag_list": [
+      "8小節"
+    ],
+    "text_list": [
+      {
+        "lang": "中文",
+        "text": "_富强 民主 文明 和谐\n_自由 平等 公正 法制\n_爱国 敬业 诚信 友善\nP-P-PPP 社会主义好",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 1,
+    "notes": "",
+    "link_list": [
+      {
+        "title": "【コール】影色舞 应援指南（迫真）（精准空降）",
+        "url": "https://www.bilibili.com/video/BV1st4217763?t=76.9"
+      }
+    ]
   },
   {
     "title": "魂斗罗mix",
