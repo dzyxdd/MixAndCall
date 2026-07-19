@@ -1,0 +1,14 @@
+# Cloudflare Pages project (static Astro + /api/* Functions)
+name = "mixandcall"
+pages_build_output_dir = "./dist"
+compatibility_date = "2026-07-01"
+
+[[kv_namespaces]]
+binding = "SEARCH_INDEX"
+id = "68573bc0e83b4f0f9373d138c8c51885"
+
+[vars]
+GITHUB_REPO = "dzyxdd/MixAndCall"
+
+# Secrets (Pages):
+#   npx wrangler pages secret put GITHUB_TOKEN --project-name=mixandcall

@@ -1,0 +1,262 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SongLink from '../../components/SongLink.astro';
+import StageSongList from '../../components/StageSongList.astro';
+import { getReleases, getSongByTitle, getStages } from '../../lib/content';
+
+const stages = getStages().slice().sort((a, b) => (a.date < b.date ? 1 : -1));
+const releases = getReleases();
+const eps = releases.filter((r) => r.kind === 'ep' || r.kind === 'album');
+const singles = releases.filter((r) => r.kind === 'single-artist');
+---
+
+<BaseLayout title="曲库 · MixAndCall" current="songs">
+  <h1>曲库</h1>
+  <p class="lede">
+    公演曲 · EP/专辑 · 个人单曲
+    <span class="legend"><span class="legend-call">call</span> = 有 call 本 / 省流</span>
+  </p>
+
+  <nav class="catalog-nav" aria-label="曲库分类">
+    <a href="#stages">公演曲</a>
+    <a href="#releases">EP/专辑</a>
+    <a href="#singles">个人单曲</a>
+  </nav>
+
+  <section id="stages" class="catalog-section">
+    <h2>公演曲</h2>
+    <p class="hint">点公演展开曲目；带 call 标记的可进详情</p>
+    <StageSongList stages={stages} />
+  </section>
+
+  <section id="releases" class="catalog-section">
+    <h2>EP / 专辑</h2>
+    {
+      eps.map((release) => (
+        <details class="release-item">
+          <summary>
+            <span class="release-main">
+              <span class="release-title">{release.title}</span>
+              <span class="release-count">{release.song_title_list.length} 首</span>
+            </span>
+            <span class="release-meta">
+              {release.kind}
+              {release.date ? ` · ${release.date}` : ''}
+            </span>
+          </summary>
+          <ul class="song-grid">
+            {release.song_title_list.map((title) => {
+              const song = getSongByTitle(title);
+              return (
+                <li>
+                  <SongLink title={title} song={song} />
+                </li>
+              );
+            })}
+          </ul>
+        </details>
+      ))
+    }
+  </section>
+
+  <section id="singles" class="catalog-section">
+    <h2>个人单曲</h2>
+    {
+      singles.map((release) => (
+        <details class="release-item">
+          <summary>
+            <span class="release-main">
+              <span class="release-title">{release.title}</span>
+              <span class="release-count">{release.song_title_list.length} 首</span>
+            </span>
+            {release.date ? <span class="release-meta">{release.date}</span> : null}
+          </summary>
+          <ul class="song-grid">
+            {release.song_title_list.map((title) => {
+              const song = getSongByTitle(title);
+              return (
+                <li>
+                  <SongLink title={title} song={song} />
+                </li>
+              );
+            })}
+          </ul>
+        </details>
+      ))
+    }
+  </section>
+</BaseLayout>
+
+<style>
+  .lede {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.5rem 1rem;
+  }
+
+  .legend {
+    color: var(--muted);
+    font-size: 0.85rem;
+  }
+
+  .legend-call {
+    display: inline-block;
+    padding: 0.05rem 0.35rem;
+    border-radius: 0.3rem;
+    background: color-mix(in srgb, var(--accent) 16%, transparent);
+    color: var(--accent);
+    font-size: 0.68rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    vertical-align: 0.05em;
+  }
+
+  .catalog-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem;
+    margin: 0 0 1.15rem;
+    position: sticky;
+    top: 4.25rem;
+    z-index: 20;
+    padding: 0.35rem 0;
+    background: color-mix(in srgb, var(--bg) 92%, transparent);
+    backdrop-filter: blur(8px);
+  }
+
+  .catalog-nav a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: var(--touch);
+    padding: 0.4rem 1rem;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    background: var(--bg-elevated);
+    color: var(--ink);
+    font-weight: 600;
+    font-size: 0.9rem;
+    text-decoration: none;
+  }
+
+  .catalog-nav a:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+
+  .catalog-section {
+    margin-bottom: 1.75rem;
+    scroll-margin-top: 7.5rem;
+  }
+
+  .catalog-section h2 {
+    margin: 0 0 0.25rem;
+    font-size: 1.1rem;
+  }
+
+  .hint {
+    margin: 0 0 0.65rem;
+    color: var(--muted);
+    font-size: 0.85rem;
+  }
+
+  .release-item {
+    margin-bottom: 0.35rem;
+    border: 1px solid var(--line);
+    border-radius: 0.55rem;
+    background: var(--bg-elevated);
+    padding: 0 0.65rem;
+  }
+
+  .release-item summary {
+    cursor: pointer;
+    list-style: none;
+    padding: 0.55rem 0.1rem;
+    min-height: var(--touch);
+    display: grid;
+    align-content: center;
+    gap: 0.15rem;
+  }
+
+  .release-item summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .release-main {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.75rem;
+  }
+
+  .release-title {
+    font-weight: 700;
+    font-size: 0.95rem;
+    line-height: 1.3;
+  }
+
+  .release-count {
+    flex: 0 0 auto;
+    color: var(--muted);
+    font-size: 0.78rem;
+    font-weight: 600;
+  }
+
+  .release-meta {
+    color: var(--muted);
+    font-size: 0.78rem;
+    line-height: 1.3;
+  }
+
+  .song-grid {
+    list-style: none;
+    margin: 0 0 0.55rem;
+    padding: 0.15rem 0 0.35rem;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0.1rem 0.75rem;
+    border-top: 1px solid color-mix(in srgb, var(--line) 80%, transparent);
+  }
+
+  @media (min-width: 480px) {
+    .song-grid {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+
+  @media (min-width: 720px) {
+    .song-grid {
+      grid-template-columns: 1fr 1fr 1fr;
+    }
+  }
+
+  @media (min-width: 960px) {
+    #releases,
+    #singles {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0 0.75rem;
+      align-items: start;
+    }
+
+    #releases > h2,
+    #releases > .hint,
+    #singles > h2,
+    #singles > .hint {
+      grid-column: 1 / -1;
+    }
+
+    #releases .release-item[open],
+    #singles .release-item[open] {
+      grid-column: 1 / -1;
+    }
+  }
+
+  @media (min-width: 1200px) {
+    .song-grid {
+      grid-template-columns: repeat(4, 1fr);
+    }
+  }
+</style>

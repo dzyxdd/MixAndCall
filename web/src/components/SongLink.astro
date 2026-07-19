@@ -1,0 +1,75 @@
+---
+import type { Song } from '../lib/content';
+
+interface Props {
+  title: string;
+  song?: Song;
+  href?: string;
+}
+
+const { title, song, href } = Astro.props;
+const hasCall =
+  !!song &&
+  song.versions.some((v) => v.callbooks.length > 0 || (v.summary && Object.keys(v.summary).length > 0));
+const link = href ?? (song ? `/songs/${song.id}/` : undefined);
+---
+
+{
+  link ? (
+    <a class:list={['song-link', hasCall && 'song-link--call']} href={link}>
+      <span class="song-link__title">{title}</span>
+      {hasCall ? <span class="song-link__badge">call</span> : null}
+    </a>
+  ) : (
+    <span class="song-link song-link--missing">{title}</span>
+  )
+}
+
+<style>
+  .song-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    min-height: var(--touch);
+    padding: 0.25rem 0.35rem;
+    margin: 0 -0.35rem;
+    border-radius: 0.4rem;
+    color: var(--ink);
+    font-weight: 500;
+    font-size: 0.92rem;
+    line-height: 1.3;
+    text-decoration: none;
+  }
+
+  .song-link--call {
+    color: var(--accent);
+    font-weight: 700;
+  }
+
+  .song-link--call:hover {
+    background: color-mix(in srgb, var(--accent) 10%, transparent);
+  }
+
+  .song-link:not(.song-link--call):hover {
+    color: var(--accent);
+    background: color-mix(in srgb, var(--ink) 5%, transparent);
+  }
+
+  .song-link__badge {
+    flex: 0 0 auto;
+    padding: 0.08rem 0.35rem;
+    border-radius: 0.3rem;
+    background: color-mix(in srgb, var(--accent) 16%, transparent);
+    color: var(--accent);
+    font-size: 0.68rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    line-height: 1.2;
+  }
+
+  .song-link--missing {
+    color: var(--muted);
+    font-weight: 400;
+  }
+</style>

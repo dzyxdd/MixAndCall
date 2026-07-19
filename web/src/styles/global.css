@@ -1,0 +1,285 @@
+@font-face {
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/ibm-plex-sans-latin-400-normal.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+    U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193,
+    U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("/fonts/ibm-plex-sans-latin-600-normal.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+    U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193,
+    U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/ibm-plex-sans-latin-700-normal.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+    U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193,
+    U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+:root {
+  --bg: #f6f3ee;
+  --bg-elevated: #fffdf9;
+  --ink: #1c1a17;
+  --muted: #5c574f;
+  --accent: #0b6e4f;
+  --accent-ink: #f4fff9;
+  --line: #d9d2c5;
+  --touch: 44px;
+  --font: "IBM Plex Sans", "Noto Sans SC", "PingFang SC", "Microsoft YaHei",
+    sans-serif;
+  /* 手机阅读宽；桌面壳层随断点放宽 */
+  --shell-max: 42rem;
+  --pad-x: 1rem;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  color: var(--ink);
+  background:
+    radial-gradient(120% 80% at 10% -10%, #e7f2ec 0%, transparent 55%),
+    radial-gradient(90% 60% at 100% 0%, #f3e7d8 0%, transparent 50%),
+    var(--bg);
+  font-family: var(--font);
+  line-height: 1.55;
+  scrollbar-gutter: stable;
+}
+
+body {
+  margin: 0;
+  min-height: 100dvh;
+}
+
+a {
+  color: var(--accent);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.15em;
+}
+
+.shell {
+  width: min(100%, var(--shell-max));
+  margin: 0 auto;
+  padding: 0.75rem var(--pad-x) 5.5rem;
+}
+
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 30;
+  margin: 0 calc(-1 * var(--pad-x)) 1rem;
+  padding: 0.65rem var(--pad-x) 0.75rem;
+  background: color-mix(in srgb, var(--bg) 88%, transparent);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid color-mix(in srgb, var(--line) 70%, transparent);
+}
+
+/* 窄屏默认：品牌 + 搜索；主导航用底部 tab */
+.header-bar {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-areas:
+    'brand'
+    'search';
+  gap: 0.55rem;
+  align-items: center;
+}
+
+.brand {
+  grid-area: brand;
+  font-size: 1.25rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.top-nav {
+  display: none;
+  grid-area: nav;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 0.2rem;
+  min-width: 0;
+}
+
+.top-nav a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 auto;
+  min-height: var(--touch);
+  padding: 0.35rem 0.75rem;
+  border-radius: 0.5rem;
+  color: var(--muted);
+  text-decoration: none;
+  font-size: 0.92rem;
+  font-weight: 600;
+}
+
+.top-nav a:hover {
+  color: var(--accent);
+  background: color-mix(in srgb, var(--accent) 8%, transparent);
+}
+
+.top-nav a[aria-current='page'] {
+  color: var(--accent);
+  background: color-mix(in srgb, var(--accent) 12%, transparent);
+}
+
+.header-search {
+  grid-area: search;
+  min-width: 0;
+}
+
+.site-main {
+  width: 100%;
+  min-width: 0;
+}
+
+.site-main h1 {
+  font-size: clamp(1.6rem, 4vw, 2rem);
+  line-height: 1.2;
+  margin: 0 0 0.75rem;
+}
+
+.lede {
+  color: var(--muted);
+  margin: 0 0 1.25rem;
+}
+
+.entry-grid {
+  display: grid;
+  gap: 0.75rem;
+}
+
+.entry-card {
+  display: block;
+  min-height: var(--touch);
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--line);
+  border-radius: 0.75rem;
+  background: var(--bg-elevated);
+  color: var(--ink);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.entry-card span {
+  display: block;
+  margin-top: 0.25rem;
+  font-weight: 400;
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.bottom-nav {
+  position: fixed;
+  inset: auto 0 0;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.25rem;
+  padding: 0.5rem 0.5rem calc(0.5rem + env(safe-area-inset-bottom));
+  border-top: 1px solid var(--line);
+  background: color-mix(in srgb, var(--bg-elevated) 92%, transparent);
+  backdrop-filter: blur(8px);
+  z-index: 30;
+}
+
+.bottom-nav a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: var(--touch);
+  color: var(--muted);
+  text-decoration: none;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.bottom-nav a[aria-current='page'] {
+  color: var(--accent);
+}
+
+/* 平板 / 小桌面 */
+@media (min-width: 720px) {
+  :root {
+    --shell-max: 48rem;
+    --pad-x: 1.5rem;
+  }
+
+  .shell {
+    padding-bottom: 2.5rem;
+  }
+
+  .header-bar {
+    grid-template-columns: 1fr minmax(12rem, 20rem);
+    grid-template-areas:
+      'brand search'
+      'nav nav';
+    gap: 0.55rem 1rem;
+  }
+
+  .top-nav {
+    display: flex;
+    justify-content: flex-start;
+  }
+
+  .bottom-nav {
+    display: none;
+  }
+
+  .entry-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+/* 桌面：顶栏单行 + 更宽内容区 */
+@media (min-width: 960px) {
+  :root {
+    --shell-max: 64rem;
+    --pad-x: 1.75rem;
+  }
+
+  .header-bar {
+    grid-template-columns: auto minmax(0, 1fr) minmax(14rem, 22rem);
+    grid-template-areas: 'brand nav search';
+    align-items: center;
+  }
+
+  .top-nav {
+    justify-content: center;
+  }
+}
+
+/* 宽屏：充分利用横向空间 */
+@media (min-width: 1200px) {
+  :root {
+    --shell-max: 76rem;
+    --pad-x: 2rem;
+  }
+}
+
+@media (min-width: 1440px) {
+  :root {
+    --shell-max: 88rem;
+  }
+}

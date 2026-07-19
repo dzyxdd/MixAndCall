@@ -1,0 +1,51 @@
+---
+interface Props {
+  targetId: string;
+  label?: string;
+}
+const { targetId, label = '复制' } = Astro.props;
+---
+
+<button type="button" class="copy-btn" data-copy-target={targetId}>{label}</button>
+
+<script>
+  document.querySelectorAll<HTMLButtonElement>('.copy-btn').forEach((btn) => {
+    btn.addEventListener('click', async (event) => {
+      event.preventDefault();
+      event.stopPropagation();
+      const id = btn.dataset.copyTarget;
+      const el = id ? document.getElementById(id) : null;
+      const text = el?.textContent ?? '';
+      try {
+        await navigator.clipboard.writeText(text);
+        btn.textContent = '已复制';
+        setTimeout(() => {
+          btn.textContent = '复制';
+        }, 1200);
+      } catch {
+        btn.textContent = '失败';
+      }
+    });
+  });
+</script>
+
+<style>
+  .copy-btn {
+    min-height: var(--touch);
+    min-width: var(--touch);
+    padding: 0.4rem 0.9rem;
+    border: 1px solid var(--line);
+    border-radius: 0.55rem;
+    background: var(--bg-elevated);
+    color: var(--ink);
+    font: inherit;
+    font-size: 0.9rem;
+    font-weight: 600;
+    cursor: pointer;
+  }
+
+  .copy-btn:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+</style>

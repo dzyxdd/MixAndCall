@@ -1,0 +1,19 @@
+name = "mixandcall-api"
+main = "src/index.ts"
+compatibility_date = "2026-07-01"
+
+# Create with: npm run cf:kv --workspace=workers
+# then paste the id below (and preview_id if you use preview envs).
+[[kv_namespaces]]
+binding = "SEARCH_INDEX"
+id = "68573bc0e83b4f0f9373d138c8c51885"
+# preview_id = "REPLACE_PREVIEW_AFTER_CREATE"
+
+[vars]
+# Non-secret defaults. Override GITHUB_REPO via `wrangler secret` only if needed.
+GITHUB_REPO = "dzyxdd/MixAndCall"
+
+# Secrets (set once after login, never commit):
+#   npx wrangler secret put GITHUB_TOKEN
+# Optional override:
+#   npx wrangler secret put GITHUB_REPO

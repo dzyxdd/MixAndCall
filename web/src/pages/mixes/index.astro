@@ -1,0 +1,400 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getMixes } from '../../lib/content';
+
+const mixes = getMixes();
+const tags = [...new Set(mixes.flatMap((m) => m.mix_tag_list))].sort((a, b) =>
+  a.localeCompare(b, 'zh'),
+);
+---
+
+<BaseLayout title="call&mix · MixAndCall" current="mixes">
+  <h1>mix &amp;&amp; コール</h1>
+
+  <div class="filter" data-mix-filter>
+    <label class="filter-label" for="mix-tag-select">筛选</label>
+    <select id="mix-tag-select" class="filter-select" aria-label="按标签筛选 mix">
+      <option value="*" selected>全部标签</option>
+      {tags.map((tag) => <option value={tag}>{tag}</option>)}
+    </select>
+
+    <details class="filter-more">
+      <summary>快捷标签</summary>
+      <div class="tags" id="tag-bar" role="group" aria-label="快捷标签">
+        <button type="button" class="tag active" data-tag="*">全部</button>
+        {
+          tags.map((tag) => (
+            <button type="button" class="tag" data-tag={tag}>
+              {tag}
+            </button>
+          ))
+        }
+      </div>
+    </details>
+  </div>
+
+  <ul class="list" id="mix-list">
+    {
+      mixes.map((mix) => (
+        <li class="mix-card" data-tags={mix.mix_tag_list.join('|')}>
+          <details class="mix-item" data-mix-id={mix.id}>
+            <summary>
+              <span class="mix-title">{mix.title}</span>
+              <span class="mix-meta">{mix.mix_tag_list.join(' · ')}</span>
+            </summary>
+            <div class="mix-body">
+              <div class="mix-lazy" data-mix-lazy>
+                <p class="mix-lazy-status">展开后加载正文…</p>
+              </div>
+              <a class="full-link" href={`/mixes/${mix.id}/`}>
+                打开完整页
+              </a>
+            </div>
+          </details>
+        </li>
+      ))
+    }
+  </ul>
+</BaseLayout>
+
+<script>
+  const select = document.querySelector<HTMLSelectElement>('#mix-tag-select');
+  const bar = document.getElementById('tag-bar');
+  const list = document.getElementById('mix-list');
+  const cards = [...document.querySelectorAll<HTMLElement>('.mix-card')];
+
+  function applyTag(tag: string) {
+    for (const card of cards) {
+      const tags = (card.dataset.tags ?? '').split('|').filter(Boolean);
+      card.hidden = !(tag === '*' || tags.includes(tag));
+    }
+    if (select) select.value = tag;
+    bar?.querySelectorAll('.tag').forEach((el) => {
+      el.classList.toggle('active', (el as HTMLElement).dataset.tag === tag);
+    });
+  }
+
+  select?.addEventListener('change', () => {
+    applyTag(select.value || '*');
+  });
+
+  bar?.addEventListener('click', (ev) => {
+    const btn = (ev.target as HTMLElement).closest<HTMLButtonElement>('button[data-tag]');
+    if (!btn) return;
+    applyTag(btn.dataset.tag ?? '*');
+  });
+
+  type MixPayload = {
+    id: string;
+    text_list: Array<{ lang: string; text: string; notes?: string }>;
+  };
+
+  function escapeHtml(s: string) {
+    return s
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;');
+  }
+
+  function renderTexts(mixId: string, textList: MixPayload['text_list']) {
+    const parts = textList.map((item, i) => {
+      const id = `${mixId}-text-${i}`;
+      const notes = item.notes
+        ? `<p class="notes">${escapeHtml(item.notes)}</p>`
+        : '';
+      return `<details class="mix-block"${i === 0 ? ' open' : ''}>
+        <summary>
+          <span>${escapeHtml(item.lang)}</span>
+          <button type="button" class="copy-btn" data-copy-target="${escapeHtml(id)}">复制</button>
+        </summary>
+        <pre id="${escapeHtml(id)}" class="mix-pre">${escapeHtml(item.text)}</pre>
+        ${notes}
+      </details>`;
+    });
+    return `<div class="mix-texts mix-texts--embed">${parts.join('')}</div>`;
+  }
+
+  async function loadMixBody(details: HTMLDetailsElement) {
+    const mixId = details.dataset.mixId;
+    const slot = details.querySelector<HTMLElement>('[data-mix-lazy]');
+    if (!mixId || !slot || slot.dataset.loaded === '1' || slot.dataset.loading === '1') return;
+
+    slot.dataset.loading = '1';
+    slot.innerHTML = '<p class="mix-lazy-status">加载中…</p>';
+
+    try {
+      const res = await fetch(`/data/mixes/${encodeURIComponent(mixId)}.json`);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const data = (await res.json()) as MixPayload;
+      slot.innerHTML = renderTexts(mixId, data.text_list ?? []);
+      slot.dataset.loaded = '1';
+    } catch {
+      slot.innerHTML = `<p class="mix-lazy-error">正文加载失败，请打开完整页查看。</p>`;
+    } finally {
+      delete slot.dataset.loading;
+    }
+  }
+
+  list?.addEventListener('toggle', (ev) => {
+    const details = (ev.target as HTMLElement).closest<HTMLDetailsElement>('details.mix-item');
+    if (!details?.open) return;
+    void loadMixBody(details);
+  }, true);
+
+  list?.addEventListener('click', async (ev) => {
+    const btn = (ev.target as HTMLElement).closest<HTMLButtonElement>('.copy-btn');
+    if (!btn || !list.contains(btn)) return;
+    ev.preventDefault();
+    ev.stopPropagation();
+    const id = btn.dataset.copyTarget;
+    const el = id ? document.getElementById(id) : null;
+    const text = el?.textContent ?? '';
+    try {
+      await navigator.clipboard.writeText(text);
+      btn.textContent = '已复制';
+      setTimeout(() => {
+        btn.textContent = '复制';
+      }, 1200);
+    } catch {
+      btn.textContent = '失败';
+    }
+  });
+</script>
+
+<style>
+  .filter {
+    display: grid;
+    gap: 0.55rem;
+    margin-bottom: 1rem;
+    min-width: 0;
+    max-width: 100%;
+  }
+
+  .filter-label {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+  }
+
+  .filter-select {
+    width: 100%;
+    min-height: var(--touch);
+    padding: 0.55rem 0.9rem;
+    border: 1px solid var(--line);
+    border-radius: 0.55rem;
+    background: var(--bg-elevated);
+    color: var(--ink);
+    font: inherit;
+    font-weight: 600;
+  }
+
+  .filter-more {
+    border: 1px solid var(--line);
+    border-radius: 0.55rem;
+    background: var(--bg-elevated);
+    padding: 0 0.75rem;
+    min-width: 0;
+    max-width: 100%;
+    overflow: hidden;
+  }
+
+  .filter-more summary {
+    cursor: pointer;
+    list-style: none;
+    min-height: var(--touch);
+    display: flex;
+    align-items: center;
+    font-weight: 600;
+    font-size: 0.9rem;
+    color: var(--muted);
+  }
+
+  .filter-more summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .filter-more[open] summary {
+    color: var(--ink);
+    border-bottom: 1px solid color-mix(in srgb, var(--line) 80%, transparent);
+  }
+
+  .tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin: 0.55rem 0 0.75rem;
+    min-width: 0;
+    max-width: 100%;
+  }
+
+  .tag {
+    flex: 0 1 auto;
+    min-height: var(--touch);
+    max-width: 100%;
+    padding: 0.35rem 0.85rem;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    background: var(--bg);
+    font: inherit;
+    font-size: 0.9rem;
+    font-weight: 600;
+    cursor: pointer;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .tag.active {
+    border-color: var(--accent);
+    color: var(--accent);
+    background: color-mix(in srgb, var(--accent) 10%, var(--bg-elevated));
+  }
+
+  .list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    gap: 0.35rem;
+  }
+
+  @media (min-width: 960px) {
+    .list {
+      grid-template-columns: 1fr 1fr;
+      gap: 0.45rem 0.75rem;
+    }
+
+    .mix-card:has(.mix-item[open]) {
+      grid-column: 1 / -1;
+    }
+  }
+
+  .mix-item {
+    border: 1px solid var(--line);
+    border-radius: 0.55rem;
+    background: var(--bg-elevated);
+    padding: 0 0.75rem;
+  }
+
+  .mix-item > summary {
+    cursor: pointer;
+    list-style: none;
+    min-height: var(--touch);
+    padding: 0.55rem 0.1rem;
+    display: grid;
+    align-content: center;
+    gap: 0.15rem;
+  }
+
+  .mix-item > summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .mix-title {
+    font-weight: 700;
+    font-size: 0.98rem;
+    line-height: 1.3;
+  }
+
+  .mix-meta {
+    color: var(--muted);
+    font-size: 0.8rem;
+    line-height: 1.3;
+  }
+
+  .mix-body {
+    padding: 0.15rem 0 0.85rem;
+    border-top: 1px solid color-mix(in srgb, var(--line) 80%, transparent);
+    min-width: 0;
+  }
+
+  .mix-lazy-status,
+  .mix-lazy-error {
+    margin: 0.5rem 0;
+    color: var(--muted);
+    font-size: 0.9rem;
+  }
+
+  .mix-lazy-error {
+    color: #a33;
+  }
+
+  .mix-block {
+    margin-bottom: 0.75rem;
+    border: 1px solid var(--line);
+    border-radius: 0.75rem;
+    background: var(--bg);
+    padding: 0.5rem 0.75rem;
+  }
+
+  .mix-block > summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem;
+    cursor: pointer;
+    font-weight: 600;
+    min-height: var(--touch);
+    list-style: none;
+  }
+
+  .mix-block > summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .mix-pre {
+    white-space: pre-wrap;
+    word-break: break-word;
+    margin: 0.5rem 0 0;
+    font-family: ui-monospace, 'IBM Plex Mono', Consolas, monospace;
+    font-size: 0.92rem;
+  }
+
+  .notes {
+    color: var(--muted);
+    font-size: 0.9rem;
+  }
+
+  .copy-btn {
+    min-height: var(--touch);
+    min-width: var(--touch);
+    padding: 0.4rem 0.9rem;
+    border: 1px solid var(--line);
+    border-radius: 0.55rem;
+    background: var(--bg-elevated);
+    color: var(--ink);
+    font: inherit;
+    font-size: 0.9rem;
+    font-weight: 600;
+    cursor: pointer;
+  }
+
+  .copy-btn:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+
+  .full-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: var(--touch);
+    margin-top: 0.35rem;
+    padding: 0.4rem 0.95rem;
+    border: 1px solid var(--line);
+    border-radius: 0.55rem;
+    background: var(--bg);
+    color: var(--ink);
+    font-weight: 600;
+    font-size: 0.9rem;
+    text-decoration: none;
+  }
+
+  .full-link:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+</style>

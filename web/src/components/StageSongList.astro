@@ -1,0 +1,168 @@
+---
+import SongLink from './SongLink.astro';
+import { getSongByTitle, type Stage } from '../lib/content';
+
+interface Props {
+  stages: Stage[];
+}
+
+const { stages } = Astro.props;
+
+const rows = stages.map((stage) => ({
+  stage,
+  songs: stage.song_title_list.map((title) => ({
+    title,
+    song: getSongByTitle(title),
+  })),
+}));
+---
+
+<ul class="stage-list" data-stage-list>
+  {
+    rows.map(({ stage, songs }) => {
+      const label = encodeURIComponent(stage.title);
+      return (
+        <li>
+          <details class="stage-item" id={`stage-${stage.id}`} data-stage-id={stage.id}>
+            <summary>
+              <span class="stage-main">
+                <span class="stage-title">{stage.title}</span>
+                <span class="stage-count">{songs.length} 首</span>
+              </span>
+              <span class="stage-meta">
+                {stage.team} · {stage.type} · {stage.date}
+              </span>
+            </summary>
+            <ul class="song-grid">
+              {songs.map((row) => (
+                <li>
+                  <SongLink
+                    title={row.title}
+                    song={row.song}
+                    href={
+                      row.song
+                        ? `/songs/${row.song.id}/?from=stage&id=${stage.id}&label=${label}`
+                        : undefined
+                    }
+                  />
+                </li>
+              ))}
+            </ul>
+          </details>
+        </li>
+      );
+    })
+  }
+</ul>
+
+<script>
+  const list = document.querySelector('[data-stage-list]');
+  if (list) {
+    const openFromLocation = () => {
+      const hash = window.location.hash.replace(/^#/, '');
+      if (!hash.startsWith('stage-')) return;
+      const el = document.getElementById(hash);
+      if (!(el instanceof HTMLDetailsElement)) return;
+      el.open = true;
+      el.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+    };
+    openFromLocation();
+    window.addEventListener('hashchange', openFromLocation);
+  }
+</script>
+
+<style>
+  .stage-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    gap: 0.35rem;
+  }
+
+  @media (min-width: 960px) {
+    .stage-list {
+      grid-template-columns: 1fr 1fr;
+      gap: 0.45rem 0.75rem;
+    }
+
+    .stage-item[open] {
+      grid-column: 1 / -1;
+    }
+  }
+
+  .stage-item {
+    border: 1px solid var(--line);
+    border-radius: 0.55rem;
+    background: var(--bg-elevated);
+    padding: 0 0.65rem;
+  }
+
+  .stage-item summary {
+    cursor: pointer;
+    list-style: none;
+    padding: 0.55rem 0.1rem;
+    min-height: var(--touch);
+    display: grid;
+    align-content: center;
+    gap: 0.15rem;
+  }
+
+  .stage-item summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .stage-main {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.75rem;
+  }
+
+  .stage-title {
+    font-weight: 700;
+    font-size: 0.95rem;
+    line-height: 1.3;
+  }
+
+  .stage-count {
+    flex: 0 0 auto;
+    color: var(--muted);
+    font-size: 0.78rem;
+    font-weight: 600;
+  }
+
+  .stage-meta {
+    color: var(--muted);
+    font-size: 0.78rem;
+    line-height: 1.3;
+  }
+
+  .song-grid {
+    list-style: none;
+    margin: 0 0 0.55rem;
+    padding: 0.15rem 0 0.35rem;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0.1rem 0.75rem;
+    border-top: 1px solid color-mix(in srgb, var(--line) 80%, transparent);
+  }
+
+  @media (min-width: 480px) {
+    .song-grid {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+
+  @media (min-width: 720px) {
+    .song-grid {
+      grid-template-columns: 1fr 1fr 1fr;
+    }
+  }
+
+  @media (min-width: 1200px) {
+    .song-grid {
+      grid-template-columns: repeat(4, 1fr);
+    }
+  }
+</style>

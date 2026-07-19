@@ -1,0 +1,81 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SongLink from '../../components/SongLink.astro';
+import Subnav from '../../components/Subnav.astro';
+import { getStage, getStages, getSongByTitle } from '../../lib/content';
+
+export function getStaticPaths() {
+  return getStages().map((stage) => ({ params: { id: stage.id } }));
+}
+
+const { id } = Astro.params;
+const stage = getStage(id!);
+if (!stage) throw new Error(`stage not found: ${id}`);
+
+const rows = stage.song_title_list.map((title) => {
+  const song = getSongByTitle(title);
+  return { title, song };
+});
+
+const stageLabel = encodeURIComponent(stage.title);
+---
+
+<BaseLayout title={`${stage.title} · MixAndCall`} current="songs">
+  <Subnav backHref="/songs/#stages" backLabel="曲库" />
+  <h1>{stage.title}</h1>
+  <p class="lede">{stage.team} · {stage.type} · {stage.date}</p>
+  {stage.notes ? <p class="notes">{stage.notes}</p> : null}
+  <p class="hint">
+    <a href={`/songs/#stage-${stage.id}`}>在曲库中展开本场</a>
+  </p>
+  <ul class="song-grid">
+    {
+      rows.map((row) => (
+        <li>
+          <SongLink
+            title={row.title}
+            song={row.song}
+            href={
+              row.song
+                ? `/songs/${row.song.id}/?from=stage&id=${stage.id}&label=${stageLabel}`
+                : undefined
+            }
+          />
+        </li>
+      ))
+    }
+  </ul>
+</BaseLayout>
+
+<style>
+  .notes {
+    color: var(--muted);
+  }
+  .hint {
+    margin: 0 0 1rem;
+    font-size: 0.9rem;
+  }
+  .hint a {
+    display: inline-flex;
+    align-items: center;
+    min-height: var(--touch);
+  }
+  .song-grid {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0.1rem 0.75rem;
+  }
+  @media (min-width: 480px) {
+    .song-grid {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+  @media (min-width: 720px) {
+    .song-grid {
+      grid-template-columns: 1fr 1fr 1fr;
+    }
+  }
+</style>

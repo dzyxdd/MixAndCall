@@ -1,0 +1,52 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import MixText from '../../components/MixText.astro';
+import Subnav from '../../components/Subnav.astro';
+import { getMix, getMixes } from '../../lib/content';
+
+export function getStaticPaths() {
+  return getMixes().map((mix) => ({ params: { id: mix.id } }));
+}
+
+const { id } = Astro.params;
+const mix = getMix(id!);
+if (!mix) throw new Error(`mix not found: ${id}`);
+---
+
+<BaseLayout title={`${mix.title} · MixAndCall`} current="mixes">
+  <Subnav backHref="/mixes/" backLabel="mix" />
+  <h1>{mix.title}</h1>
+  <p class="tags">{mix.mix_tag_list.join(' · ')}</p>
+  <MixText mixId={mix.id} textList={mix.text_list} variant="page" />
+  {mix.notes ? <p class="notes">{mix.notes}</p> : null}
+  {
+    mix.link_list?.length ? (
+      <section class="refs">
+        <h2>参考资料</h2>
+        <ul>
+          {mix.link_list.map((link) => (
+            <li>
+              <a href={link.url} target="_blank" rel="noopener">
+                {link.title || link.url}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    ) : null
+  }
+</BaseLayout>
+
+<style>
+  .tags,
+  .notes {
+    color: var(--muted);
+  }
+  .refs {
+    margin-top: 1.5rem;
+  }
+  .refs h2 {
+    margin: 0 0 0.5rem;
+    font-size: 1.05rem;
+  }
+</style>

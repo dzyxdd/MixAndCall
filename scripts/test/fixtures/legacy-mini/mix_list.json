@@ -1,0 +1,24 @@
+[
+  {
+    "title": "英语mix [ スタンダードmix ]",
+    "mix_tag_list": ["言语mix", "8小節"],
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "Taiga Faiya",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 1,
+    "notes": "",
+    "link_list": []
+  },
+  {
+    "title": "测试mix二",
+    "mix_tag_list": ["恋口上"],
+    "text_list": [{ "lang": "日语", "text": "テスト", "notes": "" }],
+    "text_list_size": 1,
+    "notes": "",
+    "link_list": []
+  }
+]

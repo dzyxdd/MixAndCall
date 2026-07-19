@@ -1,0 +1,24 @@
+{
+  "name": "mixandcall",
+  "private": true,
+  "workspaces": [
+    "web",
+    "workers",
+    "scripts"
+  ],
+  "scripts": {
+    "migrate": "npm run migrate -w scripts",
+    "validate": "npm run validate -w scripts",
+    "build:index": "npm run build-index -w scripts",
+    "dev": "npm run dev -w web",
+    "build": "npm run validate && npm run build:index && npm run build -w web",
+    "build:web": "npm run build:index && npm run build -w web",
+    "test": "npm run test -w scripts",
+    "cf:login": "npm exec --workspace=workers -- wrangler login",
+    "cf:setup": "node scripts/cf-setup.mjs",
+    "cf:deploy": "node scripts/cf-setup.mjs --deploy"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

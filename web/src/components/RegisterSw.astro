@@ -1,0 +1,11 @@
+---
+const enabled = import.meta.env.PROD;
+---
+
+{enabled ? (
+  <script is:inline>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('/sw.js').catch(() => {});
+    }
+  </script>
+) : null}

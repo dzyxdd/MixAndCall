@@ -1,0 +1,33 @@
+# IDE
+.idea
+*.iml
+out
+gen
+
+# Dependencies / build
+node_modules
+dist
+.astro
+.wrangler
+.cloudflare
+.dev.vars
+.DS_Store
+.cache
+
+# Local tooling / isolation
+.worktrees
+.superpowers
+
+# Generated at build time (not source of truth)
+content/.migrate-report.json
+web/public/assets
+web/public/data
+web/public/search-index.json
+workers/data/search-index.json
+
+# Design / planning docs — keep locally & in archives; do not publish
+docs/superpowers/
+
+# Local archives (full snapshots live outside the repo)
+archives/
+*.zip

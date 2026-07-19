@@ -1,0 +1,59 @@
+---
+import type { CallBookRef } from '../lib/content';
+import { assetUrl, previewAssetUrl } from '../lib/assetUrl';
+
+interface Props {
+  book: CallBookRef;
+  /** Prefer eager load for the first visible callbook image on a page. */
+  priority?: boolean;
+}
+const { book, priority = false } = Astro.props;
+const href = book.format === 'image' ? assetUrl(book.src) : '';
+const previewHref = book.format === 'image' ? previewAssetUrl(book.src) : '';
+---
+
+<figure class="callbook">
+  <figcaption>{book.description || 'call本'}</figcaption>
+  {
+    book.format === 'image' ? (
+      <a href={href} target="_blank" rel="noopener">
+        <img
+          src={previewHref}
+          data-fallback={href}
+          alt={book.description || 'call本'}
+          loading={priority ? 'eager' : 'lazy'}
+          decoding="async"
+          fetchpriority={priority ? 'high' : 'auto'}
+          onerror="if(this.dataset.fallback&&this.src!==this.dataset.fallback){this.src=this.dataset.fallback}"
+        />
+      </a>
+    ) : (
+      <p class="placeholder">文本 call 本（{book.format}）待录入：{book.path}</p>
+    )
+  }
+</figure>
+
+<style>
+  .callbook {
+    margin: 0 0 1.25rem;
+    padding: 0.75rem;
+    border: 1px solid var(--line);
+    border-radius: 0.75rem;
+    background: var(--bg-elevated);
+  }
+  figcaption {
+    margin-bottom: 0.5rem;
+    color: var(--muted);
+    font-size: 0.9rem;
+  }
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 0.35rem;
+  }
+  .placeholder {
+    margin: 0;
+    color: var(--muted);
+  }
+</style>

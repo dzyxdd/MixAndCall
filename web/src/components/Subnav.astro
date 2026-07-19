@@ -1,0 +1,81 @@
+---
+interface Props {
+  /** 信息架构上一级（站内「返回」，非 history.back） */
+  backHref: string;
+  backLabel: string;
+  /** 歌曲页：支持 ?from=stage&id=&label= 显示来源公演 */
+  allowStageOrigin?: boolean;
+}
+
+const { backHref, backLabel, allowStageOrigin = false } = Astro.props;
+---
+
+<nav class="subnav" aria-label="页面路径" data-subnav data-allow-stage={allowStageOrigin ? '' : undefined}>
+  <a class="back-link" href={backHref}>← 返回{backLabel}</a>
+  <a class="origin-link" data-stage-origin hidden href="#">来自公演</a>
+</nav>
+
+{
+  allowStageOrigin ? (
+    <script>
+      const root = document.querySelector<HTMLElement>('[data-subnav][data-allow-stage]');
+      const origin = root?.querySelector<HTMLAnchorElement>('[data-stage-origin]');
+      if (root && origin) {
+        const params = new URLSearchParams(window.location.search);
+        if (params.get('from') === 'stage') {
+          const id = params.get('id');
+          const label = params.get('label');
+          if (id && label) {
+            origin.href = `/songs/#stage-${encodeURIComponent(id)}`;
+            origin.textContent = `来自：${label}`;
+            origin.hidden = false;
+          }
+        }
+      }
+    </script>
+  ) : null
+}
+
+<style>
+  .subnav {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.65rem 1rem;
+    margin: 0 0 1rem;
+  }
+
+  .back-link {
+    display: inline-flex;
+    align-items: center;
+    min-height: var(--touch);
+    padding: 0.45rem 1rem;
+    border: 1px solid var(--line);
+    border-radius: 0.55rem;
+    background: var(--bg-elevated);
+    color: var(--ink);
+    font-weight: 600;
+    font-size: 0.95rem;
+    text-decoration: none;
+  }
+
+  .back-link:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+
+  .origin-link {
+    display: inline-flex;
+    align-items: center;
+    min-height: var(--touch);
+    padding: 0.35rem 0.25rem;
+    font-size: 0.9rem;
+    color: var(--muted);
+    text-decoration: none;
+  }
+
+  .origin-link:hover {
+    color: var(--accent);
+    text-decoration: underline;
+  }
+</style>

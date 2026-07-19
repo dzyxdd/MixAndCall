@@ -1,0 +1,121 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const externalForm = import.meta.env.PUBLIC_EXTERNAL_FORM_URL as string | undefined;
+const apiBase = (import.meta.env.PUBLIC_API_BASE as string | undefined) ?? '';
+---
+
+<BaseLayout title="投稿 · MixAndCall" current="submit">
+  <h1>投稿</h1>
+  <p class="lede">提交后将创建 GitHub Issue。推荐文本 call 本。</p>
+
+  <form class="form" id="submit-form">
+    <label>
+      类型
+      <select name="kind" required>
+        <option value="mix">新 mix</option>
+        <option value="callbook">新 call 本</option>
+        <option value="fix">纠错</option>
+        <option value="other">其它</option>
+      </select>
+    </label>
+    <label>
+      标题
+      <input name="title" required minlength="2" maxlength="120" />
+    </label>
+    <label>
+      内容
+      <textarea name="body" required minlength="10" maxlength="8000" rows="8"></textarea>
+    </label>
+    <label>
+      联系方式（可选）
+      <input name="contact" maxlength="120" />
+    </label>
+    <input class="hp" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" />
+    <button type="submit">提交为 GitHub Issue</button>
+    <p class="status" id="status" role="status"></p>
+  </form>
+
+  {
+    externalForm ? (
+      <p class="alt">
+        也可使用外链收集：
+        <a href={externalForm} target="_blank" rel="noopener">
+          打开表单
+        </a>
+      </p>
+    ) : (
+      <p class="alt">维护者也可直接改 <code>content/</code> 并开 PR（见 Skills）。</p>
+    )
+  }
+</BaseLayout>
+
+<script define:vars={{ apiBase }}>
+  const form = document.getElementById('submit-form');
+  const status = document.getElementById('status');
+  form?.addEventListener('submit', async (ev) => {
+    ev.preventDefault();
+    if (!form || !status) return;
+    status.textContent = '提交中…';
+    const data = new FormData(form);
+    const payload = Object.fromEntries(data.entries());
+    try {
+      const res = await fetch(`${apiBase}/api/submit`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload),
+      });
+      const json = await res.json();
+      if (!res.ok || !json.ok) {
+        status.textContent = `失败：${json.error || res.status}`;
+        return;
+      }
+      status.innerHTML = `已创建 Issue：<a href="${json.issueUrl}" target="_blank" rel="noopener">查看</a>`;
+      form.reset();
+    } catch {
+      status.textContent = '网络错误';
+    }
+  });
+</script>
+
+<style>
+  .form {
+    display: grid;
+    gap: 0.85rem;
+    margin: 1rem 0 1.5rem;
+  }
+  label {
+    display: grid;
+    gap: 0.35rem;
+    font-weight: 600;
+  }
+  input,
+  select,
+  textarea,
+  button {
+    font: inherit;
+    min-height: var(--touch);
+    padding: 0.55rem 0.75rem;
+    border: 1px solid var(--line);
+    border-radius: 0.65rem;
+    background: var(--bg-elevated);
+  }
+  button {
+    background: var(--accent);
+    color: var(--accent-ink);
+    border-color: var(--accent);
+    font-weight: 700;
+    cursor: pointer;
+  }
+  .hp {
+    position: absolute;
+    left: -9999px;
+    height: 0;
+    width: 0;
+    opacity: 0;
+  }
+  .status,
+  .alt {
+    color: var(--muted);
+  }
+</style>

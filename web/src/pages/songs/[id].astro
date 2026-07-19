@@ -1,0 +1,66 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import CallbookView from '../../components/CallbookView.astro';
+import Subnav from '../../components/Subnav.astro';
+import { getSong, getSongs } from '../../lib/content';
+
+export function getStaticPaths() {
+  return getSongs().map((song) => ({ params: { id: song.id } }));
+}
+
+const { id } = Astro.params;
+const song = getSong(id!);
+if (!song) throw new Error(`song not found: ${id}`);
+
+let firstImageAssigned = false;
+---
+
+<BaseLayout title={`${song.title} · MixAndCall`} current="songs">
+  <Subnav backHref="/songs/" backLabel="曲库" allowStageOrigin />
+  <h1>{song.title}</h1>
+  {
+    song.versions.map((version) => (
+      <section class="version">
+        <h2>{version.title}</h2>
+        {version.summary ? (
+          <details open>
+            <summary>省流版</summary>
+            <ul>
+              {Object.entries(version.summary).map(([k, vals]) => (
+                <li>
+                  {k}：{vals.map((v) => `【${v}】`).join('')}
+                </li>
+              ))}
+            </ul>
+          </details>
+        ) : null}
+        {version.callbooks.map((book) => {
+          const isPriority = !firstImageAssigned && book.format === 'image';
+          if (isPriority) firstImageAssigned = true;
+          return <CallbookView book={book} priority={isPriority} />;
+        })}
+        {version.callbooks.length === 0 ? <p class="empty">暂无 call 本</p> : null}
+      </section>
+    ))
+  }
+</BaseLayout>
+
+<style>
+  .version {
+    margin: 1.25rem 0 2rem;
+  }
+  .version h2 {
+    margin: 0 0 0.75rem;
+    font-size: 1.15rem;
+  }
+  .empty {
+    color: var(--muted);
+  }
+
+  /* 宽屏：call 本阅读区略收，避免图片拉得过宽 */
+  @media (min-width: 1200px) {
+    .version {
+      max-width: 56rem;
+    }
+  }
+</style>

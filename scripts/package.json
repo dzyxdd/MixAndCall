@@ -1,0 +1,20 @@
+{
+  "name": "scripts",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "migrate": "tsx src/migrate.ts",
+    "validate": "tsx src/validate.ts",
+    "build-index": "tsx src/build-search-index.ts",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0",
+    "vitest": "^3.0.0"
+  },
+  "dependencies": {
+    "minisearch": "^7.2.0",
+    "zod": "^4.4.3"
+  }
+}

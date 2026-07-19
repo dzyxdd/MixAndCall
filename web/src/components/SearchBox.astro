@@ -1,0 +1,176 @@
+---
+interface Props {
+  autofocus?: boolean;
+  compact?: boolean;
+}
+const { autofocus = false, compact = false } = Astro.props;
+const inputId = compact ? 'site-q' : 'q';
+---
+
+<div class:list={['search', compact && 'search--compact']} data-search-root>
+  <label class="visually-hidden" for={inputId}>搜索</label>
+  <input
+    id={inputId}
+    class="search-input"
+    type="search"
+    placeholder="搜索歌名 / 公演 / mix…"
+    autocomplete="off"
+    autofocus={autofocus}
+  />
+  <ul class="results" data-results hidden></ul>
+</div>
+
+<script>
+  import MiniSearch from 'minisearch';
+
+  type Doc = {
+    type: string;
+    id: string;
+    title: string;
+    aliases: string[];
+    tags: string[];
+    body: string;
+    href: string;
+    key?: string;
+  };
+
+  function tokenize(text: string): string[] {
+    const tokens: string[] = [];
+    const ascii = text.toLowerCase().match(/[a-z0-9]+/g) ?? [];
+    tokens.push(...ascii);
+    const cjk = text.match(/[\u3040-\u30ff\u3400-\u9fff]/g) ?? [];
+    tokens.push(...cjk);
+    for (let i = 0; i < cjk.length - 1; i += 1) tokens.push(cjk[i] + cjk[i + 1]);
+    return tokens;
+  }
+
+  const root = document.querySelector<HTMLElement>('[data-search-root]');
+  const input = root?.querySelector<HTMLInputElement>('input[type="search"]');
+  const list = root?.querySelector<HTMLUListElement>('[data-results]');
+  if (!root || !input || !list) throw new Error('search root missing');
+
+  let engine: MiniSearch<Doc> | null = null;
+
+  async function ensureEngine() {
+    if (engine) return engine;
+    const res = await fetch('/search-index.json');
+    const docs = (await res.json()) as Doc[];
+    engine = new MiniSearch<Doc>({
+      fields: ['title', 'aliases', 'tags', 'body'],
+      storeFields: ['type', 'id', 'title', 'href', 'body', 'tags'],
+      idField: 'key',
+      tokenize: (t) => tokenize(String(t)),
+      processTerm: (t) => t.toLowerCase(),
+    });
+    engine.addAll(docs.map((d) => ({ ...d, key: `${d.type}:${d.id}` })));
+    return engine;
+  }
+
+  let timer: number | undefined;
+  input.addEventListener('input', () => {
+    window.clearTimeout(timer);
+    timer = window.setTimeout(async () => {
+      const q = input.value.trim();
+      if (!q) {
+        list.hidden = true;
+        list.innerHTML = '';
+        return;
+      }
+      const mini = await ensureEngine();
+      const hits = mini.search(q, { prefix: true, fuzzy: 0.2 }).slice(0, 20);
+      list.innerHTML = hits
+        .map(
+          (h) =>
+            `<li><a href="${h.href}"><span class="t">${h.type}</span> ${escapeHtml(String(h.title))}</a></li>`,
+        )
+        .join('');
+      list.hidden = hits.length === 0;
+      if (hits.length === 0) {
+        list.innerHTML = '<li class="empty">无结果</li>';
+        list.hidden = false;
+      }
+    }, 200);
+  });
+
+  function escapeHtml(s: string) {
+    return s.replace(/[&<>"']/g, (c) =>
+      ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]!,
+    );
+  }
+</script>
+
+<style>
+  .search {
+    position: relative;
+    margin-bottom: 1.25rem;
+  }
+
+  .search--compact {
+    margin-bottom: 0;
+  }
+
+  .search-input {
+    width: 100%;
+    min-height: var(--touch);
+    padding: 0.75rem 1rem;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    background: var(--bg-elevated);
+    font: inherit;
+  }
+
+  .search--compact .search-input {
+    min-height: 2.5rem;
+    padding: 0.45rem 0.9rem;
+    font-size: 0.92rem;
+  }
+
+  .results {
+    list-style: none;
+    margin: 0.4rem 0 0;
+    padding: 0.35rem;
+    border: 1px solid var(--line);
+    border-radius: 0.75rem;
+    background: var(--bg-elevated);
+    max-height: min(60vh, 22rem);
+    overflow: auto;
+    position: absolute;
+    left: 0;
+    right: 0;
+    z-index: 40;
+    box-shadow: 0 8px 24px color-mix(in srgb, var(--ink) 12%, transparent);
+  }
+
+  .results a {
+    display: block;
+    padding: 0.65rem 0.75rem;
+    color: var(--ink);
+    text-decoration: none;
+    border-radius: 0.5rem;
+  }
+
+  .results a:hover {
+    background: color-mix(in srgb, var(--accent) 10%, transparent);
+  }
+
+  .t {
+    display: inline-block;
+    min-width: 3.2rem;
+    color: var(--muted);
+    font-size: 0.8rem;
+    text-transform: uppercase;
+  }
+
+  .empty {
+    padding: 0.75rem;
+    color: var(--muted);
+  }
+
+  .visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+  }
+</style>

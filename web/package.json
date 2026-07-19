@@ -1,0 +1,26 @@
+{
+  "name": "web",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sync-assets": "node ./scripts/sync-assets.mjs",
+    "optimize-previews": "node ./scripts/optimize-previews.mjs",
+    "emit-mix-payloads": "node ./scripts/emit-mix-payloads.mjs",
+    "prepare-assets": "npm run sync-assets && npm run optimize-previews && npm run emit-mix-payloads",
+    "dev": "npm run prepare-assets && astro dev",
+    "build": "npm run prepare-assets && astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "astro": "^5.10.0",
+    "hono": "^4.12.30",
+    "minisearch": "^7.2.0"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20260702.1",
+    "@types/node": "^22.10.0",
+    "sharp": "^0.35.3",
+    "typescript": "^5.7.0",
+    "wrangler": "^4.86.0"
+  }
+}

@@ -1,0 +1,9 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="公演曲库 · MixAndCall" current="songs">
+  <p class="lede">正在前往曲库公演曲…</p>
+  <p><a href="/songs/#stages">如果没有自动跳转，点这里</a></p>
+  <script>location.replace('/songs/#stages');</script>
+</BaseLayout>

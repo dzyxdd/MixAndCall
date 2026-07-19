@@ -1,0 +1,91 @@
+---
+import CopyButton from './CopyButton.astro';
+
+interface Props {
+  mixId: string;
+  textList: Array<{ lang: string; text: string; notes?: string }>;
+  /** page：详情页平铺；embed：列表内嵌时可折叠 */
+  variant?: 'page' | 'embed';
+}
+const { mixId, textList, variant = 'page' } = Astro.props;
+---
+
+<div class:list={['mix-texts', variant === 'embed' && 'mix-texts--embed']}>
+  {
+    textList.map((item, i) => {
+      const id = `${mixId}-text-${i}`;
+      if (variant === 'embed') {
+        return (
+          <details class="mix-block" open={i === 0}>
+            <summary>
+              <span>{item.lang}</span>
+              <CopyButton targetId={id} />
+            </summary>
+            <pre id={id} class="mix-pre">{item.text}</pre>
+            {item.notes ? <p class="notes">{item.notes}</p> : null}
+          </details>
+        );
+      }
+      return (
+        <section class="mix-block mix-block--page">
+          <header class="mix-head">
+            <h2>{item.lang}</h2>
+            <CopyButton targetId={id} />
+          </header>
+          <pre id={id} class="mix-pre">{item.text}</pre>
+          {item.notes ? <p class="notes">{item.notes}</p> : null}
+        </section>
+      );
+    })
+  }
+</div>
+
+<style>
+  .mix-block {
+    margin-bottom: 0.75rem;
+    border: 1px solid var(--line);
+    border-radius: 0.75rem;
+    background: var(--bg-elevated);
+    padding: 0.5rem 0.75rem;
+  }
+
+  .mix-block--page {
+    padding: 0.85rem 1rem 1rem;
+  }
+
+  .mix-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem;
+    margin-bottom: 0.35rem;
+  }
+
+  .mix-head h2 {
+    margin: 0;
+    font-size: 1rem;
+  }
+
+  summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem;
+    cursor: pointer;
+    font-weight: 600;
+    min-height: var(--touch);
+  }
+
+  .mix-pre {
+    white-space: pre-wrap;
+    word-break: break-word;
+    margin: 0.5rem 0 0;
+    font-family: ui-monospace, 'IBM Plex Mono', Consolas, monospace;
+    font-size: 0.92rem;
+  }
+
+  .notes {
+    color: var(--muted);
+    font-size: 0.9rem;
+  }
+</style>

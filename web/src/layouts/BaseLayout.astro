@@ -1,0 +1,86 @@
+---
+import '../styles/global.css';
+import RegisterSw from '../components/RegisterSw.astro';
+import SearchBox from '../components/SearchBox.astro';
+
+interface Props {
+  title?: string;
+  description?: string;
+  current?: 'home' | 'mixes' | 'songs' | 'submit';
+}
+
+const {
+  title = 'MixAndCall',
+  description = 'SNH48 Group call本曲库 / call&mix',
+  current = 'home',
+} = Astro.props;
+
+/** 投稿密钥未配齐前不在导航露出；直达 /submit/ 仍可用。配好 GITHUB_TOKEN 后改回 true。 */
+const SHOW_SUBMIT_NAV = false;
+
+const nav = [
+  { href: '/', id: 'home', label: '首页' },
+  { href: '/mixes/', id: 'mixes', label: 'mix' },
+  { href: '/songs/', id: 'songs', label: '曲库' },
+  ...(SHOW_SUBMIT_NAV
+    ? ([{ href: '/submit/', id: 'submit', label: '投稿' }] as const)
+    : []),
+];
+---
+
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <title>{title}</title>
+    <link
+      rel="preload"
+      href="/fonts/ibm-plex-sans-latin-400-normal.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+  </head>
+  <body>
+    <div class="shell">
+      <header class="site-header">
+        <div class="header-bar">
+          <a class="brand" href="/">Mix&amp;Call</a>
+          <nav class="top-nav" aria-label="主导航">
+            {
+              nav.map((item) => (
+                <a
+                  href={item.href}
+                  aria-current={current === item.id ? 'page' : undefined}
+                >
+                  {item.label}
+                </a>
+              ))
+            }
+          </nav>
+          <div class="header-search">
+            <SearchBox autofocus={current === 'home'} compact />
+          </div>
+        </div>
+      </header>
+      <main class="site-main">
+        <slot />
+      </main>
+      <nav class="bottom-nav" aria-label="主导航">
+        {
+          nav.map((item) => (
+            <a
+              href={item.href}
+              aria-current={current === item.id ? 'page' : undefined}
+            >
+              {item.label}
+            </a>
+          ))
+        }
+      </nav>
+    </div>
+    <RegisterSw />
+  </body>
+</html>
