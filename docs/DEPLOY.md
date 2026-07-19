@@ -93,7 +93,9 @@ npx wrangler dev
 ## 7. 旧链接
 
 - GitHub：CI 把 `redirect/github` 发到 `gh-pages`（需 push 且配好 `GITHUB_TOKEN` 权限）
-- GitLab：`.gitlab-ci.yml` 发 `redirect/gitlab`
+- GitLab：CI 用 `SvanBoxel/gitlab-mirror-and-ci-action` 镜像到 `gitlab.com/dzyxdd/mixandcall`，再由 `.gitlab-ci.yml` 发 `redirect/gitlab` Pages  
+  - GitHub Secret：`GITLAB_PASSWORD`（GitLab Personal Access Token，需 `write_repository`；可再加 `api` 以便触发 Pipeline）  
+  - 与 Cloudflare Secrets 无关；过期后只影响 GitLab 同步，需重新生成并更新 Secret
 - 跳转目标当前可为 `https://mixandcall.pages.dev`；自定义域就绪后再改回 `https://dzyxdd.io`
 
 ## 关于 workers.onboarding 404
