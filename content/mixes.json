@@ -11112,5 +11112,60 @@
     "text_list_size": 1,
     "notes": "",
     "link_list": []
+  },
+  {
+    "id": "シンデレラ口上",
+    "title": "シンデレラ口上",
+    "mix_tag_list": [
+      "10小節"
+    ],
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "Mahouni Kakerare Kakedashita\nYumeno Youna Butoukai\nJuusangatsuno Kisetsuga Sugitemo\nGarasuno Kutsuga Dareyori Niau\n〇〇〇wa Oreno Shinderera",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "魔法にかけられ駆け出した\n夢のような舞踏会\n13月の季節が過ぎても\nガラスの靴が誰より似合う\n○○○は俺のシンデレラ",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "",
+    "link_list": [
+      {
+        "title": "シンデレラ口上",
+        "url": "https://www.tiktok.com/@zennipponchekitarinai/video/7660500366403980562"
+      }
+    ]
+  },
+  {
+    "id": "花火三連",
+    "title": "花火三連",
+    "mix_tag_list": [
+      "12小節",
+      "16小節"
+    ],
+    "text_list": [
+      {
+        "lang": "罗马字",
+        "text": "Uchiagero~! Uchiagero~!\nGo! Yon! San Ni Ichi!\nKiku Botan Taki Hachi\nSenrin Youraku Kamurogiku\nKatamono Gunchou Mangekyou\nHiyuusei Kasumisou\nSazanami Zanrin Benikourou\nYanagi Hanarai Suta-main",
+        "notes": ""
+      },
+      {
+        "lang": "日语",
+        "text": "打ち上げろ〜！打ち上げろ〜！\n５！４！３２１！（始動）\n菊(きく)　牡丹(ぼたん)　滝(たき)　蜂(はち)\n千輪(せんりん)　葉落(ようらく)　冠菊(かむろぎく)\n型物(かたもの)　郡蝶(ぐんちょう)　万華鏡(まんげきょう)\n飛遊星(ひゆうせい)　カスミ草(かすみそう)\n細波(さざなみ)　残輪(ざんりん)　紅光露(べにこうろ)\n柳(やなぎ)　花雷(はならい)　スターマイン",
+        "notes": ""
+      }
+    ],
+    "text_list_size": 2,
+    "notes": "",
+    "link_list": [
+      {
+        "title": "花火三連",
+        "url": "https://www.tiktok.com/@pecoramu0/video/7444856552655179015"
+      }
+    ]
   }
 ]
